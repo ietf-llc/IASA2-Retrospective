@@ -4,6 +4,10 @@ BCP 101 Requirement: The IETF LLC, with the involvement of the community, shall 
 
 12 April 2021: Blog post on proposed process - https://www.ietf.org/blog/iasa2-three-year-review-process/
 
-XX May 2021: XX
+23 June 2021: Blog posy on first draft & start of input/revision process - XXXXX
 
-XX June 2021: Start of community feedback process
+July - September: Regular revision of the assessment based on community input.
+
+October: Write a report for the community on the results of the retrospective, including any recommendations for future work.
+
+November: Present the report during the IETF 112 meeting plenary.
