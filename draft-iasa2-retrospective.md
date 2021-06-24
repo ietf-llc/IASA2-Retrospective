@@ -406,7 +406,7 @@ Should the IETF LLC generate an annual budget surplus, it may choose to direct a
  \
 Status: Achieved / On Track with Suggested Action Items \
  \
-Comments: The LLC continued to maintain an operating reserve fund. As of June 2021, the operating reserve balance is over $5,200,0001. The LLC [Board?] believes this reserve is sufficient at this time, based on the organization’s projected expenses. \
+Comments: The LLC continued to maintain an operating reserve fund. As of June 2021, the operating reserve balance is over $5,200,0001. The LLC believes this reserve is sufficient at this time, based on the organization’s projected expenses. \
  \
 In addition, we propose two financial-related actions that should be made a part of the IETF LLC’s annual budget process. First, the LLC should annually update and specify the financial target for reserve-related funds. Second, the LLC should annually review all reserve-related funds and the [Investment Policy](https://www.ietf.org/media/documents/IETF_IPS_ADOPTED_20191218_REDACTED.pdf), and update these as necessary. These reviews would be best timed to coincide with the annual budget process.
 
