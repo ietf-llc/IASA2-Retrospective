@@ -246,7 +246,7 @@ Comments: This requirement is more fully explained in [Section 6.3 of RFC 8711](
 
 
 
-33. **Requirement**:[FN-1] Meet the following goals: 
+33. **Requirement**:[^1] Meet the following goals: 
 
 - Balance the need for the IETF LLC to be accountable to the IETF community with the need for this Board to have the expertise necessary to oversee a small non-profit company.  
 - Focus on the it’s limited set of strategic responsibilities as noted in [Section 5.2 of RFC 8711](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-llc-board-responsibili) (enumerated here in Requirements 16 - 32). 
@@ -668,4 +668,4 @@ future (perhaps every 2 - 3 years)?_
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
-[FN-1]: Paraphrased from: [https://www.rfc-editor.org/rfc/rfc8711.html#name-board-design-goals](https://www.rfc-editor.org/rfc/rfc8711.html#name-board-design-goals)
+[^1]: Paraphrased from: [https://www.rfc-editor.org/rfc/rfc8711.html#name-board-design-goals](https://www.rfc-editor.org/rfc/rfc8711.html#name-board-design-goals)
