@@ -565,9 +565,10 @@ _Question during community review: What else would the community like to see wit
 56. **Requirement**: Re-Define the Role of the IETF Community in Relation to Administrative Activities: As the roles and responsibilities for support staff and volunteer roles are clarified more precisely, the role of the IETF community in relation to those staff and volunteer roles must be better defined.  This should acknowledge the limited time and availability of IETF volunteers, better defining expectations around oversight of and involvement in strategic, operational, and execution tasks within the administrative efforts. \
  \
 The new design needs to ensure that volunteers are not overloaded in such things as low level operational decisions, which can be delegated to and handled by staff, and can instead focus on strategic changes, critical decisions, and so on.  In particular, this should focus on clearly documenting the lines between responsibility, representation, authority, and oversight. 
- 
-
+\ 
+\
 Status: &#x1F7E2;Achieved / On Track \
+ \
  \
 Comments: This was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC. See also the response above to Requirement 50. 
 
