@@ -68,8 +68,8 @@ Comments: The IETF LLC publishes its policies at [Policies & Procedures](https:/
  \
 Status:	Achieved / On Track \
  \
-Comments: The IETF LLC Board meets monthly, with meetings open to the community. The only items kept confidential relate to contract negotiations, contractor reviews, personnel matters or in some cases the exact financial rates in published contracts. The same level of transparency and access applies to the yearly IETF LLC Board strategic meetings. All items are available on the IETF website via the [IETF LLC webpage](https://www.ietf.org/about/administration). \
-
+Comments: The IETF LLC Board meets monthly, with meetings open to the community. The only items kept confidential relate to contract negotiations, contractor reviews, personnel matters or in some cases the exact financial rates in published contracts. The same level of transparency and access applies to the yearly IETF LLC Board strategic meetings. All items are available on the IETF website via the [IETF LLC webpage](https://www.ietf.org/about/administration). 
+\
 6. **Requirement:** Responsiveness to the community. The IETF LLC is expected to act consistently with the documented consensus of the IETF community, to be responsive to the community's needs, and to adapt its decisions in response to consensus-based community feedback. \
  \
 Status:	Achieved / On Track \
