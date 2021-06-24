@@ -274,21 +274,21 @@ In addition, despite the debate during the IASA2 WG process over whether the IET
  \
 Discussion Area 1: The NomCom process is defined in [RFC 8713. Section 3.2](https://www.rfc-editor.org/rfc/rfc8713.html) states that “The NomCom will be given the titles of the positions to be reviewed and a brief summary of the desired expertise of the candidate that is selected to fill each position”. This means that each group with a position up for consideration (IESG, IAB, IETF Trust, IETF LLC) provides the NomCom with their summary of desired expertise. In the case of the IETF LLC, the requirements shared with the NomCom have been developed based on [RFC 8711](https://www.rfc-editor.org/rfc/rfc8711.html) and the document used in the past is [available here](https://github.com/ietf-llc/IASA2-Retrospective/blob/main/References/LLC%20Director%20Role%20Description.pdf) (derived from the Board responsibilities in RFC 8711, [Section 4.3](https://www.rfc-editor.org/rfc/rfc8711.html#name-general-ietf-llc-responsibi) and [Section 5.2](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-llc-board-responsibili)). The Board may additionally prioritize or emphasize certain skills and experience. For example, in the last NomCom cycle, the Board emphasized the need for non-profit fundraising experience based on the knowledge that a new funding agreement with ISOC was being negotiated, that this included a novel new fundraising matching program that the LLC wanted to leverage, that a role for a Director of Development needed to be defined and then recruited for, and that an initial new fundraising strategy and plan needed to be developed. \
  \
-_Question during community review / proposed action: The IETF LLC proposes running an annual process (slated for July) in advance of the start 
+_Question during community review / proposed action (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/2): The IETF LLC proposes running an annual process (slated for July) in advance of the start 
 of annual NomCom nominations (typically late August) for the community to comment on the requirements that will be sent to the NomCom for IETF 
 LLC director roles. Does the community have any concerns with the Board doing so, provided that the requirements remain within the scope of the 
 relevant LLC-related BCPs/RFCs? In addition, should this annual process be formally defined in a new LLC policy that is open to community review 
 and consensus?_ \
  \
-_Question during community review: Should the community consider updating RFC 8713 to empower the NomCom to independently run a formal community 
+_Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/3): Should the community consider updating RFC 8713 to empower the NomCom to independently run a formal community 
 consensus process for annually confirming or changing (adding/deleting) requirements shared by the IESG, IAB, IETF Trust, and IETF LLC after they 
 have been provided by those bodies to the NomCom?_ \
  \
-_Question during community review: Or, instead of the NomCom running that annual community consensus process, should the community consider updating 
+_Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/3): Or, instead of the NomCom running that annual community consensus process, should the community consider updating 
 RFC 8713 to require that each body (IAB, IESG, IETF Trust, IETF LLC) run their own annual community consensus process to confirm or change the 
 requirements that they will send to the NomCom? Or is that best left to each group to determine on their own without changing RFC 8713?_ \
 \
-_Question during community review: Or, should the community consider updating RFC 8713 to empower the NomCom to run an annual formal community 
+_Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/3): Or, should the community consider updating RFC 8713 to empower the NomCom to run an annual formal community 
 consensus process to independently define the roles and responsibilities for IESG, IAB, IETF Trust, and IETF LLC roles (for example updating the 
 roles and responsibilities of [BCP 39](https://www.rfc-editor.org/rfc/rfc2850.html) for the IAB)? As a result, each body would not need to provide 
 requirements to the NomCom, as the NomCom itself would be empowered to independently define those requirements._ \
@@ -522,7 +522,7 @@ Comments: This remains a key focus for the LLC, as there continues to be technic
  \
 We also observed that tension arose in the process of working towards meeting this requirement, as the LLC attempted (as required) to better define roles, responsibilities, and accountability between contractors and volunteers - especially when an individual was simultaneously both a contractor and a volunteer in a specific context. This appears to have been resolved and as the technical platforms of the IETF evolve it appears that roles, responsibilities, and accountabilities are becoming more clear cut and easier to understand. \
  \
-_Question during community review: are there any remaining gaps or issues related to the definition of roles, responsibilities, and accountability between contractors and volunteers? How should the process of prioritizing long-term technical work function or be improved? _ \
+_Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/4): are there any remaining gaps or issues related to the definition of roles, responsibilities, and accountability between contractors and volunteers? How should the process of prioritizing long-term technical work function or be improved? _ \
 
 51. **Requirement**: Clearly Define the IETF-ISOC Relationship: Define the roles of IETF and ISOC in a way that helps the above structure be as clear as possible, in terms of who does what, how are things accounted for, and who is in charge of adjustments and control (e.g., staff resources).  This also includes consideration of a new funding model that takes into account the historical responsibility for the IETF that ISOC has had since its inception. \
  \
@@ -550,7 +550,7 @@ Status: Possibly Achieved - Comment Requested  \
  \
 Comments: This LLC believes that this was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC, as well as [initial policies](https://www.ietf.org/about/administration/policies-procedures/), [contractor agreements](https://www.ietf.org/about/administration/rfps-and-contracts/), and [delegated authorities policy](https://www.ietf.org/media/documents/IETF_LLC_Delegated_Authorities_2020-06-11.pdf). However, in attempting to meet this requirement the LLC experienced some challenges in clarifying roles and responsibilities in cases when an individual may be both a contractor as well as a volunteer. \
  \
-_Question during community review: Is there more to do here? If so, what specifically should be further clarified or relaxed? Are there alternative ways of approaching this issue?_ \
+_Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/5): Is there more to do here? If so, what specifically should be further clarified or relaxed? Are there alternative ways of approaching this issue?_ \
 
 55. **Requirement**: Define Support Staff Roles and Responsibilities: Clearly define the roles of the oversight entities and staff/contractors to match the expanded work scope facing the IETF.  Ensure that any changes create a structure that can adapt flexibly to future growth and other changes (including changes in IETF community expectations, such as increased transparency or more rapid decision-making). \
  \
@@ -610,9 +610,9 @@ Status: Partly Achieved / In Progress \
  \
 Comments: During the IASA2 transition and bootstrapping process, we are pleased that no sponsors or funding has been lost. In addition, a [new funding agreement](https://www.ietf.org/blog/isoc-financial-commitment/) with a novel matching program has been agreed upon with ISOC. There is also a [revised sponsorship program](https://www.ietf.org/blog/revised-ietf-sponsorship-program/) that is successfully attracting interest and incremental funding, a [revised endowment policy](https://www.ietf.org/about/administration/policies-procedures/endowment-policy/), a structure for [online-only meeting registration fees](https://mailarchive.ietf.org/arch/msg/ietf-announce/B6mndcJUVrU1tNkx0ueVQkawlLU/), and a newly hired Director of Development to lead the IETF’s fundraising efforts. These are all long-term efforts that will take time to bear fruit. However, one area for action is determining what the meeting registration structure should look like for a post-COVID-19 era of hybrid meetings. \
  \
-_Question during community review: Please be prepared for a consultation on hybrid meetings prior to the start of registration for IETF-112, which may be a hybrid meeting (as well as a consultation on whether it is possible to hold in person due to COVID-19, as has occurred for meetings in 2020-2021). \
+_Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/6): Please be prepared for a consultation on hybrid meetings prior to the start of registration for IETF-112, which may be a hybrid meeting (as well as a consultation on whether it is possible to hold in person due to COVID-19, as has occurred for meetings in 2020-2021). \
  \
-Question during community review: The LLC does not know what the post-COVID-19 meeting and travel environment will be like. It seems possible that the nature or desirability of in-person meetings has been fundamentally altered and that some IETF meetings might effectively be conducted entirely online. At the same time it has also been apparent that in-person IETF meetings help to build and maintain relationships and can be a vehicle to improve collaboration and spur the development of new work. Does this mean that each future meeting should be hybrid, or that some number of meetings are hybrid and while others are online only, or something else? The IETF may wish to consider undertaking a community effort to explore these important questions further (which may be beyond the scope of the current [SHMOO working group](https://datatracker.ietf.org/wg/shmoo/about/))._
+Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/6): The LLC does not know what the post-COVID-19 meeting and travel environment will be like. It seems possible that the nature or desirability of in-person meetings has been fundamentally altered and that some IETF meetings might effectively be conducted entirely online. At the same time it has also been apparent that in-person IETF meetings help to build and maintain relationships and can be a vehicle to improve collaboration and spur the development of new work. Does this mean that each future meeting should be hybrid, or that some number of meetings are hybrid and while others are online only, or something else? The IETF may wish to consider undertaking a community effort to explore these important questions further (which may be beyond the scope of the current [SHMOO working group](https://datatracker.ietf.org/wg/shmoo/about/))._
 
 [Section 5.6.3](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-5.6.3) - [Funding] Level
 
@@ -655,14 +655,14 @@ potential changes to the legal structure of the IETF Trust. There are at least t
 IETF Trust alone or in partnership with the IETF LLC should conduct a community consultation concerning this issue and potential future changes in legal 
 structure for the IETF Trust that would better protect those experts that serve the IETF Trust while also maintaining close alignment with the IETF._
 
-_Question during community review: What should the next steps be here?_
+_Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/7): What should the next steps be here?_
 
 **D. Other Gaps**
 
  \
 List any additional administrative, financial, legal, or operational gaps; areas of improvement; and any areas of under-specification or over-specification in IASA2 documents that the IETF LLC Board, IETF Secretariat, IETF Executive Director, or the IETF community perceive that have not already been addressed in prior sections of this document. 
 
-_Questions during community review: What would you like to see here? We did not have anything specific in mind but wanted to provide a more free-form 
+_Questions during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/8): What would you like to see here? We did not have anything specific in mind but wanted to provide a more free-form 
 section for comments that may not have fit in any of the prior sections. Also, how frequently should these retrospectives be performed in the 
 future (perhaps every 2 - 3 years)?_
 
