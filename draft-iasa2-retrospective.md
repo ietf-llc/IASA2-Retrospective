@@ -569,7 +569,6 @@ The new design needs to ensure that volunteers are not overloaded in such things
  \
 Status: &#x1F7E2;Achieved / On Track \
  \
- \
 Comments: This was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC. See also the response above to Requirement 50. 
 
 57. **Requirement**: Define Improved Transparency Requirements: The general level of  operational transparency and information-sharing between IETF administrative staff and groups to the IETF community must be kept at an acceptable level, and improved where it makes sense in the future. This includes ensuring the timeliness of sharing of information and decisions, as well as seeking comment on prospective decisions.  At the same time, we need to reset expectations around delegated authority so that once staff or an administrative support organization has been delegated certain authority it is clear that they are empowered to proceed in a particular area, so as to improve organizational efficiency, reduce friction, and improve the pace of work and decision-making. However, it is clear that enabling a group or staff to act within their delegated authority depends upon a clearer definition of roles and responsibilities, on improved transparency, on improved communications, and on trust (which is built upon all of those things over time) \
