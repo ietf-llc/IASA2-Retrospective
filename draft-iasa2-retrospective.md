@@ -550,16 +550,17 @@ Status: &#x1F7E1; Possibly Achieved - Comment Requested  \
  \
 Comments: This LLC believes that this was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC, as well as [initial policies](https://www.ietf.org/about/administration/policies-procedures/), [contractor agreements](https://www.ietf.org/about/administration/rfps-and-contracts/), and [delegated authorities policy](https://www.ietf.org/media/documents/IETF_LLC_Delegated_Authorities_2020-06-11.pdf). However, in attempting to meet this requirement the LLC experienced some challenges in clarifying roles and responsibilities in cases when an individual may be both a contractor as well as a volunteer. 
  \
-_Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/5): Is there more to do here? If so, what specifically should be further clarified or relaxed? Are there alternative ways of approaching this issue?_ \
+ \
+_Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/5): Is there more to do here? If so, what specifically should be further clarified or relaxed? Are there alternative ways of approaching this issue?_ 
 
 55. **Requirement**: Define Support Staff Roles and Responsibilities: Clearly define the roles of the oversight entities and staff/contractors to match the expanded work scope facing the IETF.  Ensure that any changes create a structure that can adapt flexibly to future growth and other changes (including changes in IETF community expectations, such as increased transparency or more rapid decision-making). \
  \
 Status: &#x1F7E2; Achieved / On Track \
  \
 Comments: This was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC. See also the response above to Requirement 50. In addition, while the initial steps taken to increase transparency were a big step in the right direction, the LLC continues to work to strengthen and improve engagement and feedback processes with the IETF community (noting the challenge in how that community is defined and the wide range of mechanisms for feedback, as well as a first [IETF-wide community survey](https://www.ietf.org/blog/first-annual-ietf-community-survey/)). We also acknowledge that the pandemic has made it impossible to have the informal hallway, break time, or meal time interactions that so often provide an additional channel for feedback. We believe once face-to-face meetings return that being able to resume these informal interactions will further improve the LLC’s ability to receive and act on feedback. 
- \
  
-_Question during community review: What else would the community like to see with regards to transparency or speed of decision-making?_ \
+ 
+_Question during community review: What else would the community like to see with regards to transparency or speed of decision-making?_ 
 
 56. **Requirement**: Re-Define the Role of the IETF Community in Relation to Administrative Activities: As the roles and responsibilities for support staff and volunteer roles are clarified more precisely, the role of the IETF community in relation to those staff and volunteer roles must be better defined.  This should acknowledge the limited time and availability of IETF volunteers, better defining expectations around oversight of and involvement in strategic, operational, and execution tasks within the administrative efforts. \
  \
