@@ -48,11 +48,11 @@ Status: Achieved / On Track \
  \
 Comments:See the [financial statements](https://www.ietf.org/about/administration/financial-statements/) page, which includes links to budgets, financial statements and financial audits.  \
 
-3. **Requirement:** Fundraising. The IETF LLC is responsible for raising money on behalf of the IETF. \
+3. **Requirement:** Fundraising. The IETF LLC is responsible for raising money on behalf of the IETF. 
  \
 Status:  Achieved / On Track \
  \
-Comments: See new ISOC funding agreement with special matching funds ([parts 1](https://www.ietf.org/media/documents/IETF_Funding_Agreement_-_Executed_-_20201123.pdf) and [2](https://www.ietf.org/media/documents/IETF_ISOC_Funding_Amendment_Amendment_-_20201222.pdf)), announcement of [recruitment for fundraiser](https://mailarchive.ietf.org/arch/msg/ietf-announce/qsdI5pBW41G9BN_aGsdJ7pe5Rvk/)  \
+Comments: See new ISOC funding agreement with special matching funds ([parts 1](https://www.ietf.org/media/documents/IETF_Funding_Agreement_-_Executed_-_20201123.pdf) and [2](https://www.ietf.org/media/documents/IETF_ISOC_Funding_Amendment_Amendment_-_20201222.pdf)), announcement of [recruitment for fundraiser](https://mailarchive.ietf.org/arch/msg/ietf-announce/qsdI5pBW41G9BN_aGsdJ7pe5Rvk/)  
 
 4. **Requirement:** Compliance. The IETF LLC is responsible for establishing and enforcing policies to ensure compliance with applicable laws, regulations, and rules. \
  \
@@ -248,9 +248,9 @@ Comments: This requirement is more fully explained in [Section 6.3 of RFC 8711](
 
 33. **Requirement**:[FN-1] Meet the following goals: 
 
-- Balance the need for the IETF LLC to be accountable to the IETF community with the need for this Board to have the expertise necessary to oversee a small non-profit company.  \
-- Focus on the it’s limited set of strategic responsibilities as noted in [Section 5.2 of RFC 8711](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-llc-board-responsibili) (enumerated here in Requirements 16 - 32). \
-- Overcome the challenges described in [Section 3.1.4 of the IASA 2.0 Design Team Recommendations](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-3.1.4) concerning oversight. \
+- Balance the need for the IETF LLC to be accountable to the IETF community with the need for this Board to have the expertise necessary to oversee a small non-profit company.  
+- Focus on the it’s limited set of strategic responsibilities as noted in [Section 5.2 of RFC 8711](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-llc-board-responsibili) (enumerated here in Requirements 16 - 32). 
+- Overcome the challenges described in [Section 3.1.4 of the IASA 2.0 Design Team Recommendations](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-3.1.4) concerning oversight. 
 - Operate transparently to address issues noted in [Section 3.3 of the IASA 2.0 Design Team Recommendations](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-3.3). \
  \
 Status:	Achieved / On Track \
@@ -260,10 +260,10 @@ Comments: The LLC has operated in a manner that meets this requirement. In parti
 
 
 
-34. **Requirement**: There is a minimum of 5 directors, which is expandable to 6 or 7. \
-- 1 IETF Chair or delegate selected by the IESG \
-- 1 Appointed by the ISOC Board of Trustees \
-- 3 Selected by the IETF Nominating Committee (NomCom), confirmed by the IESG \
+34. **Requirement**: There is a minimum of 5 directors, which is expandable to 6 or 7. 
+- 1 IETF Chair or delegate selected by the IESG 
+- 1 Appointed by the ISOC Board of Trustees 
+- 3 Selected by the IETF Nominating Committee (NomCom), confirmed by the IESG 
 - Up to 2 Appointed by the IETF LLC Board itself, on an as-needed basis, confirmed by the IESG \
  \
 Status: Achieved but Identifying Several Discussion Items \
@@ -456,24 +456,24 @@ Comments: [Published here](https://www.ietf.org/about/administration/policies-pr
 
 
 
-47. **Requirement**: The Board is expected to maintain additional policies for the IETF LLC as necessary, covering Directors, employees, and contractors, concerning issues such as: \
+47. **Requirement**: The Board is expected to maintain additional policies for the IETF LLC as necessary, covering Directors, employees, and contractors, concerning issues such as: 
  \
-- Acceptance of gifts and other non-cash compensation \
-- Travel and expense reimbursement \
-- Anti-bribery \
-- Code of conduct \
-- Anti-harassment \
-- Non-discrimination \
-- Whistleblower \
-- Document retention \
-- Export controls \
-- Anti-terrorism sanctions \
-- Data protection and privacy \
+- Acceptance of gifts and other non-cash compensation 
+- Travel and expense reimbursement 
+- Anti-bribery 
+- Code of conduct 
+- Anti-harassment 
+- Non-discrimination 
+- Whistleblower 
+- Document retention 
+- Export controls 
+- Anti-terrorism sanctions 
+- Data protection and privacy 
 - Social media \
  \
 Status: Achieved \
  \
-Comments: Published here for each one -  \
+Comments: Published here for each one -  
 - Acceptance of gifts and other non-cash compensation - [Section 9 of the Code of Conduct](https://www.ietf.org/about/administration/policies-procedures/code-of-conduct/) \
 - Travel and expense reimbursement - [See policy](https://www.ietf.org/about/administration/policies-procedures/travel-expense/) \
 - Anti-bribery - [Section 10 of the Code of Conduct](https://www.ietf.org/about/administration/policies-procedures/code-of-conduct/) \
@@ -522,7 +522,7 @@ Comments: This remains a key focus for the LLC, as there continues to be technic
  \
 We also observed that tension arose in the process of working towards meeting this requirement, as the LLC attempted (as required) to better define roles, responsibilities, and accountability between contractors and volunteers - especially when an individual was simultaneously both a contractor and a volunteer in a specific context. This appears to have been resolved and as the technical platforms of the IETF evolve it appears that roles, responsibilities, and accountabilities are becoming more clear cut and easier to understand. \
  \
-_Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/4): are there any remaining gaps or issues related to the definition of roles, responsibilities, and accountability between contractors and volunteers? How should the process of prioritizing long-term technical work function or be improved? _ \
+_Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/4): are there any remaining gaps or issues related to the definition of roles, responsibilities, and accountability between contractors and volunteers? How should the process of prioritizing long-term technical work function or be improved?_ \
 
 51. **Requirement**: Clearly Define the IETF-ISOC Relationship: Define the roles of IETF and ISOC in a way that helps the above structure be as clear as possible, in terms of who does what, how are things accounted for, and who is in charge of adjustments and control (e.g., staff resources).  This also includes consideration of a new funding model that takes into account the historical responsibility for the IETF that ISOC has had since its inception. \
  \
@@ -534,13 +534,13 @@ Comments: As documented in [RFC 8712](https://www.rfc-editor.org/rfc/rfc8712.htm
  \
 Status: Achieved / On Track \
  \
-Comments: As noted in Requirement 38, a new agreement with ISOC was [announced on 30 November 2020](https://www.ietf.org/blog/isoc-financial-commitment/), which includes a novel new matching funds component. The executed 16 November 2020 [agreement is posted](https://www.ietf.org/media/documents/IETF_Funding_Agreement_-_Executed_-_20201123.pdf), as is a [brief amendment ](https://www.ietf.org/media/documents/IETF_ISOC_Funding_Amendment_Amendment_-_20201222.pdf)from 22 December 2020. In addition, as noted previously, there is now a fee structure in place for [online meetings](https://www.ietf.org/blog/ietf108-registration-fees/) to react to pandemic-driven changes in how we can meet, a [revised sponsorship program](https://www.ietf.org/blog/revised-ietf-sponsorship-program/), and a new[ Director of Development](https://mailarchive.ietf.org/arch/msg/ietf-announce/x9Aacw1UlNqAoQSxbJbyrZZ8IPU/) on staff. The LLC anticipates that over the next 5 to 10 years that the funding sources will diversify as a result of these changes and investments. \
+Comments: As noted in Requirement 38, a new agreement with ISOC was [announced on 30 November 2020](https://www.ietf.org/blog/isoc-financial-commitment/), which includes a novel new matching funds component. The executed 16 November 2020 [agreement is posted](https://www.ietf.org/media/documents/IETF_Funding_Agreement_-_Executed_-_20201123.pdf), as is a [brief amendment ](https://www.ietf.org/media/documents/IETF_ISOC_Funding_Amendment_Amendment_-_20201222.pdf)from 22 December 2020. In addition, as noted previously, there is now a fee structure in place for [online meetings](https://www.ietf.org/blog/ietf108-registration-fees/) to react to pandemic-driven changes in how we can meet, a [revised sponsorship program](https://www.ietf.org/blog/revised-ietf-sponsorship-program/), and a new[ Director of Development](https://mailarchive.ietf.org/arch/msg/ietf-announce/x9Aacw1UlNqAoQSxbJbyrZZ8IPU/) on staff. The LLC anticipates that over the next 5 to 10 years that the funding sources will diversify as a result of these changes and investments. 
 
 53. **Requirement**: Provide Clarity About the IETF-ISOC Financial Arrangements: A redesign needs to clear up ambiguities in the financial arrangements between IETF and ISOC.  It must also be clear to people outside the IETF and ISOC organisations (e.g., sponsors) what the arrangements are and what their contributions affect and do not affect. \
  \
 Status: Achieved \
  \
-Comments: As documented in [RFC 8712](https://www.rfc-editor.org/rfc/rfc8712.html) and noted in Requirement 38, a new agreement with ISOC was [announced on 30 November 2020](https://www.ietf.org/blog/isoc-financial-commitment/). The executed 16 November 2020 [agreement is posted](https://www.ietf.org/media/documents/IETF_Funding_Agreement_-_Executed_-_20201123.pdf), as is a [brief amendment ](https://www.ietf.org/media/documents/IETF_ISOC_Funding_Amendment_Amendment_-_20201222.pdf)from 22 December 2020.  \
+Comments: As documented in [RFC 8712](https://www.rfc-editor.org/rfc/rfc8712.html) and noted in Requirement 38, a new agreement with ISOC was [announced on 30 November 2020](https://www.ietf.org/blog/isoc-financial-commitment/). The executed 16 November 2020 [agreement is posted](https://www.ietf.org/media/documents/IETF_Funding_Agreement_-_Executed_-_20201123.pdf), as is a [brief amendment ](https://www.ietf.org/media/documents/IETF_ISOC_Funding_Amendment_Amendment_-_20201222.pdf)from 22 December 2020.  
 
 54. **Requirement**: Clarify Overall Roles and Responsibilities: Ensure that all staff, contractor, and volunteer roles are clearly documented.  This necessarily includes documenting how each of these parties may interact or interface with one another in order to conduct and support the business of the IETF.  This also includes documenting key work processes, decision-making processes and authority (such as pertaining to meeting venue selection), etc.  A key objective is to minimize ambiguity and uncertainty so that it is clear who is responsible for what and who has the power to make certain decisions. \
  \
@@ -558,8 +558,8 @@ Status: Achieved / On Track \
  \
 Comments: This was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC. See also the response above to Requirement 50. In addition, while the initial steps taken to increase transparency were a big step in the right direction, the LLC continues to work to strengthen and improve engagement and feedback processes with the IETF community (noting the challenge in how that community is defined and the wide range of mechanisms for feedback, as well as a first [IETF-wide community survey](https://www.ietf.org/blog/first-annual-ietf-community-survey/)). We also acknowledge that the pandemic has made it impossible to have the informal hallway, break time, or meal time interactions that so often provide an additional channel for feedback. We believe once face-to-face meetings return that being able to resume these informal interactions will further improve the LLC’s ability to receive and act on feedback. \
  \
-_Question during community review: What else would the community like to see with regards to transparency or speed of decision-making? \
-_
+_Question during community review: What else would the community like to see with regards to transparency or speed of decision-making?_ \
+
 56. **Requirement**: Re-Define the Role of the IETF Community in Relation to Administrative Activities: As the roles and responsibilities for support staff and volunteer roles are clarified more precisely, the role of the IETF community in relation to those staff and volunteer roles must be better defined.  This should acknowledge the limited time and availability of IETF volunteers, better defining expectations around oversight of and involvement in strategic, operational, and execution tasks within the administrative efforts. \
  \
 The new design needs to ensure that volunteers are not overloaded in such things as low level operational decisions, which can be delegated to and handled by staff, and can instead focus on strategic changes, critical decisions, and so on.  In particular, this should focus on clearly documenting the lines between responsibility, representation, authority, and oversight. \
@@ -572,7 +572,7 @@ Comments: This was achieved via the various [RFCs from the IASA2 working group](
  \
 Status: Achieved / On Track \
  \
-Comments: This was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC. See also the [Board/ED Delegated Authorities](https://www.ietf.org/media/documents/IETF_LLC_Delegated_Authorities_2020-06-11.pdf) policy and the [Community Engagement Policy](https://www.ietf.org/about/administration/policies-procedures/community-engagement-policy/). See also the response to Requirement 55 above. \
+Comments: This was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC. See also the [Board/ED Delegated Authorities](https://www.ietf.org/media/documents/IETF_LLC_Delegated_Authorities_2020-06-11.pdf) policy and the [Community Engagement Policy](https://www.ietf.org/about/administration/policies-procedures/community-engagement-policy/). See also the response to Requirement 55 above. 
 
 58. **Requirement**: Define a Transition Plan: Determine what new IASA structure we need and define a transition plan from the model the IETF has today to the new structure. \
  \
@@ -623,8 +623,6 @@ Question during community review (Respond at https://github.com/ietf-llc/IASA2-R
 Status: Achieved / On Track \
  \
 Comments: See the responses to many of the Requirements above, including numbers 2, 10, 11, 12, 22, 23, 31, 35, 36, 37, 39, 41, 43, and 44. In addition, looking specifically at the past and future funding levels from ISOC, the first two years were specified at the time the LLC was formed, while the new agreement in 2020 specifies six additional years, as graphically represented here: \
- \
-
 
 <img src="https://github.com/ietf-llc/IASA2-Retrospective/blob/main/References/IASA2-Chart.jpg" alt="Financial-Chart"/>
 
