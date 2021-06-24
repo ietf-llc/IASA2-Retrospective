@@ -558,18 +558,18 @@ _Question during community review (Respond at https://github.com/ietf-llc/IASA2-
 Status: &#x1F7E2; Achieved / On Track \
  \
 Comments: This was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC. See also the response above to Requirement 50. In addition, while the initial steps taken to increase transparency were a big step in the right direction, the LLC continues to work to strengthen and improve engagement and feedback processes with the IETF community (noting the challenge in how that community is defined and the wide range of mechanisms for feedback, as well as a first [IETF-wide community survey](https://www.ietf.org/blog/first-annual-ietf-community-survey/)). We also acknowledge that the pandemic has made it impossible to have the informal hallway, break time, or meal time interactions that so often provide an additional channel for feedback. We believe once face-to-face meetings return that being able to resume these informal interactions will further improve the LLC’s ability to receive and act on feedback. 
- 
- 
+ \
+ \
 _Question during community review: What else would the community like to see with regards to transparency or speed of decision-making?_ 
 
 56. **Requirement**: Re-Define the Role of the IETF Community in Relation to Administrative Activities: As the roles and responsibilities for support staff and volunteer roles are clarified more precisely, the role of the IETF community in relation to those staff and volunteer roles must be better defined.  This should acknowledge the limited time and availability of IETF volunteers, better defining expectations around oversight of and involvement in strategic, operational, and execution tasks within the administrative efforts. \
  \
 The new design needs to ensure that volunteers are not overloaded in such things as low level operational decisions, which can be delegated to and handled by staff, and can instead focus on strategic changes, critical decisions, and so on.  In particular, this should focus on clearly documenting the lines between responsibility, representation, authority, and oversight. 
- \
+ 
 
 Status: &#x1F7E2;Achieved / On Track \
  \
-Comments: This was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC. See also the response above to Requirement 50. \
+Comments: This was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC. See also the response above to Requirement 50. 
 
 57. **Requirement**: Define Improved Transparency Requirements: The general level of  operational transparency and information-sharing between IETF administrative staff and groups to the IETF community must be kept at an acceptable level, and improved where it makes sense in the future. This includes ensuring the timeliness of sharing of information and decisions, as well as seeking comment on prospective decisions.  At the same time, we need to reset expectations around delegated authority so that once staff or an administrative support organization has been delegated certain authority it is clear that they are empowered to proceed in a particular area, so as to improve organizational efficiency, reduce friction, and improve the pace of work and decision-making. However, it is clear that enabling a group or staff to act within their delegated authority depends upon a clearer definition of roles and responsibilities, on improved transparency, on improved communications, and on trust (which is built upon all of those things over time) \
  \
