@@ -90,7 +90,7 @@ Comments: This was achieved in the initial set of [legal agreements related to t
 
 9. **Requirement:** Transfer or Dissolution: Consistent with [the] [IETF-LLC-A [IETF LLC Agreement]](https://www.rfc-editor.org/rfc/rfc8711.html#IETF-LLC-A), the IETF LLC subsidiary may be transferred from ISOC to another organization, at the request of either party. Similarly, the IETF LLC may be dissolved if necessary. Should either event occur, the IETF community should be closely involved in any decisions and plans. Any transfer, transition, or dissolution should be conducted carefully and with minimal potential disruption to the IETF. \
  \
-Status:	In Place \
+Status:	&#x1F7E2; In Place \
  \
 Comments: The policy framework for such a move is in place, should it need to occur. See Section 12, Transfer of Membership Interest, and Section 13, Dissolution, in the [2018 Limited Liability Company Agreement of IETF Administration LLC](https://www.ietf.org/documents/180/IETF-LLC-Agreement.pdf).
 
@@ -558,12 +558,14 @@ Status: &#x1F7E2; Achieved / On Track \
  \
 Comments: This was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC. See also the response above to Requirement 50. In addition, while the initial steps taken to increase transparency were a big step in the right direction, the LLC continues to work to strengthen and improve engagement and feedback processes with the IETF community (noting the challenge in how that community is defined and the wide range of mechanisms for feedback, as well as a first [IETF-wide community survey](https://www.ietf.org/blog/first-annual-ietf-community-survey/)). We also acknowledge that the pandemic has made it impossible to have the informal hallway, break time, or meal time interactions that so often provide an additional channel for feedback. We believe once face-to-face meetings return that being able to resume these informal interactions will further improve the LLC’s ability to receive and act on feedback. 
  \
+ 
 _Question during community review: What else would the community like to see with regards to transparency or speed of decision-making?_ \
 
 56. **Requirement**: Re-Define the Role of the IETF Community in Relation to Administrative Activities: As the roles and responsibilities for support staff and volunteer roles are clarified more precisely, the role of the IETF community in relation to those staff and volunteer roles must be better defined.  This should acknowledge the limited time and availability of IETF volunteers, better defining expectations around oversight of and involvement in strategic, operational, and execution tasks within the administrative efforts. \
  \
 The new design needs to ensure that volunteers are not overloaded in such things as low level operational decisions, which can be delegated to and handled by staff, and can instead focus on strategic changes, critical decisions, and so on.  In particular, this should focus on clearly documenting the lines between responsibility, representation, authority, and oversight. 
  \
+
 Status: &#x1F7E2;Achieved / On Track \
  \
 Comments: This was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC. See also the response above to Requirement 50. \
