@@ -32,7 +32,7 @@ Note: The text of each requirement is generally taken verbatim from each cited d
 
 **A.[BCP 101 / RFC 8711](https://www.rfc-editor.org/rfc/rfc8711.html) Requirements**
 
-[Section 4.3](https://www.rfc-editor.org/rfc/rfc8711.html#name-general-ietf-llc-responsibi)<span style="text-decoration:underline;"> - General IETF Responsibilities</span>
+***[Section 4.3](https://www.rfc-editor.org/rfc/rfc8711.html#name-general-ietf-llc-responsibi)<span style="text-decoration:underline;"> - General IETF Responsibilities</span>***
 
 
 
@@ -60,7 +60,7 @@ Status:  Achieved / On Track \
  \
 Comments: The IETF LLC publishes its policies at [Policies & Procedures](https://www.ietf.org/about/administration/policies-procedures/ ) and provides a [compliance video](https://www.youtube.com/watch?v=scL7oqpHfD4) to assist covered individuals in reading these policies.
 
-[Section 4.4](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-llc-working-principles)<span style="text-decoration:underline;"> - IETF Working Principles </span>
+***[Section 4.4](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-llc-working-principles)<span style="text-decoration:underline;"> - IETF Working Principles </span>***
 
 
 
@@ -94,7 +94,7 @@ Status:	In Place \
  \
 Comments: The policy framework for such a move is in place, should it need to occur. See Section 12, Transfer of Membership Interest, and Section 13, Dissolution, in the [2018 Limited Liability Company Agreement of IETF Administration LLC](https://www.ietf.org/documents/180/IETF-LLC-Agreement.pdf).
 
-[Section 5.1](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-executive-director-and)<span style="text-decoration:underline;"> - IETF Executive Director and Staff Responsibilities</span>
+***[Section 5.1](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-executive-director-and)<span style="text-decoration:underline;"> - IETF Executive Director and Staff Responsibilities</span>***
 
 
 
@@ -134,9 +134,9 @@ Status:	Achieved / On Track \
  \
 Comments: The Executive Director ensures that all staff and/or contractors comply with appropriate policies. In addition, the Board established a [Whistleblower Policy](https://www.ietf.org/about/administration/policies-procedures/whistleblower/) as one mechanism for people to use if they believe that someone is not following policies. 
 
-[Section 5.2](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-llc-board-responsibili)<span style="text-decoration:underline;"> - IETF LLC Board Responsibilities</span>
+***[Section 5.2](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-llc-board-responsibili)<span style="text-decoration:underline;"> - IETF LLC Board Responsibilities</span>***
 
-Key IETF LLC Board responsibilities include:
+***Key IETF LLC Board responsibilities include:***
 
 
 
@@ -242,7 +242,7 @@ Status:	Achieved / On Track \
  \
 Comments: This requirement is more fully explained in [Section 6.3 of RFC 8711](https://www.rfc-editor.org/rfc/rfc8711.html#name-recruiting-ietf-llc-board-d). The LLC’s interim Board and inaugural Board have both complied with this requirement. The interim Board worked to recruit candidates to meet various requirements and a mix of skills, experience, and independence from the IETF. From the inaugural Board to the current Board, the Board has (1) appointed a liaison to each of the three IETF Nominating Committees (NomComs) since the creation of the LLC and (2) provided requirements to the IETF NomCom and ISOC Board (for the ISOC-appointed Director). The Board has so far not sought to recruit Board-appointed Directors. 
 
-[Section 5.3](https://www.rfc-editor.org/rfc/rfc8711.html#name-board-design-goals)<span style="text-decoration:underline;"> - Board Design Goals</span>
+***[Section 5.3](https://www.rfc-editor.org/rfc/rfc8711.html#name-board-design-goals)<span style="text-decoration:underline;"> - Board Design Goals</span>***
 
 
 
@@ -297,7 +297,7 @@ Discussion Area 2: The composition of the inaugural Board deliberately included 
  \
 _Question during community review: Should a goal for maintaining at least one independent Director be considered (regardless of whether that Director is appointed by the IETF NomCom, ISOC, or the LLC itself) or has the current structure worked well and permitted the appropriate flexibility in the selection process?_
 
-[Section 7.1](https://www.rfc-editor.org/rfc/rfc8711.html#name-financial-statements) - Financial Statements
+***[Section 7.1](https://www.rfc-editor.org/rfc/rfc8711.html#name-financial-statements) - Financial Statements***
 
 
 
@@ -307,7 +307,7 @@ Status: 	Achieved / On Track \
  \
 Comments: As noted in Requirement 22 above, see the [financial statements](https://www.ietf.org/about/administration/financial-statements/) page, which includes links to budgets, financial statements and financial audits. In addition, as noted in Requirement 24, the LLC has provided all necessary tax and financial information to the Internet Society, via their Chief Financial Officer. The LLC’s numbers are included in [ISOC’s IRS Form 990 filings](https://www.internetsociety.org/about-internet-society/financial-reports/).  
 
-[Section 7.2](https://www.rfc-editor.org/rfc/rfc8711.html#name-bank-and-investment-account) - Bank and Investment Accounts
+***[Section 7.2](https://www.rfc-editor.org/rfc/rfc8711.html#name-bank-and-investment-account) - Bank and Investment Accounts***
 
 
 
@@ -317,7 +317,7 @@ Status: Achieved / On Track \
  \
 Comments: The IETF LLC has established bank and investment accounts that are independent of the Internet Society. 
 
-[Section 7.3](https://www.rfc-editor.org/rfc/rfc8711.html#name-financial-audits) - Investment Accounts
+***[Section 7.3](https://www.rfc-editor.org/rfc/rfc8711.html#name-financial-audits) - Investment Accounts***
 
 
 
@@ -327,7 +327,7 @@ Status: Achieved / On Track \
  \
 Comments: As noted in Requirement 22 above, see the [financial statements](https://www.ietf.org/about/administration/financial-statements/) page, which includes links to budgets, financial statements and financial audits. In addition, as noted in Requirement 24, the LLC has provided all necessary tax and financial information to the Internet Society, via their Chief Financial Officer. The LLC’s numbers are included in [ISOC’s IRS Form 990 filings](https://www.internetsociety.org/about-internet-society/financial-reports/).
 
-[Section 7.4](https://www.rfc-editor.org/rfc/rfc8711.html#name-isoc-financial-support) - ISOC Financial Support
+***[Section 7.4](https://www.rfc-editor.org/rfc/rfc8711.html#name-isoc-financial-support) - ISOC Financial Support***
 
 
 
@@ -337,7 +337,7 @@ Status: Achieved / On Track \
  \
 Comments: A new agreement with ISOC was [announced on 30 November 2020](https://www.ietf.org/blog/isoc-financial-commitment/). The executed 16 November 2020 [agreement is posted](https://www.ietf.org/media/documents/IETF_Funding_Agreement_-_Executed_-_20201123.pdf), as is a [brief amendment ](https://www.ietf.org/media/documents/IETF_ISOC_Funding_Amendment_Amendment_-_20201222.pdf)from 22 December 2020.  
 
-[Section 7.5](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-meeting-revenues) - IETF Meeting Revenues
+***[Section 7.5](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-meeting-revenues) - IETF Meeting Revenues***
 
 
 
@@ -358,7 +358,7 @@ A change to meeting fees was motivated in response to the events that followed t
 While the LLC at the time identified an area of improvement to the fee consultation process, in retrospect we believe that in the bigger picture the shift to online meetings was executed successfully in the face of an unprecedented global crisis, in the short period of time necessitated by these unforeseen external events, and with minimal financial impact to the organization, preserving a key revenue stream and ensuring the ongoing financial stability of the IETF.  Our [reforecast 2020 budget](https://www.ietf.org/media/documents/ietf-2020-budget-reforecast-f1-approved.pdf) and [2020 Audited FInancials](https://www.ietf.org/media/documents/2020_Audited_Financials.pdf) provide further details.   
 
 
-[Section 7.6](https://www.rfc-editor.org/rfc/rfc8711.html#name-sponsorships-and-donations-) - Sponsorships and Donations to the IETF LLC
+***[Section 7.6](https://www.rfc-editor.org/rfc/rfc8711.html#name-sponsorships-and-donations-) - Sponsorships and Donations to the IETF LLC***
 
 
 
@@ -376,7 +376,7 @@ A [revised sponsorship program](https://www.ietf.org/blog/revised-ietf-sponsorsh
  \
 Finally, the hiring of a [Director of Development was announced](https://mailarchive.ietf.org/arch/msg/ietf-announce/x9Aacw1UlNqAoQSxbJbyrZZ8IPU/) on 8 June 2021 and that person is in charge of leading fundraising for the IETF and their hiring reflects the priority that the LLC places on this critical activity.  
 
-[Section 7.7](https://www.rfc-editor.org/rfc/rfc8711.html#name-focus-of-funding-support) - Focus of Funding Support
+***[Section 7.7](https://www.rfc-editor.org/rfc/rfc8711.html#name-focus-of-funding-support) - Focus of Funding Support***
 
 
 
@@ -386,7 +386,7 @@ Status: Achieved / On Track  \
  \
 Comments: The LLC does not fund programs or groups beyond those specified in this requirement, which also includes the IETF Trust. In addition, the LLC develops the IETF’s annual budget in a bottoms-up manner, based on the cost estimates and plans provided by these programs and groups.
 
-[Section 7.8](https://www.rfc-editor.org/rfc/rfc8711.html#name-charitable-fundraising-prac) - Charitable Fundraising Practices
+***[Section 7.8](https://www.rfc-editor.org/rfc/rfc8711.html#name-charitable-fundraising-prac) - Charitable Fundraising Practices***
 
 
 
@@ -396,7 +396,7 @@ Status: Achieved / On Track  \
  \
 Comments: As noted in Requirement 24, the LLC has provided all necessary tax and financial information to the Internet Society, via their Chief Financial Officer. The LLC’s numbers are included in [ISOC’s IRS Form 990 filings](https://www.internetsociety.org/about-internet-society/financial-reports/). This fundraising is done consistent with various IETF LLC policies, such as the [OFAC Compliance Policy](https://www.ietf.org/media/documents/IETF_LLC_OFAC_Compliance_Policy_2020-10-06.pdf) and [Charitable Contribution Acceptance Policy](https://www.ietf.org/media/documents/IETF_LLC_Charitable_Contribution_Acceptance_Policy_2020-07-13.pdf).
 
-[Section 7.9](https://www.rfc-editor.org/rfc/rfc8711.html#name-operating-reserve) - Operating Reserves
+***[Section 7.9](https://www.rfc-editor.org/rfc/rfc8711.html#name-operating-reserve) - Operating Reserves***
 
 
 
@@ -410,7 +410,7 @@ Comments: The LLC continued to maintain an operating reserve fund. As of June 20
  \
 In addition, we propose two financial-related actions that should be made a part of the IETF LLC’s annual budget process. First, the LLC should annually update and specify the financial target for reserve-related funds. Second, the LLC should annually review all reserve-related funds and the [Investment Policy](https://www.ietf.org/media/documents/IETF_IPS_ADOPTED_20191218_REDACTED.pdf), and update these as necessary. These reviews would be best timed to coincide with the annual budget process.
 
-[Section 7.10](https://www.rfc-editor.org/rfc/rfc8711.html#name-annual-budget-process) - Annual Budget Process
+***[Section 7.10](https://www.rfc-editor.org/rfc/rfc8711.html#name-annual-budget-process) - Annual Budget Process***
 
 
 
@@ -430,7 +430,7 @@ To use fiscal year 2020 as an example of this in practice, the budget was develo
  \
 As a result of the COVID-19 pandemic forcing a shift to online meetings and upending the LLC’s budget, IETF-107 was canceled and this led to the LLC immediately discussing a revised budget to reflect a new operating model for the IETF if this might also impact IETF-108 or subsequent meetings. Those financial discussions were originally recorded in the minutes of the [12 March 2020](https://www.ietf.org/media/documents/2020-03-12-llc-board-minutes.pdf) Board meeting, followed by discussions recorded in the minutes of meetings on [26 March 2020](https://www.ietf.org/media/documents/2020-03-26-llc-board-minutes.pdf), [9 April 2020](https://www.ietf.org/media/documents/2020-04-09-llc-board-minutes.pdf), and [14 May 2020](https://www.ietf.org/media/documents/2020-05-14-llc-board-minutes.pdf). An update on the 2020 budget reforecast was noted in minutes from the [11 June 2020](https://www.ietf.org/media/documents/2020-06-11-llc-board-minutes.pdf) board meeting with the goal to complete the reforecast by the end of June 2020. In the [9 July 2020](https://www.ietf.org/media/documents/2020-07-09-llc-board-minutes.pdf) board meeting, the budget reforecast was approved. This was also announced on [29 July 2020](https://www.ietf.org/media/documents/slides-108-ietf-sessa-ietf-llc-briefing-for-ietf-108-02.pdf) during the plenary session of IETF-108. The LLC’s financial statements reflected this new budget beginning with the [July 2020 financial statement](https://www.ietf.org/media/documents/July_2020_FS.pdf) and continuing for the remainder of the financial year. The [2020 fiscal year audit report](https://www.ietf.org/media/documents/2020_Audited_Financials.pdf) has also now been published.
 
-[Section 8](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-llc-policies) - IETF LLC Policies
+***[Section 8](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-llc-policies) - IETF LLC Policies***
 
 
 
@@ -442,7 +442,7 @@ Comments: See [Policies & Procedures](https://www.ietf.org/about/administration/
  \
 The LLC remains open to suggested changes to existing policies or the creation of new policies. One example of a policy being updated based on a [community request](https://mailarchive.ietf.org/arch/msg/ietf-announce/jvUfHT9d3rZlZItbqOB4_XasqwQ/) was the [updated LLC Meeting Minutes Policy](https://www.ietf.org/media/documents/IETF_LLC_Board_Minutes_Approval_-_2019-10-31.pdf).
 
-[Section 8.1](https://www.rfc-editor.org/rfc/rfc8711.html#name-conflict-of-interest-policy) - Conflict of Interest Policy
+***[Section 8.1](https://www.rfc-editor.org/rfc/rfc8711.html#name-conflict-of-interest-policy) - Conflict of Interest Policy***
 
 
 
@@ -452,7 +452,7 @@ Status: Achieved \
  \
 Comments: [Published here](https://www.ietf.org/about/administration/policies-procedures/conflict-interest/)
 
-[Section 8.2](https://www.rfc-editor.org/rfc/rfc8711.html#name-other-policies) - Other Policies
+***[Section 8.2](https://www.rfc-editor.org/rfc/rfc8711.html#name-other-policies) - Other Policies***
 
 
 
@@ -487,7 +487,7 @@ Comments: Published here for each one -
 - Data protection and privacy - See [privacy statement](https://www.ietf.org/privacy-statement/) and [related policies](https://www.ietf.org/policies/) \
 - Social media - [Section 8 of the Code of Conduct](https://www.ietf.org/policies/)
 
-[Section 8.3](https://www.rfc-editor.org/rfc/rfc8711.html#name-compliance) - Compliance
+***[Section 8.3](https://www.rfc-editor.org/rfc/rfc8711.html#name-compliance) - Compliance***
 
 
 
@@ -503,8 +503,8 @@ Comments: Compliance reports have been published on the [LLC Reports](https://ww
 
 Comment on this section: This expired draft is not authoritative, as BCP 101 or other BCPs/RFCs are. However we felt it may be useful to include (we’d encourage comment on that), as we have found that it can sometimes provide additional context and motivation for the goals and requirements that did end up in the authoritative documents. 
 
-[Section 4](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-4) - Goals \
-(See also [Section 6.1](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-6.1))
+***[Section 4](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-4) - Goals \
+(See also [Section 6.1](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-6.1))***
 
 
 
@@ -580,7 +580,7 @@ Status: Achieved / On Track \
  \
 Comments: This requirement was met and documented in [this transition plan](https://mailarchive.ietf.org/arch/msg/ietf-announce/8r8NFnfTx2rlWKBavNz8zHRve-w/).
 
-[Section 5.3.1](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-5.3.1) - Board Selection
+***[Section 5.3.1](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-5.3.1) - Board Selection***
 
 
 
@@ -590,7 +590,7 @@ Status: Achieved but with discussion items \
  \
 Comments: See Requirement 34 above.
 
-[Section 5.5 ](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-5.5)- Staff Structure
+***[Section 5.5 ](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-5.5)- Staff Structure***
 
 
 
@@ -600,7 +600,7 @@ Status: Achieved \
  \
 Comments: The organizational changes have been made and staff hired.
 
-[Section 5.6.2](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-5.6.2) - [Funding] Sources and Stability 
+***[Section 5.6.2](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-5.6.2) - [Funding] Sources and Stability***
 
 
 
@@ -614,7 +614,7 @@ _Question during community review (Respond at https://github.com/ietf-llc/IASA2-
  \
 Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/6): The LLC does not know what the post-COVID-19 meeting and travel environment will be like. It seems possible that the nature or desirability of in-person meetings has been fundamentally altered and that some IETF meetings might effectively be conducted entirely online. At the same time it has also been apparent that in-person IETF meetings help to build and maintain relationships and can be a vehicle to improve collaboration and spur the development of new work. Does this mean that each future meeting should be hybrid, or that some number of meetings are hybrid and while others are online only, or something else? The IETF may wish to consider undertaking a community effort to explore these important questions further (which may be beyond the scope of the current [SHMOO working group](https://datatracker.ietf.org/wg/shmoo/about/))._
 
-[Section 5.6.3](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-5.6.3) - [Funding] Level
+***[Section 5.6.3](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-5.6.3) - [Funding] Level***
 
 
 
