@@ -5,7 +5,7 @@ BCP 101 Requirement: (from https://www.rfc-editor.org/rfc/rfc8711.html#name-thre
 
 12 April 2021: Blog post on proposed process - https://www.ietf.org/blog/iasa2-three-year-review-process/
 
-24 June 2021: Blog post on first draft & start of input/revision process
+24 June 2021: Blog post on first draft & start of input/revision process - https://www.ietf.org/blog/iasa2-retrospective-consultation-starts/
 
 12 July 2021: First of two live webinars for input - https://www.ietf.org/about/groups/llc-board/meeting-info/
 
@@ -16,3 +16,5 @@ July - September 2021: Regular revision of the assessment based on community inp
 October 2021: Write a report for the community on the results of the retrospective, including any recommendations for future work.
 
 November 2021: Present the report during the IETF 112 meeting plenary.
+
+### THE DOCUMENT IS AT https://github.com/ietf-llc/IASA2-Retrospective/blob/main/draft-iasa2-retrospective.md
