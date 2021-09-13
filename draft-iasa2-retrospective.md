@@ -278,20 +278,20 @@ _Question during community review / proposed action (Respond at https://github.c
 of annual NomCom nominations (typically late August) for the community to comment on the requirements that will be sent to the NomCom for IETF 
 LLC director roles. Does the community have any concerns with the Board doing so, provided that the requirements remain within the scope of the 
 relevant LLC-related BCPs/RFCs? In addition, should this annual process be formally defined in a new LLC policy that is open to community review 
-and consensus?_ \
+and consensus? (UPDATE: This was performed at https://github.com/ietf-llc/NomCom-Requirements -- update IASA2 doc accordingly)_ \
  \
 _Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/3): Should the community consider updating RFC 8713 to empower the NomCom to independently run a formal community 
 consensus process for annually confirming or changing (adding/deleting) requirements shared by the IESG, IAB, IETF Trust, and IETF LLC after they 
-have been provided by those bodies to the NomCom?_ \
+have been provided by those bodies to the NomCom? (UPDATE: Community consensus was this was not the correct path - see above for the direction taken)_ \
  \
 _Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/3): Or, instead of the NomCom running that annual community consensus process, should the community consider updating 
 RFC 8713 to require that each body (IAB, IESG, IETF Trust, IETF LLC) run their own annual community consensus process to confirm or change the 
-requirements that they will send to the NomCom? Or is that best left to each group to determine on their own without changing RFC 8713?_ \
+requirements that they will send to the NomCom? Or is that best left to each group to determine on their own without changing RFC 8713? (UPDATE: Community consensus was this was not the correct path - see above for the direction taken)_ \
 \
 _Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/3): Or, should the community consider updating RFC 8713 to empower the NomCom to run an annual formal community 
 consensus process to independently define the roles and responsibilities for IESG, IAB, IETF Trust, and IETF LLC roles (for example updating the 
 roles and responsibilities of [BCP 39](https://www.rfc-editor.org/rfc/rfc2850.html) for the IAB)? As a result, each body would not need to provide 
-requirements to the NomCom, as the NomCom itself would be empowered to independently define those requirements._ \
+requirements to the NomCom, as the NomCom itself would be empowered to independently define those requirements. (UPDATE: Community consensus was this was not the correct path - see above for the direction taken)_ \
  \
 Discussion Area 2: The composition of the inaugural Board deliberately included Directors that brought independent experience and viewpoints. It has been the Board’s experience that this has added a valuable diversity of skills, experience, networks and perspectives, and is generally considered a board best practice (see related IASA2 list discussion, such as [here](https://mailarchive.ietf.org/arch/msg/iasa20/FmRY7egeP_UCNLvyZclbTzxOzuw/)). While having one or more independent Directors has been useful, it is not a formally defined requirement in the composition of the Board. At the same time, some members of the community have expressed a preference for fewer or no independent Directors, in favor of more or all Directors coming from directly within the IETF community. One path is to leave things as they are, which is to not specify that having one or more independent Directors is either useful or a specific goal, which allows for the greatest flexibility as circumstances and needs change over time. On the other hand, it seems possible that a case could be made that having at least one independent Director is a best practice and should be defined as a goal of Board composition in some manner.  \
  \
