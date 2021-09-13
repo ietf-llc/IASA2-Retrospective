@@ -656,7 +656,7 @@ potential changes to the legal structure of the IETF Trust. There are at least t
 IETF Trust alone or in partnership with the IETF LLC should conduct a community consultation concerning this issue and potential future changes in legal 
 structure for the IETF Trust that would better protect those experts that serve the IETF Trust while also maintaining close alignment with the IETF._
 
-_Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/7): What should the next steps be here?_
+_Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/7): What should the next steps be here? (The current plan is for the IETF Trust to initiate this consultation and to solely manage the consultation. The IETF LLC and the IETF community may then each provide comment when that occurs.)_
 
 **D. Other Gaps**
 
