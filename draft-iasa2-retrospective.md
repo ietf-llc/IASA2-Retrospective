@@ -10,13 +10,13 @@ This requirement is being met in the report below, by extracting requirements an
 **Timeline:**
 
 
-
-1. June - September 2021: Regular revision of the assessment based on community input.
-2. October 2021: Write a report for the community on the results of the retrospective, including any recommendations for future work.
-3. November 2021: Present the report during the IETF 112 meeting plenary.
+1. 12 April 2021: Proposed an IASA2 Retrospective process and timeline in a [blog post](https://www.ietf.org/blog/iasa2-three-year-review-process/).
+2. 24 June 2021: Began the consultation process by releasing a first draft for comment and asking a number of specific questions of the community. This was announced in a [blog post](https://www.ietf.org/blog/iasa2-retrospective-consultation-starts/).
+3. June - September 2021: [Regular revision](https://github.com/ietf-llc/IASA2-Retrospective/graphs/commit-activity) of the assessment based on community input.
+4. October 2021: Wrote a report (this document) for the community on the results of the retrospective, including recommendations for future work.
+5. November 2021: Present the report during the [IETF 112 meeting plenary](https://datatracker.ietf.org/meeting/112/agenda/).
 
 **Feedback Mechanisms:**
-
 
 
 1. **Email**: send feedback to [admin-discuss@ietf.org](mailto:admin-discuss@ietf.org) 
@@ -174,7 +174,7 @@ Comments: As noted in Requirement 6 above, the IETF LLC has conducted extensive 
  \
 Status:	&#x1F7E2; Achieved \
  \
-Comments: Other than approving all of the LLC’s initial policies, no significant changes to the LLC’s governance structure have been made. \
+Comments: Other than approving all of the LLC’s initial policies, no significant changes to the LLC’s governance structure have been made. 
 
 22. **Requirement:** Adopting an annual budget and, as necessary, incur any debt. \
  \
@@ -675,8 +675,11 @@ future (perhaps every 2 - 3 years)?_
 
 
 **-------------------------------------------------------------------------------------------------------------------------------**
+
+
 **E. Recommendations for Future Work**
 
 
-* The IETF LLC should conduct a regular assessment of the IASA structure and IETF LLC every three years, with a report to the IETF community in the final IETF meeting of each of those years. Based on this IASA2 retrospective being completed in 2021, the next IASA assessments should occur in 2024, 2027, 2030, 2033, and so on. The point of performing a regular assessment is that the IETF's way of work and its needs will continue to evolve, while the external environment will also change, so periodically checking in to see whether there are structural, process, financial, operational, legal, or other administrative adaptations are needed makes sense. As well, by making small changes on an incremental basis, the risks of making the wrong changes is smaller because the changes are smaller and there is a regular check-in on the effectiveness of any change so that course corrections can be made. Finally, keeping up with internal and external changes may also potentially help the IETF avoid large once-a-decade administrative structure changes that are multi-year efforts like IASA2 - and this is not only a time-saver bu also lets IETF leaders and participants remain focused on the core standards work of the IETF.
+The IETF LLC should conduct a regular assessment of the IASA structure and IETF LLC every three years, with a report to the IETF community in the final IETF meeting of each of those years. Based on this IASA2 retrospective being completed in 2021, the next IASA assessments should occur in 2024, 2027, 2030, 2033, and so on. 
 
+The point of performing a regular assessment is that the IETF's way of working and its needs will continue to evolve, while the external environment will also change. Thus, periodically checking in to see whether there are structural, process, financial, operational, legal, or other administrative adaptations are needed makes sense. As well, by making small changes on an incremental basis, the risks associated with each change is likely to be smaller because the changes are correspondingly smaller, and there is a regular check-in every three years at which point the IETF can assess the effectiveness of any change so that modest course corrections can be made. Finally, keeping up with internal and external changes may also potentially help the IETF avoid large once-a-decade administrative structure changes that are multi-year efforts like IASA2 - and this is not only a time-saver but also lets IETF leaders and participants remain more focused on the core standards work of the IETF.
