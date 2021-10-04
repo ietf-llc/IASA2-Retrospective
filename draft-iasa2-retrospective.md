@@ -643,11 +643,9 @@ _Question during community review (Respond at https://github.com/ietf-llc/IASA2-
 **D. Other Gaps**
 
  \
-List any additional administrative, financial, legal, or operational gaps; areas of improvement; and any areas of under-specification or over-specification in IASA2 documents that the IETF LLC Board, IETF Secretariat, IETF Executive Director, or the IETF community perceive that have not already been addressed in prior sections of this document. 
+The IETF LLC also asked an open-ended question of the IETF community, seeking suggestions on any additional administrative, financial, legal, or operational gaps; areas of improvement; and any areas of under-specification or over-specification in IASA2 documents that the IETF LLC Board, IETF Secretariat, IETF Executive Director, or the IETF community perceive that have not already been addressed in prior sections of this document. No comments were received in this area that have not already been addressed in prior sections of this document. 
 
-_Questions during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/8): What would you like to see here? We did not have anything specific in mind but wanted to provide a more free-form 
-section for comments that may not have fit in any of the prior sections. Also, how frequently should these retrospectives be performed in the 
-future (perhaps every 2 - 3 years)?_
+Finally, the IETF LLC specifically asked whether retrospectives like this should be performed in the future and the feedback was that this did have value. The associated action item for that has been noted below in Section E. 
 
 
 <!-- Footnotes themselves at the bottom. -->
