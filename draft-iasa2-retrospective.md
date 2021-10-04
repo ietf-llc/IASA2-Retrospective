@@ -11,18 +11,18 @@ This requirement is being met in the report below, by extracting requirements an
 
 
 
-1. June - September: Regular revision of the assessment based on community input.
-2. October: Write a report for the community on the results of the retrospective, including any recommendations for future work.
-3. November: Present the report during the IETF 112 meeting plenary.
+1. June - September 2021: Regular revision of the assessment based on community input.
+2. October 2021: Write a report for the community on the results of the retrospective, including any recommendations for future work.
+3. November 2021: Present the report during the IETF 112 meeting plenary.
 
-**How to provide feedback:**
+**Feedback Mechanisms:**
 
 
 
 1. **Email**: send feedback to [admin-discuss@ietf.org](mailto:admin-discuss@ietf.org) 
 2. **GitHub**: Open an issue or propose a pull request at [https://github.com/ietf-llc/IASA2-Retrospective](https://github.com/ietf-llc/IASA2-Retrospective) 
-3. **Live Webinars**: The IETF LLC will hold two live webinars to take live input and questions. The first will take place on July 12 and the second on August 11, 2021.
-4. **IETF 111 Office Hours**: The IETF LLC will hold open [office hours during IETF 111](https://datatracker.ietf.org/meeting/111/agenda/?show=llcofficehours) in July in [Gather.town](https://www.ietf.org/how/meetings/111/111gather/). You can join us at that time to provide input or ask questions.
+3. **Live Webinars**: The IETF LLC held two live webinars to take live input and questions on July 12 and the second on August 11, 2021.
+4. **IETF 111 Office Hours**: The IETF LLC will held open [office hours during IETF 111](https://datatracker.ietf.org/meeting/111/agenda/?show=llcofficehours) in July 2021 in [Gather.town](https://www.ietf.org/how/meetings/111/111gather/). You can join us at that time to provide input or ask questions.
 
 **-------------------------------------------------------------------------------------------------------------------------------**
 
@@ -672,3 +672,11 @@ future (perhaps every 2 - 3 years)?_
 ## Notes
 
 <b id="f1">1</b> Paraphrased from: [https://www.rfc-editor.org/rfc/rfc8711.html#name-board-design-goals](https://www.rfc-editor.org/rfc/rfc8711.html#name-board-design-goals) [↩](#a1) 
+
+
+**-------------------------------------------------------------------------------------------------------------------------------**
+**E. Recommendations for Future Work**
+
+
+* The IETF LLC should conduct a regular assessment of the IASA structure and IETF LLC every three years, with a report to the IETF community in the final IETF meeting of each of those years. Based on this IASA2 retrospective being completed in 2021, the next IASA assessments should occur in 2024, 2027, 2030, 2033, and so on. The point of performing a regular assessment is that the IETF's way of work and its needs will continue to evolve, while the external environment will also change, so periodically checking in to see whether there are structural, process, financial, operational, legal, or other administrative adaptations are needed makes sense. As well, by making small changes on an incremental basis, the risks of making the wrong changes is smaller because the changes are smaller and there is a regular check-in on the effectiveness of any change so that course corrections can be made. Finally, keeping up with internal and external changes may also potentially help the IETF avoid large once-a-decade administrative structure changes that are multi-year efforts like IASA2 - and this is not only a time-saver bu also lets IETF leaders and participants remain focused on the core standards work of the IETF.
+
