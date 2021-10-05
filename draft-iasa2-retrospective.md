@@ -116,7 +116,7 @@ Comments: See annual budget, financial statements, audit reports, and other fina
  \
 Status:	&#x1F7E2; Achieved \
  \
-Comments: The IETF Executive Director has brought in resources consistent with this, such as a Director of Communications and Operations, Director of Development, and Senior Software Development Engineer. 
+Comments: The IETF Executive Director has brought in resources consistent with this, such as a Director of Communications and Operations, Director of Development, and two Senior Software Development Engineers. 
 
 13. **Requirement:** Following the pre-approval guidelines set forth by the Board for contracts or other decisions that have financial costs that exceed a certain threshold of significance. Such thresholds are expected to be set reasonably high so that the need for such approvals is infrequent and only occurs when something is truly significant or otherwise exceptional. It is expected that the IETF Executive Director is sufficiently empowered to perform the job on a day-to-day basis, being held accountable for meeting high-level goals rather than being micromanaged. \
  \
