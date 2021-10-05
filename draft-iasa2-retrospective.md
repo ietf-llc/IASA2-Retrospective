@@ -647,13 +647,13 @@ Finally, the IETF LLC specifically asked whether retrospectives like this should
 **E. Recommendations for Future Work**
 
 
-The IETF LLC should conduct a regular assessment of the IASA structure and IETF LLC every three years, with a report to the IETF community in the final IETF meeting of each of those years. Based on this IASA2 retrospective being completed in 2021, the next IASA assessments should occur in 2024, 2027, 2030, 2033, and so on. 
+1. The IETF LLC should conduct a regular assessment of the IASA structure and IETF LLC every three years, with a report to the IETF community in the final IETF meeting of each of those years. Based on this IASA2 retrospective being completed in 2021, the next IASA assessments should occur in 2024, 2027, 2030, 2033, and so on. 
 
 The point of performing a regular assessment is that the IETF's way of working and its needs will continue to evolve, while the external environment will also change. Thus, periodically checking in to see whether there are structural, process, financial, operational, legal, or other administrative adaptations are needed makes sense. As well, by making small changes on an incremental basis, the risks associated with each change is likely to be smaller because the changes are correspondingly smaller, and there is a regular check-in every three years at which point the IETF can assess the effectiveness of any change so that modest course corrections can be made. Finally, keeping up with internal and external changes may also potentially help the IETF avoid large once-a-decade administrative structure changes that are multi-year efforts like IASA2 - and this is not only a time-saver but also lets IETF leaders and participants remain more focused on the core standards work of the IETF.
 
 In addition, as the IETF evolves how the organization wishes to work and meet in a post-COVID world, such as potentially changing meeting frequency, reducing in-person venue size requirements, shifting to hybrid meetings, and so on, the IETF LLC will need to adapt to provide the necessary administative, operational, legal, financial, and other support to meet the changing needs of the IETF.
 
-
+2. As noted in the comments part of Requirement 63, we recommend that the IETF Trust initate a community consultation concerning improvements in their legal structure.
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
