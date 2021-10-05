@@ -527,12 +527,9 @@ Comments: As documented in [RFC 8712](https://www.rfc-editor.org/rfc/rfc8712.htm
  \
 There also needs to be a clear definition of what issues belong to the IESG vs. the IASA organisation or staff.  In many cases that is not clear today. \
  \
-Status: &#x1F7E1; Possibly Achieved - Comment Requested  \
+Status: &#x1F7E2; Achieved  \
  \
-Comments: This LLC believes that this was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC, as well as [initial policies](https://www.ietf.org/about/administration/policies-procedures/), [contractor agreements](https://www.ietf.org/about/administration/rfps-and-contracts/), and [delegated authorities policy](https://www.ietf.org/media/documents/IETF_LLC_Delegated_Authorities_2020-06-11.pdf). However, in attempting to meet this requirement the LLC experienced some challenges in clarifying roles and responsibilities in cases when an individual may be both a contractor as well as a volunteer. 
- \
- \
-_Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/5): Is there more to do here? If so, what specifically should be further clarified or relaxed? Are there alternative ways of approaching this issue?_ 
+Comments: The LLC believes that this was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC, as well as [initial policies](https://www.ietf.org/about/administration/policies-procedures/), [contractor agreements](https://www.ietf.org/about/administration/rfps-and-contracts/), and [delegated authorities policy](https://www.ietf.org/media/documents/IETF_LLC_Delegated_Authorities_2020-06-11.pdf). Recently, an additional effort has also started to consider the potential need for and form of an anti-trust policy as noted in [an Internet-Draft](https://datatracker.ietf.org/doc/draft-halpern-gendispatch-antitrust/) and [mailing list discussion](https://mailarchive.ietf.org/arch/browse/gendispatch/?q=gendispatch-antitrust). However, in attempting to meet this requirement the LLC experienced some challenges in clarifying roles and responsibilities in cases when an individual may be both a contractor as well as a volunteer (see also the response to Requirement 50 above. ). 
 
 55. **Requirement**: Define Support Staff Roles and Responsibilities: Clearly define the roles of the oversight entities and staff/contractors to match the expanded work scope facing the IETF.  Ensure that any changes create a structure that can adapt flexibly to future growth and other changes (including changes in IETF community expectations, such as increased transparency or more rapid decision-making). \
  \
