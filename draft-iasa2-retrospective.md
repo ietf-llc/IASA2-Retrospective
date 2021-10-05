@@ -567,7 +567,7 @@ Comments: This requirement was met and documented in [this transition plan](http
 
 59. **Requirement**: Experience with selection for the IAOC and the ISOC Board shows the difficulty of using the nomcom process to select a board with the kind of business skills necessary to supervise an operation like IETFAdminOrg.  These skills are not common -- though also not non-existent -- within the IETF community, which makes it hard to find candidates as well as reducing the chance that nomcom members will have the personal contacts to identify external candidates with the appropriate skills.  For this reason, the design team does not believe that direct nomcom selection of the whole board will be successful.  In the ISOC Subsidiary model, ISOC might also nominate some board members.  Below we present two alternative mechanisms for selecting the remaining board members, though there are others that would perhaps be successful.  Regardless of the nomination mechanism, the entire board should be subject to confirmation by the IETF Leadership. \
  \
-Status: &#x1F7E1; Achieved but with discussion items \
+Status: &#x1F7E2;Achieved \
  \
 Comments: See Requirement 34 above.
 
