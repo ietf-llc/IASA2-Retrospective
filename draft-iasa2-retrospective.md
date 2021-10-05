@@ -38,17 +38,19 @@ Note: The text of each requirement is generally taken verbatim from each cited d
 
 1. **Requirement:** Operations. The IETF LLC is responsible for supporting the ongoing operations of the IETF, including meetings and non-meeting activities.
      \
-Status: &#x1F7E2; Achieved / On Track \
+     \
+Status: &#x1F7E2; Achieved \
  \
 Comments: The IETF has continued to successfully operate following the implementation of the IASA2 framework.
 
 2. **Requirement:** Finances. The IETF LLC is responsible for managing the IETF's finances and budget. \
  \
-Status: &#x1F7E2; Achieved / On Track \
+Status: &#x1F7E2; Achieved \
  \
-Comments:See the [financial statements](https://www.ietf.org/about/administration/financial-statements/) page, which includes links to budgets, financial statements and financial audits.  \
+Comments:See the [financial statements](https://www.ietf.org/about/administration/financial-statements/) page, which includes links to budgets, financial statements and financial audits.  
 
 3. **Requirement:** Fundraising. The IETF LLC is responsible for raising money on behalf of the IETF. 
+ \
  \
 Status:  &#x1F7E2; Achieved / On Track \
  \
@@ -56,7 +58,7 @@ Comments: See new ISOC funding agreement with special matching funds ([parts 1](
 
 4. **Requirement:** Compliance. The IETF LLC is responsible for establishing and enforcing policies to ensure compliance with applicable laws, regulations, and rules. \
  \
-Status:  &#x1F7E2; Achieved / On Track \
+Status:  &#x1F7E2; Achieved \
  \
 Comments: The IETF LLC publishes its policies at [Policies & Procedures](https://www.ietf.org/about/administration/policies-procedures/ ) and provides a [compliance video](https://www.youtube.com/watch?v=scL7oqpHfD4) to assist covered individuals in reading these policies.
 
@@ -66,25 +68,25 @@ Comments: The IETF LLC publishes its policies at [Policies & Procedures](https:/
 
 5. **Requirement:** Transparency. The IETF LLC is expected to keep the IETF community informed about its work, subject to reasonable confidentiality concerns, and to engage with the community to obtain consensus-based community input on key issues and otherwise as needed. The IETF community expects complete visibility into the financial and legal structure of the IETF LLC. This includes information about the IETF LLC annual budget and associated regular financial reports, results of financial and any other independent audits, tax filings, significant contracts, or other significant long-term financial commitments that bind the IETF LLC. Whatever doesn't have a specific justification for being kept confidential is expected to be made public. The Board is expected to develop and maintain a public list of confidential items, describing the nature of the information and the reason for confidentiality. The Board will also publish its operating procedures. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: The IETF LLC Board meets monthly, with meetings open to the community. The only items kept confidential relate to contract negotiations, contractor reviews, personnel matters or in some cases the exact financial rates in published contracts. The same level of transparency and access applies to the yearly IETF LLC Board strategic meetings. All items are available on the IETF website via the [IETF LLC webpage](https://www.ietf.org/about/administration).  
 
 6. **Requirement:** Responsiveness to the community. The IETF LLC is expected to act consistently with the documented consensus of the IETF community, to be responsive to the community's needs, and to adapt its decisions in response to consensus-based community feedback. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: The IETF LLC has focused most of its energy the last 3 years on executing on the documented consensus of the IETF community based in the formative BCPs and RFCs pertaining to IASA2, covered in this retrospective. The IETF LLC has also conducted extensive community consultations, such as in 2019 for the [development of required policies](https://www.ietf.org/blog/ietf-llc-draft-policies-comment/). Since the IETF LLC formed, [more than a dozen consultations](https://www.ietf.org/about/administration/announcements/) have been conducted as well as several surveys of the IETF community. Decisions have also been adapted based on community feedback, such as relating to the IETF’s initial policies, our privacy policy, and fees for online-only meetings. In addition, when suggestions have been made the Board has responded (e.g. creating office hours during IETF meetings). 
 
 7. **Requirement:** Diligence. The IETF LLC is expected to act responsibly so as to minimize risks to IETF participants and to the future of the IETF as a whole, such as financial risks. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: The IETF LLC has worked hard to minimize strategic risks to the IETF and participants. To use one recent example, the IETF LLC ensured that during the COVID-19 pandemic the IETF was able to shift to online meetings with effective tools while maintaining the financial viability of the organization—something with which other organizations struggled financially or operationally. However, the IETF was informed of a security vulnerability in the meeting t-shirt request system which was [announced in April 2021](https://mailarchive.ietf.org/arch/msg/ietf-announce/exMKqyRTCeEqNPicXLJv5GmQdoQ/) and subsequently mitigated.    
 
 8. **Requirement:** Unification: The IETF LLC provides the corporate legal home for the IETF, the Internet Architecture Board ([IAB](https://www.iab.org/)), and the Internet Research Task Force ([IRTF](https://irtf.org/)), and financial support for the operation of the [RFC Editor](https://www.rfc-editor.org/). \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: This was achieved in the initial set of [legal agreements related to the formation of the IETF LLC](https://www.ietf.org/about/administration/overview/).  
 
@@ -100,37 +102,37 @@ Comments: The policy framework for such a move is in place, should it need to oc
 
 10. **Requirement:** Developing and refining an annual budget and other strategic financial planning documents at the direction of the Board. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: See annual budget, financial statements, audit reports, and other finance-related documents on the [relevant IETF LLC web page](https://www.ietf.org/about/administration/financial-statements/). 
 
 11. **Requirement:** Executing on the annual budget, including reporting to the Board regularly with forecasts and actual performance to budget. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: See annual budget, financial statements, audit reports, and other finance-related documents on the [relevant IETF LLC web page](https://www.ietf.org/about/administration/financial-statements/). For regular reports to the Board, see monthly meeting minutes on the [Board Minutes and Materials web page](https://www.ietf.org/about/groups/llc-board/minutes/). 
 
 12. **Requirement:** Hiring and/or contracting the necessary resources to meet their goals, within the defined limits of the IETF Executive Director's authority and within the approved budget. This includes managing and leading any such resources, including performing regular performance reviews. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: The IETF Executive Director has brought in resources consistent with this, such as a Director of Communications and Operations, Director of Development, and Senior Software Development Engineer. 
 
 13. **Requirement:** Following the pre-approval guidelines set forth by the Board for contracts or other decisions that have financial costs that exceed a certain threshold of significance. Such thresholds are expected to be set reasonably high so that the need for such approvals is infrequent and only occurs when something is truly significant or otherwise exceptional. It is expected that the IETF Executive Director is sufficiently empowered to perform the job on a day-to-day basis, being held accountable for meeting high-level goals rather than being micromanaged. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: This is documented in the [Delegated Authorities policy](https://www.ietf.org/media/documents/IETF_LLC_Delegated_Authorities_2020-06-11.pdf).   
 
 14. **Requirement:** Regularly updating the Board on operations and other notable issues as reasonable and appropriate. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: The Executive Director has a standing agenda item each Board meeting to present a report, such as in the [May 2021 meeting for example](https://www.ietf.org/media/documents/2021-05-13-llc-board-agenda.pdf). This report is subsequently documented in meeting minutes, such as in the [April 2021 meeting minutes for example](https://www.ietf.org/media/documents/2021-04-08-llc-board-minutes.pdf).  
 
 15. **Requirement:** Ensuring that all staff and/or other resources comply with any applicable policies established or approved by the Board, such as ethics guidelines and/or a code of conduct. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: The Executive Director ensures that all staff and/or contractors comply with appropriate policies. In addition, the Board established a [Whistleblower Policy](https://www.ietf.org/about/administration/policies-procedures/whistleblower/) as one mechanism for people to use if they believe that someone is not following policies. 
 
@@ -142,19 +144,19 @@ Comments: The Executive Director ensures that all staff and/or contractors compl
 
 16. **Requirement:** Setting broad strategic direction for the LLC. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: The Board has done so in a number of ways, including conducting a [strategic plan consultation](https://mailarchive.ietf.org/arch/msg/ietf-announce/eZIc0kfb26lQXLwR9PiwX7-h5dI/) and releasing a [strategic plan](https://github.com/ietf-llc/strategy-2020-consultation/blob/latest-updates-from-consultation/DRAFT%20Strategic%20Plan%202020.md). Development of this plan was also informed by the Internet Engineering Steering Group’s ([IESG](https://www.ietf.org/iesg/)) strategic planning activities. and members of the IESG participated in the IETF LLC strategic planning process.  
 
 17. **Requirement:** Hiring or terminating an IETF Executive Director (or amending the terms of their engagement). \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: [Jay Daley was hired](https://www.ietf.org/blog/welcome-ietf-exec-director/) into this role and started on 24 October 2019. 
 
 18. **Requirement:** Delegating management of day-to-day activities and related decision-making to staff. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: Completed and documented in the [Board/ED Delegated Authorities](https://www.ietf.org/media/documents/IETF_LLC_Delegated_Authorities_2020-06-11.pdf) policy. 
 
@@ -166,7 +168,7 @@ Comments: Completed. The Board has mirrored the benefits of the Internet Society
 
 20. **Requirement:** Consulting the relevant IETF communities on matters related to the LLC, as appropriate. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: As noted in Requirement 6 above, the IETF LLC has conducted extensive community consultations, such as in 2019 for the [development of required policies](https://www.ietf.org/blog/ietf-llc-draft-policies-comment/). Since the IETF LLC formed, [more than a dozen consultations](https://www.ietf.org/about/administration/announcements/) have been conducted as well as several surveys of the IETF community. Decisions have also been adapted based on community feedback, such as relating to the IETF’s initial policies, our privacy policy, and fees for online-only meetings.  
 
@@ -178,31 +180,31 @@ Comments: Other than approving all of the LLC’s initial policies, no significa
 
 22. **Requirement:** Adopting an annual budget and, as necessary, incur any debt. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: See the [financial statements](https://www.ietf.org/about/administration/financial-statements/) page, which includes links to budgets, financial statements and financial audits. No debt has been incurred and there is no plan or need in the foreseeable future to do so.  
 
 23. **Requirement:** Preparing accurate and timely financial statements for ISOC, in accordance with generally accepted accounting principles. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: See the [financial statements](https://www.ietf.org/about/administration/financial-statements/) page, which includes links to budgets, financial statements, and financial audits. 
 
 24. **Requirement:** Providing assistance to help facilitate ISOC's tax compliance, including but not limited to assistance related to preparing the Form 990 and responding to any United States Internal Revenue Service (IRS) questions and audits. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: The LLC has provided all necessary tax and financial information to the Internet Society, via their Chief Financial Officer. The LLC’s numbers are included in [ISOC’s IRS Form 990 filings](https://www.internetsociety.org/about-internet-society/financial-reports/).   
 
 25. **Requirement:** Approving entering into agreements that meet a significant materiality threshold to be determined by the Board. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: The Board has approved any agreements or other decisions that are financially material and documented various materiality thresholds in the [Board/ED Delegated Authorities](https://www.ietf.org/media/documents/IETF_LLC_Delegated_Authorities_2020-06-11.pdf) policy. 
 
 26. **Requirement:** Limiting its activities to the purposes as set forth in [Section 4 of the LLC Agreement](https://www.ietf.org/media/documents/IETF-LLC-Agreement.pdf), in a manner consistent with ISOC's charitable purposes. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: The LLC has operated in compliance with the entirety of the LLC Agreement, including Section 4. No issues relating to operating consistent with charitable purposes have been raised by the Internet Society, the LLC’s legal counsel, the LLC’s auditors, or other parties. 
 
@@ -214,13 +216,13 @@ Comments: The LLC adopted an [Investment Policy](https://www.ietf.org/media/docu
 
 28. **Requirement:** Using best efforts to conduct all of its activities in strict compliance with the LLC Agreement and all applicable laws, rules, and regulations. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: The LLC has conducted all of its activities in strict compliance with the LLC Agreement and all applicable laws, rules, and regulations. No issues have been raised by the Internet Society, the LLC’s legal counsel, the LLC’s auditors, or other parties. 
 
 29. **Requirement:** Ensuring that IETF LLC is run in a manner that is transparent and accountable to the IETF community. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: See also Requirement 5 above. The IETF LLC Board meets monthly, with meetings open to the community. The only items kept confidential relate to contract negotiations, contractor reviews, personnel matters or in some cases the exact financial rates in published contracts. All items are available on the IETF website via the [IETF LLC webpage](https://www.ietf.org/about/administration). The IETF LLC has also conducted extensive community consultations, such as in 2019 for the [development of required policies](https://www.ietf.org/blog/ietf-llc-draft-policies-comment/). Since the IETF LLC formed, [more than a dozen consultations](https://www.ietf.org/about/administration/announcements/) have been conducted as well as several surveys of the IETF community. Decisions have also been adapted based on community feedback, such as relating to the IETF’s initial policies, our privacy policy, and fees for online-only meetings.  
 
@@ -238,9 +240,9 @@ Comments: The LLC has obtained all necessary and recommended insurance policies,
 
 32. **Requirement:** Recruiting new Directors for consideration in all of the various appointment processes. \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
-Comments: This requirement is more fully explained in [Section 6.3 of RFC 8711](https://www.rfc-editor.org/rfc/rfc8711.html#name-recruiting-ietf-llc-board-d). The LLC’s interim Board and inaugural Board have both complied with this requirement. The interim Board worked to recruit candidates to meet various requirements and a mix of skills, experience, and independence from the IETF. From the inaugural Board to the current Board, the Board has (1) appointed a liaison to each of the three IETF Nominating Committees (NomComs) since the creation of the LLC and (2) provided requirements to the IETF NomCom and ISOC Board (for the ISOC-appointed Director). The Board has so far not sought to recruit Board-appointed Directors. 
+Comments: This requirement is more fully explained in [Section 6.3 of RFC 8711](https://www.rfc-editor.org/rfc/rfc8711.html#name-recruiting-ietf-llc-board-d). The LLC’s interim Board and inaugural Board have both complied with this requirement. The interim Board worked to recruit candidates to meet various requirements and a mix of skills, experience, and independence from the IETF. From the inaugural Board to the current Board, the Board has (1) appointed a liaison to each of the three IETF Nominating Committees (NomComs) since the creation of the LLC and (2) provided requirements to the IETF NomCom and ISOC Board (for the ISOC-appointed Director). The Board has so far not sought to recruit Board-appointed Directors. See also the response to Requirement 34 below.
 
 ***[Section 5.3](https://www.rfc-editor.org/rfc/rfc8711.html#name-board-design-goals)<span style="text-decoration:underline;"> - Board Design Goals</span>***
 
@@ -253,7 +255,7 @@ Comments: This requirement is more fully explained in [Section 6.3 of RFC 8711](
 - Overcome the challenges described in [Section 3.1.4 of the IASA 2.0 Design Team Recommendations](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-3.1.4) concerning oversight. 
 - Operate transparently to address issues noted in [Section 3.3 of the IASA 2.0 Design Team Recommendations](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-3.3). \
  \
-Status:	&#x1F7E2; Achieved / On Track \
+Status:	&#x1F7E2; Achieved \
  \
 Comments: The LLC has operated in a manner that meets this requirement. In particular, it has met the oversight requirement by hiring two staff members as well as contractors to fulfill functions previously provided by the Internet Society and the LLC Board, with the LLC Executive Director now having direct oversight of those people to meet this requirement. As well, the transparency requirements have been met as noted in the response to Requirement 5 above. In addition, the Board has adopted policies to ensure accountability to the IETF (as noted earlier in this document) and has operated consistent with those policies. Finally, the current Board has demonstrated that it has the expertise necessary to oversee a small non-profit company and the mechanisms for populating the Board have worked. 
 [Section 6.1](https://www.rfc-editor.org/rfc/rfc8711.html#name-board-composition)<span style="text-decoration:underline;"> - Board Composition</span>
@@ -266,7 +268,7 @@ Comments: The LLC has operated in a manner that meets this requirement. In parti
 - 3 Selected by the IETF Nominating Committee (NomCom), confirmed by the IESG 
 - Up to 2 Appointed by the IETF LLC Board itself, on an as-needed basis, confirmed by the IESG \
  \
-Status: &#x1F7E2; Achieved / On Track \
+Status: &#x1F7E2; Achieved \
  \
 Comments: The Board has not exceeded 5 Directors since the inaugural Board was formed. The Board has so far not found it necessary to appoint additional Board members and has found that keeping the number of Board members to 5 has served as a natural limiter of Board attention, meaning it has kept the Board focused on the most important and strategic issues rather than getting into a level of detail that is best performed by staff, contractors, or volunteers. It remains to be seen whether in the future the Board will find it useful to appoint up to two additional Directors on an as-needed basis, though having the option to do so appears to remain a valuable attribute of the IASA2 structure. \
  \
@@ -285,7 +287,7 @@ The discussion also concluded that the correct body to perform this consultation
 
 35. **Requirement**: File an annual IRS Form 990, report on a regular basis to the IETF community on the current and future annual budget, budget forecasts vs. actuals over the course of a fiscal year, and on other significant projects as needed. This regular reporting to the IETF community is expected to be reported in the form of standard financial statements that reflect the income, expenses, assets, and liabilities of the IETF LLC. \
  \
-Status: 	&#x1F7E2; Achieved / On Track \
+Status: 	&#x1F7E2; Achieved \
  \
 Comments: As noted in Requirement 22 above, see the [financial statements](https://www.ietf.org/about/administration/financial-statements/) page, which includes links to budgets, financial statements and financial audits. In addition, as noted in Requirement 24, the LLC has provided all necessary tax and financial information to the Internet Society, via their Chief Financial Officer. The LLC’s numbers are included in [ISOC’s IRS Form 990 filings](https://www.internetsociety.org/about-internet-society/financial-reports/).  
 
@@ -295,7 +297,7 @@ Comments: As noted in Requirement 22 above, see the [financial statements](https
 
 36. **Requirement**: The IETF LLC maintains its own bank account, separate and distinct from ISOC. The IETF LLC may at its discretion create additional accounts as needed. Similarly, the IETF LLC may as needed create investment accounts in support of its financial goals and objectives. \
  \
-Status: &#x1F7E2; Achieved / On Track \
+Status: &#x1F7E2; Achieved \
  \
 Comments: The IETF LLC has established bank and investment accounts that are independent of the Internet Society. 
 
@@ -305,7 +307,7 @@ Comments: The IETF LLC has established bank and investment accounts that are ind
 
 37. **Requirement**: The IETF LLC is expected to retain and work with an independent auditor. Reports from the auditor are expected to be shared with the IETF community and other groups and organizations as needed or as required by law. \
  \
-Status: &#x1F7E2; Achieved / On Track \
+Status: &#x1F7E2; Achieved \
  \
 Comments: As noted in Requirement 22 above, see the [financial statements](https://www.ietf.org/about/administration/financial-statements/) page, which includes links to budgets, financial statements and financial audits. In addition, as noted in Requirement 24, the LLC has provided all necessary tax and financial information to the Internet Society, via their Chief Financial Officer. The LLC’s numbers are included in [ISOC’s IRS Form 990 filings](https://www.internetsociety.org/about-internet-society/financial-reports/).
 
@@ -315,7 +317,7 @@ Comments: As noted in Requirement 22 above, see the [financial statements](https
 
 38. **Requirement**: ISOC currently provides significant financial support to the IETF LLC. Exhibit B of the [IETF LLC Agreement ](https://www.ietf.org/documents/180/IETF-LLC-Agreement.pdf)summarizes the financial support from ISOC for the foreseeable future. It is expected that this support will be periodically reviewed and revised, via a cooperative assessment process between ISOC and the IETF LLC. \
  \
-Status: &#x1F7E2; Achieved / On Track \
+Status: &#x1F7E2; Achieved \
  \
 Comments: A new agreement with ISOC was [announced on 30 November 2020](https://www.ietf.org/blog/isoc-financial-commitment/). The executed 16 November 2020 [agreement is posted](https://www.ietf.org/media/documents/IETF_Funding_Agreement_-_Executed_-_20201123.pdf), as is a [brief amendment ](https://www.ietf.org/media/documents/IETF_ISOC_Funding_Amendment_Amendment_-_20201222.pdf)from 22 December 2020.  
 
@@ -337,7 +339,9 @@ A change to meeting fees was motivated in response to the events that followed t
 
     The adjusted budgets, based around reduced fees and reduced sponsorship levels, have proven sufficiently accurate with all online meetings making a small surplus/loss, as budgeted. \
  \
-While the LLC at the time identified an area of improvement to the fee consultation process, in retrospect we believe that in the bigger picture the shift to online meetings was executed successfully in the face of an unprecedented global crisis, in the short period of time necessitated by these unforeseen external events, and with minimal financial impact to the organization, preserving a key revenue stream and ensuring the ongoing financial stability of the IETF.  Our [reforecast 2020 budget](https://www.ietf.org/media/documents/ietf-2020-budget-reforecast-f1-approved.pdf) and [2020 Audited FInancials](https://www.ietf.org/media/documents/2020_Audited_Financials.pdf) provide further details.   
+While the LLC at the time identified an area of improvement to the fee consultation process, in retrospect we believe that in the bigger picture the shift to online meetings was executed successfully in the face of an unprecedented global crisis, in the short period of time necessitated by these unforeseen external events, and with minimal financial impact to the organization, preserving a key revenue stream and ensuring the ongoing financial stability of the IETF.  Our [reforecast 2020 budget](https://www.ietf.org/media/documents/ietf-2020-budget-reforecast-f1-approved.pdf) and [2020 Audited FInancials](https://www.ietf.org/media/documents/2020_Audited_Financials.pdf) provide further details. \
+ \
+See also an associated recommendation in Section E below.
 
 
 ***[Section 7.6](https://www.rfc-editor.org/rfc/rfc8711.html#name-sponsorships-and-donations-) - Sponsorships and Donations to the IETF LLC***
@@ -364,7 +368,7 @@ Finally, the hiring of a [Director of Development was announced](https://mailarc
 
 41. **Requirement**: The IETF LLC exists to support the IETF, IAB, and IRTF. Therefore, the IETF LLC's funding and all revenues, in-kind contributions, and other income that comprise that funding shall be used solely to support activities related to the IETF, IAB, IRTF, and RFC Editor, and for no other purposes. \
  \
-Status: &#x1F7E2; Achieved / On Track  \
+Status: &#x1F7E2; Achieved  \
  \
 Comments: The LLC does not fund programs or groups beyond those specified in this requirement, which also includes the IETF Trust. In addition, the LLC develops the IETF’s annual budget in a bottoms-up manner, based on the cost estimates and plans provided by these programs and groups.
 
@@ -374,7 +378,7 @@ Comments: The LLC does not fund programs or groups beyond those specified in thi
 
 42. **Requirement**: When the IETF LLC conducts fundraising, it substantiates charitable contributions on behalf of ISOC -- meaning that according to United States tax law, the IETF LLC must send a written acknowledgment of contributions to donors. The IETF LLC evaluates and facilitates state, federal, and other applicable law and regulatory compliance for ISOC and/or the LLC with respect to such fundraising activities. In addition, the IETF LLC ensures that all fundraising activities are conducted in compliance with any policies developed by the IETF LLC, including but not limited to those noted in [Section 8](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-llc-policies). \
  \
-Status: &#x1F7E2; Achieved / On Track  \
+Status: &#x1F7E2; Achieved  \
  \
 Comments: As noted in Requirement 24, the LLC has provided all necessary tax and financial information to the Internet Society, via their Chief Financial Officer. The LLC’s numbers are included in [ISOC’s IRS Form 990 filings](https://www.internetsociety.org/about-internet-society/financial-reports/). This fundraising is done consistent with various IETF LLC policies, such as the [OFAC Compliance Policy](https://www.ietf.org/media/documents/IETF_LLC_OFAC_Compliance_Policy_2020-10-06.pdf) and [Charitable Contribution Acceptance Policy](https://www.ietf.org/media/documents/IETF_LLC_Charitable_Contribution_Acceptance_Policy_2020-07-13.pdf).
 
@@ -386,7 +390,7 @@ Comments: As noted in Requirement 24, the LLC has provided all necessary tax and
  \
 Should the IETF LLC generate an annual budget surplus, it may choose to direct all or part of the surplus towards the growth of the operating reserve. \
  \
-Status: &#x1F7E2; Achieved / On Track with Suggested Action Items \
+Status: &#x1F7E2; Achieved / With Suggested Action Items \
  \
 Comments: The LLC continued to maintain an operating reserve fund. As of June 2021, the operating reserve balance is over $5,200,0001. The LLC believes this reserve is sufficient at this time, based on the organization’s projected expenses. \
  \
@@ -404,7 +408,7 @@ The Board, as explained in [Section 5.2](https://www.rfc-editor.org/rfc/rfc8711.
  \
 The annual budget is expected to be developed in an open, transparent, and collaborative manner, in accordance with [Section 4.4](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-llc-working-principles). The specific timeline for the development, review, and approval of the IETF LLC annual budget is established by the Board and may be revised as needed. \
  \
-Status: &#x1F7E2; Achieved / On Track \
+Status: &#x1F7E2; Achieved \
  \
 Comments: The LLC and the IETF Executive Director have followed this process for developing an annual budget and reporting financial results. As noted in Requirement 22 above, see the [financial statements](https://www.ietf.org/about/administration/financial-statements/) page, which includes links to budgets, financial statements, and financial audits.  \
  \
@@ -477,7 +481,7 @@ Comments: Published here for each one -
  \
 The IETF LLC is expected to report to ISOC and the IETF community on the implementation of its compliance plan on an annual basis. \
  \
-Status: &#x1F7E2; Achieved / On Track \
+Status: &#x1F7E2; Achieved \
  \
 Comments: Compliance reports have been published on the [LLC Reports](https://www.ietf.org/about/administration/reports/) page
 
@@ -492,7 +496,7 @@ Comment on this section: This expired draft is not authoritative, as BCP 101 or 
 
 49. **Requirement**: Protect the IETF's Culture and Technical Work: Ensure that the future IASA organizational structure and processes preserve and protect the IETF's unique culture of individual contribution, clear separation of financial support from technical work, as well as the "rough consensus and running code" approach to the development of open Internet standards. \
  \
-Status: &#x1F7E2; Achieved / On Track \
+Status: &#x1F7E2; Achieved \
  \
 Comments: The IETF’s culture and technical work continues along the same path it was on prior to the IASA2 changes. 
 
@@ -535,8 +539,7 @@ Comments: The LLC believes that this was achieved via the various [RFCs from the
 Status: &#x1F7E2; Achieved \
  \
 Comments: This was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC. See also the response above to Requirement 50. In addition, while the initial steps taken to increase transparency were a big step in the right direction, the LLC continues to work to strengthen and improve engagement and feedback processes with the IETF community (noting the challenge in how that community is defined and the wide range of mechanisms for feedback, as well as a first [IETF-wide community survey](https://www.ietf.org/blog/first-annual-ietf-community-survey/)). We also acknowledge that the pandemic has made it impossible to have the informal hallway, break time, or meal time interactions that so often provide an additional channel for feedback. We believe once face-to-face meetings return that being able to resume these informal interactions will further improve the LLC’s ability to receive and act on feedback. 
- \
- \ 
+
 
 56. **Requirement**: Re-Define the Role of the IETF Community in Relation to Administrative Activities: As the roles and responsibilities for support staff and volunteer roles are clarified more precisely, the role of the IETF community in relation to those staff and volunteer roles must be better defined.  This should acknowledge the limited time and availability of IETF volunteers, better defining expectations around oversight of and involvement in strategic, operational, and execution tasks within the administrative efforts. \
  \
@@ -549,7 +552,7 @@ Comments: This was achieved via the various [RFCs from the IASA2 working group](
 
 57. **Requirement**: Define Improved Transparency Requirements: The general level of  operational transparency and information-sharing between IETF administrative staff and groups to the IETF community must be kept at an acceptable level, and improved where it makes sense in the future. This includes ensuring the timeliness of sharing of information and decisions, as well as seeking comment on prospective decisions.  At the same time, we need to reset expectations around delegated authority so that once staff or an administrative support organization has been delegated certain authority it is clear that they are empowered to proceed in a particular area, so as to improve organizational efficiency, reduce friction, and improve the pace of work and decision-making. However, it is clear that enabling a group or staff to act within their delegated authority depends upon a clearer definition of roles and responsibilities, on improved transparency, on improved communications, and on trust (which is built upon all of those things over time) \
  \
-Status: &#x1F7E2; Achieved / On Track \
+Status: &#x1F7E2; Achieved \
  \
 Comments: This was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC. See also the [Board/ED Delegated Authorities](https://www.ietf.org/media/documents/IETF_LLC_Delegated_Authorities_2020-06-11.pdf) policy and the [Community Engagement Policy](https://www.ietf.org/about/administration/policies-procedures/community-engagement-policy/). See also the response to Requirement 55 above. 
 
@@ -587,11 +590,13 @@ Comments: The organizational changes have been made and staff hired.
  \
 Status: &#x1F7E1; Partly Achieved / In Progress \
  \
-Comments: During the IASA2 transition and bootstrapping process, we are pleased that no sponsors or funding has been lost. In addition, a [new funding agreement](https://www.ietf.org/blog/isoc-financial-commitment/) with a novel matching program has been agreed upon with ISOC. There is also a [revised sponsorship program](https://www.ietf.org/blog/revised-ietf-sponsorship-program/) that is successfully attracting interest and incremental funding, a [revised endowment policy](https://www.ietf.org/about/administration/policies-procedures/endowment-policy/), a structure for [online-only meeting registration fees](https://mailarchive.ietf.org/arch/msg/ietf-announce/B6mndcJUVrU1tNkx0ueVQkawlLU/), and a newly hired Director of Development to lead the IETF’s fundraising efforts. These are all long-term efforts that will take time to bear fruit. 
+Comments: During the IASA2 transition and bootstrapping process, we are pleased that pre-existing sponsors and funding was maintained. In addition, a [new funding agreement](https://www.ietf.org/blog/isoc-financial-commitment/) with a novel matching program has been agreed upon with ISOC. There is also a [revised sponsorship program](https://www.ietf.org/blog/revised-ietf-sponsorship-program/) that is successfully attracting interest and incremental funding, a [revised endowment policy](https://www.ietf.org/about/administration/policies-procedures/endowment-policy/), a structure for [online-only meeting registration fees](https://mailarchive.ietf.org/arch/msg/ietf-announce/B6mndcJUVrU1tNkx0ueVQkawlLU/), and a newly hired Director of Development to lead the IETF’s fundraising efforts. These are all long-term efforts that will take time to bear fruit. 
  \
  \
-However, one area for action is determining what the meeting registration structure should look like for a post-COVID-19 era of hybrid meetings. The IETF LLC has opened, on 30 August 2021, [a consultation](https://mailarchive.ietf.org/arch/msg/ietf-announce/Pw1FOZyVnfyxBLADDwqdiMZW4E0/) on this question and associated issues. In addition, the IESG is in the process of rechartering the [SHMOO working group](https://datatracker.ietf.org/wg/shmoo/about/) to expand its focus from online meetings to hybrid meetings. This will now be the subject of an upcoming IETF LLC-IESG-IAB-IRTF leadership workshop in 2021. Finally, it is expected that IETF-113 in March 2022 may be the first hybrid IETF meeting. 
-
+However, one area for action is determining what the meeting registration structure should look like for a post-COVID-19 era of hybrid meetings. On 30 August 2021, the IETF LLC opened [a consultation](https://mailarchive.ietf.org/arch/msg/ietf-announce/Pw1FOZyVnfyxBLADDwqdiMZW4E0/) on this question and associated issues. In addition, the IESG is in the process of rechartering the [SHMOO working group](https://datatracker.ietf.org/wg/shmoo/about/) to expand its focus from online meetings to hybrid meetings. This will now be the subject of an upcoming IETF LLC-IESG-IAB-IRTF leadership workshop in 2021. Finally, it is expected that IETF-113 in March 2022 may be the first hybrid IETF meeting. 
+ \
+ \
+See also an associated recommendation in Section E below.
 
 ***[Section 5.6.3](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-5.6.3) - [Funding] Level***
 
@@ -623,7 +628,7 @@ Other RFCs were published in the IASA2 series. These are cited here for complete
 
 63. **Requirement**: Comply with these additional IASA2-related RFCs as necessary \
  \
-Status: &#x1F7E1; Achieved \
+Status: &#x1F7E2; Achieved \
  \
 Comments: Before IASA2, the same people were members of the IAOC and the IETF Trust. A side effect of the IASA2 change was that different people serve in the 
 IETF LLC and IETF Trust, potentially creating some distance where there was none before while also bringing the benefit of more specialized legal knowledge 
@@ -637,7 +642,6 @@ IETF Trust should conduct a community consultation concerning this issue and pot
 structure for the IETF Trust that would better protect those experts that serve the IETF Trust while also maintaining close alignment with the IETF.
 
 **D. Other Gaps**
-
  \
 The IETF LLC also asked an open-ended question of the IETF community, seeking suggestions on any additional administrative, financial, legal, or operational gaps; areas of improvement; and any areas of under-specification or over-specification in IASA2 documents that the IETF LLC Board, IETF Secretariat, IETF Executive Director, or the IETF community perceive that have not already been addressed in prior sections of this document. No comments were received in this area that have not already been addressed in prior sections of this document. 
 
@@ -653,7 +657,9 @@ The point of performing a regular assessment is that the IETF's way of working a
 
 In addition, as the IETF evolves how the organization wishes to work and meet in a post-COVID world, such as potentially changing meeting frequency, reducing in-person venue size requirements, shifting to hybrid meetings, and so on, the IETF LLC will need to adapt to provide the necessary administative, operational, legal, financial, and other support to meet the changing needs of the IETF.
 
-2. As noted in the comments part of Requirement 63, we recommend that the IETF Trust initate a community consultation concerning improvements in their legal structure.
+2. As noted in the comments part of Requirement 43, we recommenda two financial-related actions that should be made a part of the IETF LLC’s annual budget process. First, the LLC should annually update and specify the financial target for reserve-related funds. Second, the LLC should annually review all reserve-related funds and the [Investment Policy](https://www.ietf.org/media/documents/IETF_IPS_ADOPTED_20191218_REDACTED.pdf), and update these as necessary. These reviews would be best timed to coincide with the annual budget process.
+
+3. As noted in the comments part of Requirement 63, we recommend that the IETF Trust initate a community consultation concerning improvements in their legal structure. 
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
