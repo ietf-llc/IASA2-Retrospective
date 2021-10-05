@@ -502,8 +502,7 @@ Status: &#x1F7E1; In Process \
  \
 Comments: This remains a key focus for the LLC, as there continues to be technical debt that needs to be addressed, and the IETF wishes to move towards more modern software architecture, systems architecture, software development practices and user-centred design.  The current short-term focus is migrating core services off of tools.ietf.org onto managed IETF servers with a mix of like-for-like services, switching to new services (such as from Trac to GitHub) and replacing existing services with enhanced functionality. Resourcing continues to be a limiting factor and the LLC has increased the use of existing contractors, cultivated new contractors, and employed a new Senior Software Development Engineer to address this limitation, thus providing more capacity to take on a greater volume of technical work.  \
  \
-We also observed that tension arose in the process of working towards meeting this requirement, as the LLC attempted (as required) to better define roles, responsibilities, and accountability between contractors and volunteers - especially when an individual was simultaneously both a contractor and a volunteer in a specific context. This appears to have been resolved and as the technical platforms of the IETF evolve it appears that roles, responsibilities, and accountabilities are becoming more clear cut and easier to understand. \
- \
+We also observed that tension arose in the process of working towards meeting this requirement, as the LLC attempted (as required) to better define roles, responsibilities, and accountability between contractors and volunteers - especially when an individual was simultaneously both a contractor and a volunteer in a specific context. This appears to have been resolved and as the technical platforms of the IETF evolve it appears that roles, responsibilities, and accountabilities are becoming more clear cut and easier to understand. 
 
 51. **Requirement**: Clearly Define the IETF-ISOC Relationship: Define the roles of IETF and ISOC in a way that helps the above structure be as clear as possible, in terms of who does what, how are things accounted for, and who is in charge of adjustments and control (e.g., staff resources).  This also includes consideration of a new funding model that takes into account the historical responsibility for the IETF that ISOC has had since its inception. \
  \
@@ -545,19 +544,19 @@ _Question during community review: What else would the community like to see wit
 The new design needs to ensure that volunteers are not overloaded in such things as low level operational decisions, which can be delegated to and handled by staff, and can instead focus on strategic changes, critical decisions, and so on.  In particular, this should focus on clearly documenting the lines between responsibility, representation, authority, and oversight. 
  \
  \
-Status: &#x1F7E2;Achieved / On Track \
+Status: &#x1F7E2; Achieved / On Track \
  \
 Comments: This was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC. See also the response above to Requirement 50. 
 
 57. **Requirement**: Define Improved Transparency Requirements: The general level of  operational transparency and information-sharing between IETF administrative staff and groups to the IETF community must be kept at an acceptable level, and improved where it makes sense in the future. This includes ensuring the timeliness of sharing of information and decisions, as well as seeking comment on prospective decisions.  At the same time, we need to reset expectations around delegated authority so that once staff or an administrative support organization has been delegated certain authority it is clear that they are empowered to proceed in a particular area, so as to improve organizational efficiency, reduce friction, and improve the pace of work and decision-making. However, it is clear that enabling a group or staff to act within their delegated authority depends upon a clearer definition of roles and responsibilities, on improved transparency, on improved communications, and on trust (which is built upon all of those things over time) \
  \
-Status: &#x1F7E2;Achieved / On Track \
+Status: &#x1F7E2; Achieved / On Track \
  \
 Comments: This was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC. See also the [Board/ED Delegated Authorities](https://www.ietf.org/media/documents/IETF_LLC_Delegated_Authorities_2020-06-11.pdf) policy and the [Community Engagement Policy](https://www.ietf.org/about/administration/policies-procedures/community-engagement-policy/). See also the response to Requirement 55 above. 
 
 58. **Requirement**: Define a Transition Plan: Determine what new IASA structure we need and define a transition plan from the model the IETF has today to the new structure. \
  \
-Status: &#x1F7E2;Achieved / On Track \
+Status: &#x1F7E2; Achieved / On Track \
  \
 Comments: This requirement was met and documented in [this transition plan](https://mailarchive.ietf.org/arch/msg/ietf-announce/8r8NFnfTx2rlWKBavNz8zHRve-w/).
 
@@ -567,7 +566,7 @@ Comments: This requirement was met and documented in [this transition plan](http
 
 59. **Requirement**: Experience with selection for the IAOC and the ISOC Board shows the difficulty of using the nomcom process to select a board with the kind of business skills necessary to supervise an operation like IETFAdminOrg.  These skills are not common -- though also not non-existent -- within the IETF community, which makes it hard to find candidates as well as reducing the chance that nomcom members will have the personal contacts to identify external candidates with the appropriate skills.  For this reason, the design team does not believe that direct nomcom selection of the whole board will be successful.  In the ISOC Subsidiary model, ISOC might also nominate some board members.  Below we present two alternative mechanisms for selecting the remaining board members, though there are others that would perhaps be successful.  Regardless of the nomination mechanism, the entire board should be subject to confirmation by the IETF Leadership. \
  \
-Status: &#x1F7E2;Achieved \
+Status: &#x1F7E2; Achieved \
  \
 Comments: See Requirement 34 above.
 
@@ -577,7 +576,7 @@ Comments: See Requirement 34 above.
 
 60. **Requirement**: The design team believes that staff resources need to increase and/or be reorganized in order to move from one director to a few more specialized roles. \
  \
-Status: &#x1F7E2;Achieved \
+Status: &#x1F7E2; Achieved \
  \
 Comments: The organizational changes have been made and staff hired.
 
