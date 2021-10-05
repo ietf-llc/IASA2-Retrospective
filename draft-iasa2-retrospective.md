@@ -532,19 +532,18 @@ Comments: The LLC believes that this was achieved via the various [RFCs from the
 
 55. **Requirement**: Define Support Staff Roles and Responsibilities: Clearly define the roles of the oversight entities and staff/contractors to match the expanded work scope facing the IETF.  Ensure that any changes create a structure that can adapt flexibly to future growth and other changes (including changes in IETF community expectations, such as increased transparency or more rapid decision-making). \
  \
-Status: &#x1F7E2; Achieved / On Track \
+Status: &#x1F7E2; Achieved \
  \
 Comments: This was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC. See also the response above to Requirement 50. In addition, while the initial steps taken to increase transparency were a big step in the right direction, the LLC continues to work to strengthen and improve engagement and feedback processes with the IETF community (noting the challenge in how that community is defined and the wide range of mechanisms for feedback, as well as a first [IETF-wide community survey](https://www.ietf.org/blog/first-annual-ietf-community-survey/)). We also acknowledge that the pandemic has made it impossible to have the informal hallway, break time, or meal time interactions that so often provide an additional channel for feedback. We believe once face-to-face meetings return that being able to resume these informal interactions will further improve the LLC’s ability to receive and act on feedback. 
  \
- \
-_Question during community review: What else would the community like to see with regards to transparency or speed of decision-making?_ 
+ \ 
 
 56. **Requirement**: Re-Define the Role of the IETF Community in Relation to Administrative Activities: As the roles and responsibilities for support staff and volunteer roles are clarified more precisely, the role of the IETF community in relation to those staff and volunteer roles must be better defined.  This should acknowledge the limited time and availability of IETF volunteers, better defining expectations around oversight of and involvement in strategic, operational, and execution tasks within the administrative efforts. \
  \
 The new design needs to ensure that volunteers are not overloaded in such things as low level operational decisions, which can be delegated to and handled by staff, and can instead focus on strategic changes, critical decisions, and so on.  In particular, this should focus on clearly documenting the lines between responsibility, representation, authority, and oversight. 
  \
  \
-Status: &#x1F7E2; Achieved / On Track \
+Status: &#x1F7E2; Achieved \
  \
 Comments: This was achieved via the various [RFCs from the IASA2 working group](https://datatracker.ietf.org/wg/iasa2/documents/) and the associated contracts and formative documents that initially created the LLC. See also the response above to Requirement 50. 
 
@@ -556,7 +555,7 @@ Comments: This was achieved via the various [RFCs from the IASA2 working group](
 
 58. **Requirement**: Define a Transition Plan: Determine what new IASA structure we need and define a transition plan from the model the IETF has today to the new structure. \
  \
-Status: &#x1F7E2; Achieved / On Track \
+Status: &#x1F7E2; Achieved \
  \
 Comments: This requirement was met and documented in [this transition plan](https://mailarchive.ietf.org/arch/msg/ietf-announce/8r8NFnfTx2rlWKBavNz8zHRve-w/).
 
@@ -600,7 +599,7 @@ However, one area for action is determining what the meeting registration struct
 
 62. **Requirement**:  See the [several paragraphs in the linked document](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-5.6.3), which includes the key requirements to: improve the accounting of IETF-related costs, ensure realism in the budget, [maintain] ISOC as a funder and backstop, [maintain an] appropriate funding level. \
  \
-Status: &#x1F7E2; Achieved / On Track \
+Status: &#x1F7E2; Achieved \
  \
 Comments: See the responses to many of the Requirements above, including numbers 2, 10, 11, 12, 22, 23, 31, 35, 36, 37, 39, 41, 43, and 44. In addition, looking specifically at the past and future funding levels from ISOC, the first two years were specified at the time the LLC was formed, while the new agreement in 2020 specifies six additional years, as graphically represented here: 
 
@@ -620,20 +619,22 @@ Other RFCs were published in the IASA2 series. These are cited here for complete
 *   [RFC 8716](https://www.rfc-editor.org/rfc/rfc8716.html) - Update to the IETF Anti-Harassment Procedures for the Replacement of the IETF Administrative Oversight Committee (IAOC) with the IETF Administration LLC
 *   [RFC 8717](https://www.rfc-editor.org/rfc/rfc8717.html) - IETF Administrative Support Activity 2.0: Consolidated Updates to IETF Administrative Terminology
 *   [RFC 8721](https://www.rfc-editor.org/rfc/rfc8721.html) - Advice to the Trustees of the IETF Trust on Rights to Be Granted in IETF Documents
+
+
 63. **Requirement**: Comply with these additional IASA2-related RFCs as necessary \
  \
-Status: &#x1F7E1; Achieved but Identifying One Discussion Item \
+Status: &#x1F7E1; Achieved \
  \
 Comments: Before IASA2, the same people were members of the IAOC and the IETF Trust. A side effect of the IASA2 change was that different people serve in the 
 IETF LLC and IETF Trust, potentially creating some distance where there was none before while also bringing the benefit of more specialized legal knowledge 
 & experience for those people serving the IETF Trust. At the same time, the unusual structure of the IETF Trust makes those that serve in the IETF Trust 
 personally financially liable for the IETF Trust. This has historically been mitigated by obtaining liability insurance for members of the IETF Trust, 
-but it has in the past few years become impossible to further increase that insurance. _As a result it seems beneficial for the IETF community to explore 
+but it has in the past few years become impossible to further increase that insurance. \
+\
+As a result it seems beneficial for the IETF community to explore 
 potential changes to the legal structure of the IETF Trust. There are at least two major options for achieving this, if not more. We suggest that the 
-IETF Trust alone or in partnership with the IETF LLC should conduct a community consultation concerning this issue and potential future changes in legal 
-structure for the IETF Trust that would better protect those experts that serve the IETF Trust while also maintaining close alignment with the IETF._
-
-_Question during community review (Respond at https://github.com/ietf-llc/IASA2-Retrospective/issues/7): What should the next steps be here? (The current plan is for the IETF Trust to initiate this consultation and to solely manage the consultation. The IETF LLC and the IETF community may then each provide comment when that occurs.)_
+IETF Trust should conduct a community consultation concerning this issue and potential future changes in legal 
+structure for the IETF Trust that would better protect those experts that serve the IETF Trust while also maintaining close alignment with the IETF.
 
 **D. Other Gaps**
 
