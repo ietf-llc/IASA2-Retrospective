@@ -22,7 +22,7 @@ This requirement is being met in the report below, by extracting requirements an
 1. **Email**: send feedback to [admin-discuss@ietf.org](mailto:admin-discuss@ietf.org) 
 2. **GitHub**: Open an issue or propose a pull request at [https://github.com/ietf-llc/IASA2-Retrospective](https://github.com/ietf-llc/IASA2-Retrospective) 
 3. **Live Webinars**: The IETF LLC held two live webinars to take live input and questions on July 12 and the second on August 11, 2021.
-4. **IETF 111 Office Hours**: The IETF LLC will held open [office hours during IETF 111](https://datatracker.ietf.org/meeting/111/agenda/?show=llcofficehours) in July 2021 in [Gather.town](https://www.ietf.org/how/meetings/111/111gather/). You can join us at that time to provide input or ask questions.
+4. **IETF 111 Office Hours**: The IETF LLC held open [office hours during IETF 111](https://datatracker.ietf.org/meeting/111/agenda/?show=llcofficehours) in July 2021 in [Gather.town](https://www.ietf.org/how/meetings/111/111gather/) to take questions and input.
 
 **-------------------------------------------------------------------------------------------------------------------------------**
 
