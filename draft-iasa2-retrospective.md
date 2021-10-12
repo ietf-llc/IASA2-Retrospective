@@ -488,7 +488,7 @@ Key IETF LLC Board responsibilities include:
       with the need for this Board to have the expertise necessary to oversee a
       small non-profit company.
 
-    - Focus on the it's limited set of strategic responsibilities as noted in
+    - Focus on the limited set of strategic responsibilities as noted in
       [Section 5.2 of RFC
       8711](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-llc-board-responsibili)
       (enumerated here in Requirements 16 - 32).
@@ -591,8 +591,8 @@ Key IETF LLC Board responsibilities include:
 
 36. **Requirement**: The IETF LLC maintains its own bank account, separate and
     distinct from ISOC. The IETF LLC may at its discretion create additional
-    accounts as needed. Similarly, the IETF LLC may as needed create investment
-    accounts in support of its financial goals and objectives.
+    accounts as needed. Similarly, the IETF LLC may create investment accounts
+    in support of its financial goals and objectives as needed.
 
     **Status:** &#x1F7E2; Achieved
 
@@ -773,7 +773,7 @@ Key IETF LLC Board responsibilities include:
     program](https://www.ietf.org/blog/revised-ietf-sponsorship-program/) was
     then announced on 2 March 2021. In the new structure, most opportunities are
     presented as annual or multi-year commitments with benefits that extend
-    across and beyond meetings. In addition there are new values-based
+    across and beyond meetings. In addition, there are new values-based
     categories to support running code, diversity and inclusion, and
     sustainability. These include programs such as IETF Hackathons, meeting
     registration fee waivers, and initiatives designed to reduce our impact on
@@ -1061,10 +1061,10 @@ Key IETF LLC Board responsibilities include:
 ## B. [IASA 2.0 Design Team Recommendations](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03)
 
 Comment on this section: This expired draft is not authoritative, as BCP 101 or
-other BCPs/RFCs are. However we felt it may be useful to include (we'd encourage
-comment on that), as we have found that it can sometimes provide additional
-context and motivation for the goals and requirements that did end up in the
-authoritative documents.
+other BCPs/RFCs are. However, we felt it may be useful to include (we'd
+encourage comment on that), as we have found that it can sometimes provide
+additional context and motivation for the goals and requirements that did end up
+in the authoritative documents.
 
 ### [Section 4](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-4) - Goals
 
@@ -1115,7 +1115,7 @@ authoritative documents.
     volunteers - especially when an individual was simultaneously both a
     contractor and a volunteer in a specific context. This appears to have been
     resolved and as the technical platforms of the IETF evolve it appears that
-    roles, responsibilities, and accountabilities are becoming more clear cut
+    roles, responsibilities, and accountabilities are becoming more clear-cut
     and easier to understand.
 
 51. **Requirement**: Clearly Define the IETF-ISOC Relationship: Define the roles
