@@ -1333,7 +1333,7 @@ in the authoritative documents.
 
     **Comments:** The organizational changes have been made and staff hired.
 
-### [Section 5.6.2](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-5.6.2) - [Funding] Sources and Stability
+### [Section 5.6.2](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-5.6.2) - Funding Sources and Stability
 
 61. **Requirement**: See the [several paragraphs in the IASA2 Design Team
     Recommendations
@@ -1379,7 +1379,7 @@ in the authoritative documents.
 
     See also an associated recommendation in Section E below.
 
-### [Section 5.6.3](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-5.6.3) - [Funding] Level
+### [Section 5.6.3](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-5.6.3) - Funding Level
 
 62. **Requirement**:  See the [several paragraphs in the linked
     document](https://datatracker.ietf.org/doc/html/draft-haberman-iasa20dt-recs-03#section-5.6.3),
