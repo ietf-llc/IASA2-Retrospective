@@ -6,7 +6,7 @@ BCP 101 / RFC 8711 specifies a requirement to conduct a [three-year
 retrospective](https://www.rfc-editor.org/rfc/rfc8711.html#name-three-year-assessment
 ) of the IETF Administrative Support Activity version 2.0 (IASA2). This
 requirement is being met in the report below, by extracting requirements and
-goals from documents developed during the IASA2 process and evaluating each of
+goals from documents developed during the IASA2 process, evaluating each of
 them, and assessing performance on those requirements and goals.
 
 ## Timeline
@@ -38,7 +38,7 @@ them, and assessing performance on those requirements and goals.
    GitHub](https://github.com/ietf-llc/IASA2-Retrospective).
 
 3. **Live Webinars**: The IETF LLC held two live webinars to take live input and
-   questions on July 12 and the second on August 11, 2021.
+   questions on July 12 and August 11, 2021.
 
 4. **IETF 111 Office Hours**: The IETF LLC held open [office hours during IETF
    111](https://datatracker.ietf.org/meeting/111/agenda/?show=llcofficehours) in
@@ -160,7 +160,7 @@ verbatim from each cited document.
    2021](https://mailarchive.ietf.org/arch/msg/ietf-announce/exMKqyRTCeEqNPicXLJv5GmQdoQ/)
    and subsequently mitigated.
 
-8. **Requirement:** Unification: The IETF LLC provides the corporate legal home
+8. **Requirement:** Unification. The IETF LLC provides the corporate legal home
    for the IETF, the Internet Architecture Board ([IAB](https://www.iab.org/)),
    and the Internet Research Task Force ([IRTF](https://irtf.org/)), and
    financial support for the operation of the [RFC
@@ -172,7 +172,7 @@ verbatim from each cited document.
    related to the formation of the IETF
    LLC](https://www.ietf.org/about/administration/overview/).
 
-9. **Requirement:** Transfer or Dissolution: Consistent with the [IETF LLC
+9. **Requirement:** Transfer or Dissolution. Consistent with the [IETF LLC
    Agreement](https://www.rfc-editor.org/rfc/rfc8711.html#IETF-LLC-A), the IETF
    LLC subsidiary may be transferred from ISOC to another organization, at the
    request of either party. Similarly, the IETF LLC may be dissolved if
@@ -518,7 +518,7 @@ Key IETF LLC Board responsibilities include:
 
 ### [Section 6.1](https://www.rfc-editor.org/rfc/rfc8711.html#name-board-composition) - Board Composition
 
-34. **Requirement**: There is a minimum of 5 directors, which is expandable to 6
+34. **Requirement**: There is a minimum of 5 Directors, which is expandable to 6
     or 7:
     - 1 IETF Chair or delegate selected by the IESG
     - 1 Appointed by the ISOC Board of Trustees
@@ -787,7 +787,7 @@ Key IETF LLC Board responsibilities include:
     Finally, the hiring of a Director of Development [was
     announced](https://mailarchive.ietf.org/arch/msg/ietf-announce/x9Aacw1UlNqAoQSxbJbyrZZ8IPU/)
     on 8 June 2021 and that person is in charge of leading fundraising for the
-    IETF and their hiring reflects the priority that the LLC places on this
+    IETF. Their hiring reflects the priority that the LLC places on this
     critical activity.
 
 ### [Section 7.7](https://www.rfc-editor.org/rfc/rfc8711.html#name-focus-of-funding-support) - Focus of Funding Support
@@ -1081,7 +1081,7 @@ in the authoritative documents.
     **Comments:** The IETF's culture and technical work continues along the same
     path it was on prior to the IASA2 changes.
 
-50. **Requirement**: Improve the IETF's Technical Environment: Undertake changes
+50. **Requirement**: Improve the IETF's Technical Environment. Undertake changes
     to better enable technical contributors to focus more on that technical work
     and less on administrative work or support activities.  This could for
     example mean directing more financial resources towards the creation of new
@@ -1216,7 +1216,7 @@ in the authoritative documents.
     However, in attempting to meet this requirement the LLC experienced some
     challenges in clarifying roles and responsibilities in cases when an
     individual may be both a contractor as well as a volunteer (see also the
-    response to Requirement 50 above. ).
+    response to Requirement 50 above).
 
 55. **Requirement**: Define Support Staff Roles and Responsibilities: Clearly
     define the roles of the oversight entities and staff/contractors to match
