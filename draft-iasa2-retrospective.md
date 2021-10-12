@@ -599,7 +599,7 @@ Key IETF LLC Board responsibilities include:
     **Comments:** The IETF LLC has established bank and investment accounts that
     are independent of the Internet Society.
 
-### *[Section 7.3](https://www.rfc-editor.org/rfc/rfc8711.html#name-financial-audits) - Investment Accounts
+### [Section 7.3](https://www.rfc-editor.org/rfc/rfc8711.html#name-financial-audits) - Investment Accounts
 
 37. **Requirement**: The IETF LLC is expected to retain and work with an
     independent auditor. Reports from the auditor are expected to be shared with
@@ -636,7 +636,7 @@ Key IETF LLC Board responsibilities include:
     ](https://www.ietf.org/media/documents/IETF_ISOC_Funding_Amendment_Amendment_-_20201222.pdf)
     from 22 December 2020.
 
-### *[Section 7.5](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-meeting-revenues) - IETF Meeting Revenues
+### [Section 7.5](https://www.rfc-editor.org/rfc/rfc8711.html#name-ietf-meeting-revenues) - IETF Meeting Revenues
 
 39. **Requirement**: Meeting revenues are another important source of funding
     that supports the IETF, coming mainly from the fees paid by IETF meeting
