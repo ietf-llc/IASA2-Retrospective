@@ -456,7 +456,7 @@ Key IETF LLC Board responsibilities include:
     Officers, Fraud Coverage, Inland Marine, Cyber Liability, and Event
     Cancellation. The LLC has also made an insurance claim pertaining to
     IETF-107, which was canceled due to COVID-19 and has subsequently received a
-    payment on this claim.
+    payment on this claim. However, increasing the insurance for the IETF Trust has proven problematic as noted in Requirement 63 below.
 
 32. **Requirement:** Recruiting new Directors for consideration in all of the
     various appointment processes.
