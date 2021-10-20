@@ -20,7 +20,7 @@ template: components/default.tex
 # string text, not markdown:
 metadata:
   title: IASA2 Retrospective
-  date: mm/dd/yyyy
+  date: 29 October 2021
 #  header-includes: |
 #    \usepackage{fancyhdr}
 #    \pagestyle{fancy}
