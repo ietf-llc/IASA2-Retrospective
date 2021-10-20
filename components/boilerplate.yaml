@@ -1,0 +1,17 @@
+---
+header-includes: |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhf{}
+    \fancyfoot[CO,CE]{IETF Administration LLC}
+    \fancyfoot[LE,RO]{\thepage}
+
+geometry: margin=1in
+# logo: components/logo.png
+# titlegraphic: components/logo.png
+toc-title: Table of Contents
+fontsize: 10pt
+# fontfamily: Cambria
+
+
+---
