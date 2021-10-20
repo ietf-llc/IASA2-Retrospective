@@ -1,0 +1,100 @@
+from: markdown+emoji
+
+input-files:
+- components/preamble.md
+- components/about_bitag.md
+- report.md
+# or you may use input-file: with a single value
+#input-file: pandemic_performance/bitag2_pandemic_performance_report.md
+
+#template: templates/bitag_latex.tex
+template: components/default.tex
+
+
+# note that structured variables may be specified:
+# variables:
+#   documentclass: book
+#   classoption:
+#     - twosides
+#     - draft
+
+# metadata values specified here are parsed as literal
+# string text, not markdown:
+metadata:
+  title: DRAFT - Latency Explained - DRAFT
+  subtitle: A BROADBAND INTERNET TECHNICAL ADVISORY GROUP TECHNICAL WORKING GROUP REPORT
+  date: mm/dd/yyyy
+#  header-includes: |
+#    \usepackage{fancyhdr}
+#    \pagestyle{fancy}
+#    \fancyhead[CO,CE]{This is fancy}
+#    \fancyfoot[CO,CE]{So is this}
+#    \fancyfoot[LE,RO]{\thepage}
+
+  
+metadata-files:
+- components/boilerplate.yaml
+# or you may use metadata-file: with a single value
+
+# Note that these take files, not their contents:
+# include-before-body: components/preamble.md
+# include-after-body: components/contributors.md
+# include-in-header: []
+# resource-path: ["."]
+
+# filters will be assumed to be Lua filters if they have
+# the .lua extension, and json filters otherwise.  But
+# the filter type can also be specified explicitly, as shown:
+filters:
+  - components/filters/pagebreak.lua
+#  - pandoc-citeproc # depracted use --cite-proc
+
+# file-scope: false
+
+# data-dir:
+
+# ERROR, WARNING, or INFO
+verbosity: INFO
+log-file: log.json
+
+# citeproc, natbib, or biblatex
+cite-method: citeproc
+# csl: chicago-note-bibliography.csl
+csl: ieee-with-url.csl
+
+# part, chapter, section, or default:
+# top-level-division: chapter
+# abbreviations:
+
+# pdf-engine: pdflatex
+# pdf-engine-opts:
+# - "-shell-escape"
+# you may also use pdf-engine-opt: with a single option
+# pdf-engine-opt: "-shell-escape"
+
+# auto, preserve, or none
+# wrap: auto
+# columns: 78
+# dpi: 72
+
+# extract-media: mediadir
+
+table-of-contents: true
+toc-depth: 2
+number-sections: true
+# a list of offsets at each heading level
+# number-offset: [0,0,0,0,0,0]
+# toc: may also be used instead of table-of-contents:
+# shift-heading-level-by: 1
+# section-divs: true
+# identifier-prefix: foo
+# title-prefix: ""
+# strip-empty-paragraphs: true
+# lf, crlf, or native
+# eol: lf
+# strip-comments: false
+# indented-code-classes: []
+# ascii: true
+#default-image-extension: ".jpg"
+
+
