@@ -30,7 +30,7 @@ metadata:
 
   
 metadata-files:
-- components/boilerplate.yaml
+# - components/boilerplate.yaml
 # or you may use metadata-file: with a single value
 
 # Note that these take files, not their contents:
