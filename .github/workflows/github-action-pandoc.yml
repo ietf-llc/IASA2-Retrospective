@@ -15,16 +15,7 @@ jobs:
     #PDF output 
       - uses: docker://pandoc/latex
         with:
-          args: --defaults=components/defaults.yaml --citeproc --bibliography=references.yaml --resource-path=.:components --output=output/report.pdf ${{ env.FILELIST }}
+          args: --defaults=components/defaults.yaml --citeproc --resource-path=.:components --output=output/report.pdf ${{ env.FILELIST }}
       - uses: docker://pandoc/latex
         with:
-          args: --defaults=components/defaults.yaml --citeproc --bibliography=references.yaml --resource-path=.:components --output=output/report.html ${{ env.FILELIST }}
-      # WORD
-      - uses: docker://pandoc/latex
-        with:
-          args: --defaults=components/defaults.yaml --reference-doc=components/bitag_template.docx --citeproc --bibliography=references.yaml --resource-path=.:components --output=output/report.docx ${{ env.FILELIST }}
-      - uses: actions/upload-artifact@main
-        with:
-          name: output
-          path: output
-
+          args: --defaults=components/defaults.yaml --citeproc --resource-path=.:components --output=output/report.html ${{ env.FILELIST }}
