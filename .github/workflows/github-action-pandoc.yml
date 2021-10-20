@@ -16,7 +16,7 @@ jobs:
     # WORD
       - uses: docker://pandoc/latex
         with:
-          args: --defaults=components/defaults.yaml --reference-doc=components/iasa2_template.docx --citeproc --bibliography=references.yaml --resource-path=.:components --output=output/report.docx ${{ env.FILELIST }}
+          args: --defaults=components/defaults.yaml --reference-doc=components/iasa2_template.docx --citeproc --resource-path=.:components --output=output/report.docx ${{ env.FILELIST }}
       - uses: actions/upload-artifact@main
         with:
           name: output
