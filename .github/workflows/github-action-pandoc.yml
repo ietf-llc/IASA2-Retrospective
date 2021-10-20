@@ -12,10 +12,12 @@ jobs:
       - uses: actions/checkout@v2
       - run: |
           mkdir output  # create output dir
-    #PDF output 
+          
+    # WORD
       - uses: docker://pandoc/latex
         with:
-          args: --defaults=components/defaults.yaml --citeproc --resource-path=.:components --output=output/report.pdf ${{ env.FILELIST }}
-      - uses: docker://pandoc/latex
+          args: --defaults=components/defaults.yaml --reference-doc=components/iasa2_template.docx --citeproc --bibliography=references.yaml --resource-path=.:components --output=output/report.docx ${{ env.FILELIST }}
+      - uses: actions/upload-artifact@main
         with:
-          args: --defaults=components/defaults.yaml --citeproc --resource-path=.:components --output=output/report.html ${{ env.FILELIST }}
+          name: output
+          path: output
