@@ -1,11 +1,9 @@
 from: markdown+emoji
 
 input-files:
-- components/preamble.md
-- components/about_bitag.md
-- report.md
+- draft-iasa2-retrospective.md
 # or you may use input-file: with a single value
-#input-file: pandemic_performance/bitag2_pandemic_performance_report.md
+#input-file: draft-iasa2-retrospective.md
 
 #template: templates/bitag_latex.tex
 template: components/default.tex
@@ -21,8 +19,7 @@ template: components/default.tex
 # metadata values specified here are parsed as literal
 # string text, not markdown:
 metadata:
-  title: DRAFT - Latency Explained - DRAFT
-  subtitle: A BROADBAND INTERNET TECHNICAL ADVISORY GROUP TECHNICAL WORKING GROUP REPORT
+  title: IASA2 Retrospective
   date: mm/dd/yyyy
 #  header-includes: |
 #    \usepackage{fancyhdr}
