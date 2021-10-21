@@ -1,6 +1,6 @@
 # IASA2 Retrospective
 
-## Reason for this document
+## Reason for This Document
 
 BCP 101 / RFC 8711 specifies a requirement to conduct a [three-year
 retrospective](https://www.rfc-editor.org/rfc/rfc8711.html#name-three-year-assessment
@@ -45,7 +45,7 @@ them, and assessing performance on those requirements and goals.
    July 2021 in [Gather.town](https://www.ietf.org/how/meetings/111/111gather/)
    to take questions and input.
 
-## Remark
+## Note on Text Cited
 
 Note that in the following, the text of each requirement is generally taken
 verbatim from each cited document.
