@@ -1094,7 +1094,7 @@ in the authoritative documents.
     resources the responsibility for creating and maintaining tools and
     processes to support this activity.
 
-    **Status:** &#x1F7E1; In Process
+    **Status:** &#x1F7E1; In Progress
 
     **Comments:** This remains a key focus for the LLC, as there continues to be
     technical debt that needs to be addressed, and the IETF wishes to move
