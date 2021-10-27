@@ -325,7 +325,7 @@ Key IETF LLC Board responsibilities include:
 
     **Status:** &#x1F7E2; Achieved
 
-    **Comments:** Other than approving all of the LLC's initial policies, no
+    **Comments:** Other than approving all the LLC's initial policies, no
     significant changes to the LLC's governance structure have been made.
 
 22. **Requirement:** Adopting an annual budget and, as necessary, incur any
@@ -335,7 +335,7 @@ Key IETF LLC Board responsibilities include:
 
     **Comments:** See the [financial
     statements](https://www.ietf.org/about/administration/financial-statements/)
-    page, which includes links to budgets, financial statements and financial
+    page, which includes links to budgets, financial statements, and financial
     audits. No debt has been incurred and there is no plan or need in the
     foreseeable future to do so.
 
@@ -565,7 +565,7 @@ Key IETF LLC Board responsibilities include:
     of "independent" Directors, as this provides more flexibility in adapting to
     the changing needs of the IETF, because this can be called out in the annual
     IETF NomCom requirements for IETF LLC Director roles, and because the IETF
-    LLC Board has the ability to appoint additional Directors as needed.
+    LLC Board can appoint additional Directors as needed.
 
 ### [Section 7.1](https://www.rfc-editor.org/rfc/rfc8711.html#name-financial-statements) - Financial Statements
 
@@ -1269,7 +1269,7 @@ in the authoritative documents.
 57. **Requirement**: Define Improved Transparency Requirements: The general
     level of operational transparency and information-sharing between IETF
     administrative staff and groups to the IETF community must be kept at an
-    acceptable level, and improved where it makes sense in the future. This
+    acceptable level and improved where it makes sense in the future. This
     includes ensuring the timeliness of sharing of information and decisions, as
     well as seeking comment on prospective decisions.  At the same time, we need
     to reset expectations around delegated authority so that once staff or an
@@ -1440,7 +1440,7 @@ IETF LLC is in compliance with each one as necessary.
     for members of the IETF Trust, but it has in the past few years become
     impossible to further increase that insurance.
 
-     As a result it seems beneficial for the IETF community to explore potential
+     As a result, it seems beneficial for the IETF community to explore potential
      changes to the legal structure of the IETF Trust. There are at least two
      major options for achieving this, if not more. We suggest that the IETF
      Trust should conduct a community consultation concerning this issue and
@@ -1493,7 +1493,7 @@ associated action item for that has been noted below in Section E.
    administrative, operational, legal, financial, and other support to meet the
    changing needs of the IETF.
 
-2. As noted in the comments part of Requirement 43, we recommend a two
+2. As noted in the comments part of Requirement 43, we recommend two
    financial-related actions that should be made a part of the IETF LLC's annual
    budget process. First, the LLC should annually update and specify the
    financial target for reserve-related funds. Second, the LLC should annually
