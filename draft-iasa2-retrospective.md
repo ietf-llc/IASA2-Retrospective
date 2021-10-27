@@ -1154,13 +1154,13 @@ in the authoritative documents.
     [agreement is
     posted](https://www.ietf.org/media/documents/IETF_Funding_Agreement_-_Executed_-_20201123.pdf),
     as is a [brief amendment
-    ](https://www.ietf.org/media/documents/IETF_ISOC_Funding_Amendment_Amendment_-_20201222.pdf)from
+    ](https://www.ietf.org/media/documents/IETF_ISOC_Funding_Amendment_Amendment_-_20201222.pdf) from
     22 December 2020. In addition, as noted previously, there is now a fee
     structure in place for [online
     meetings](https://www.ietf.org/blog/ietf108-registration-fees/) to react to
     pandemic-driven changes in how we can meet, a [revised sponsorship
     program](https://www.ietf.org/blog/revised-ietf-sponsorship-program/), and a
-    new[ Director of
+    new [ Director of
     Development](https://mailarchive.ietf.org/arch/msg/ietf-announce/x9Aacw1UlNqAoQSxbJbyrZZ8IPU/)
     on staff. The LLC anticipates that over the next 5 to 10 years that the
     funding sources will diversify as a result of these changes and investments.
