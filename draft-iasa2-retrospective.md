@@ -558,7 +558,7 @@ Key IETF LLC Board responsibilities include:
     running from 2 August 2021 to 15 August 2021.
 
     The discussion also concluded that the correct body to perform this
-    consultation was indeed the IETF LLC and not the IETF NomCom, particular
+    consultation was indeed the IETF LLC and not the IETF NomCom, particularly
     since that would require potentially significant changes to the IETF
     NomCom's responsibilities as specified in RFC 8713. In addition, discussion
     also concluded that there should not be an explicit goal of a certain number
