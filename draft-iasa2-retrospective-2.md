@@ -1,4 +1,4 @@
-# IASA2 Retrospective Number 2
+# Second IASA2 Retrospective
 
 ## Reason for This Document
 
@@ -39,7 +39,7 @@ future retrospectives should be published in 2027, 2030, 2033, and so on every t
 
 ## Timeline
 
-- **July - September 2024:** Publish first draft and solicit community feedback. Continue to iterate the document.
+- **August - September 2024:** Publish first draft and solicit community feedback. Continue to iterate the document.
 
 - **October 2024:** Incorporate final communuty feedback.
 
