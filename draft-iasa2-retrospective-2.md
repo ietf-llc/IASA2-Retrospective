@@ -155,7 +155,7 @@ What do we wish to say here?
 
 ### IETF Trust
 
-Prior to the IASA2 changes, the IAOC members and the trustees of the IETF Trust were the same people, with executive support provided by the same person, the then IAD (IETF Administrative Director). Post-IASA2 there has been a complete separation at the governance level as the trustees and LLC board members have no cross-over, and at the executive support level as the IETF Executive Director works solely for the LLC and does not support the IETF Trust. 
+Prior to the IASA2 changes, the IAOC members and the trustees of the IETF Trust were the same people, with executive support provided by the same person, the then IAD (IETF Administrative Director). AS a result of IASA2 there is now a complete separation at the governance level as the trustees and LLC board members have no cross-over, and at the executive support level as the IETF Executive Director works solely for the LLC and does not support the IETF Trust. The two organizations now operate very differently and it is not clear if that outcome of the IASA2 process was expected.
 
 The LLC, as the more recent of the two organizations to be created by the community, was given a clear and detailed set of community requirements in BCP 101 for how it should operate. These include a set of principles for it to follow, such as significant transparency and strong community responsiveness, and a requirement for an extensive set of governance policies created through community consultation, which it is had had in place since soon after inception. 
 
