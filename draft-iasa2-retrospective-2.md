@@ -128,24 +128,24 @@ length of this document and focus on what has changed since 2021, we will not re
     **Comments:** This remains a key focus for the LLC, as there continues to be
     technical debt that needs to be addressed, and the IETF wishes to move
     towards more modern software architecture, systems architecture, software
-    development practices and user-centered design.  The current short-term
-    focus is migrating core services off of tools.ietf.org onto managed IETF
-    servers with a mix of like-for-like services, switching to new services
-    (such as from Trac to GitHub) and replacing existing services with enhanced
-    functionality. Resourcing continues to be a limiting factor and the LLC has
-    increased the use of existing contractors, cultivated new contractors, and
-    employed two new Senior Software Development Engineers to address this
-    limitation, thus providing more capacity to take on a greater volume of
-    technical work.
+    development practices and user-centered design. Currently there are two
+    major elements to the work. The first is implementing the new IT services
+    infrastructure strategy that was agreed with the community after 
+    consultation. This involves separating out services, moving them into the
+    cloud and through significantlu enhanced instrumentation, tuning their 
+    performance to match community expectations.  The second element is rewriting
+    the many applications used by the community to provide more features, modern
+    UIs, better performance and a consistent architecture, addressing the many 
+    issues raised by the community over the years.
+    
+    Resourcing is no longer alimiting factor and the LLC has invested in three 
+    further senior developers since the last review. This step was not taken 
+    lightly and only committed too when very few bids were received in response
+    to our RFPs for software development services. 
 
-    We also observed that tension arose in the process of working towards
-    meeting this requirement, as the LLC attempted (as required) to better
-    define roles, responsibilities, and accountability between contractors and
-    volunteers - especially when an individual was simultaneously both a
-    contractor and a volunteer in a specific context. This appears to have been
-    resolved and as the technical platforms of the IETF evolve it appears that
-    roles, responsibilities, and accountabilities are becoming more clear-cut
-    and easier to understand.
+    With the growth of the internal team and the rapid progress in some areas, 
+    greater care is now being taken to check with the community that the LLC is
+    delivering the changes that the community has prioritized.
 
 ## D. Other Gaps
 
