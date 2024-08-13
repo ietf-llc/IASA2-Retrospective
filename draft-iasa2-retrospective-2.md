@@ -91,7 +91,7 @@ length of this document and focus on what has changed since 2021, we will not re
 
     **Status:** &#x1F7E1; Needs Improvement
 
-   **Comments:** This remains a primary focus of the IETF LLC. Results since the start of the IETF LLC have been disappointing, but changes in approach and staffing have been made. Additional attention and prioritization of this activity is needed, and it may require additional staff, contractor, or other resources.
+   **Comments:** This remains a primary focus of the IETF LLC. Sponsorship income has been strong and has grown with our modernisation of our sponsorship offerings, but is at risk as companies reduce their spending. Donations to the IETF Endowment have been disappointing, but changes in approach and staffing have been made. Additional attention and prioritization of this activity is needed, and it may require additional staff, contractor, or other resources.
 
 ### IETF Meeting Revenues
 
@@ -104,9 +104,9 @@ length of this document and focus on what has changed since 2021, we will not re
 
     **Status:** &#x1F7E2; Achieved / On Track with Caveat
 
-    **Comments**: Since 2020, driven by the COVID pandemic, more people have remotely participated in IETF meetings and to provide a good experience, the IETF has invested in technical tools to provide a good experience for those participants. The IETF LLC has adjusted in-person registration fees and introduced remote participation fees in order to maintain a consistent level of funding that partly covers the cost of meetings and associates costs (such as the Secretariat).
+    **Comments**: Since 2020, driven by the COVID pandemic, more people have remotely participated in IETF meetings and to provide a good experience, the IETF has invested in technical tools to provide a good experience for those participants. The IETF LLC has adjusted in-person registration fees and introduced remote participation fees in order to maintain a consistent level of funding that partly covers the cost of meetings and associates costs (such as the Secretariat). Registration income is still down from pre-COVID times and continues to fluctuate but the underlyng trend is one of improvement.
 
-   At the same time, the employers of some IETF participants have sought to control or reduce travel-related expenses for meetings. This has prompted some questions about whether the three meeting per year cadence remains the best operating model for the IETF. This issue must be addressed, if at all, by the IESG; the IETF LLC would then operationalize any change in approach to the conduct of meetings. The IESG may therefore wish to conduct a community assessment to determine whether any future changes are appropriate. 
+   At the same time, the employers of some IETF participants have sought to control or reduce travel-related expenses for meetings, and there are an increasing number of self-funded, grant-funded and not-for-profit-funded participants who have the same aim. This has prompted a range of questions about the IETF's approach to meetings, including the cost of where we meet, how to maximize the benefits when we do meet, what form of funding support the IETF can provide to IETF participants, and whether the three meeting per year cadence remains the best operating model for the IETF. These issues must be addressed, if at all, by the IESG; the IETF LLC would then operationalize any change in approach to the conduct of meetings. The IESG may therefore wish to conduct a community assessment to determine whether any future changes are appropriate. 
 
 ### IETF Technical Tools
 
