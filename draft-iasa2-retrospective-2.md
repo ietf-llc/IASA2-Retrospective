@@ -2,7 +2,7 @@
 
 ## Reason for This Document
 
-BCP 101 / RFC 8711 specifies a requirement to conduct a [three-year retrospective](https://www.rfc-editor.org/rfc/rfc8711.html#name-three-year-assessment) of the IETF Administrative Support Activity version 2.0 (IASA2). That was completed in 2021 (https://www.ietf.org/media/documents/IASA2_Retrospective.pdf), and the first recommendation was that these should occure every three years (see below). 
+BCP 101 / RFC 8711 specifies a requirement to conduct a [three-year retrospective](https://www.rfc-editor.org/rfc/rfc8711.html#name-three-year-assessment) of the IETF Administrative Support Activity version 2.0 (IASA2). That was completed in 2021 (https://www.ietf.org/media/documents/IASA2_Retrospective.pdf), and the first recommendation was that these should occur every three years (see below). 
 
 This is the second IASA2 retrospective, and future retrospectives should be published in 2027, 2030, 2033, and so on every three years. 
 
