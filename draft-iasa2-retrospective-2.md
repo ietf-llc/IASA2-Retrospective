@@ -161,6 +161,14 @@ A key reason for this divergence is that the LLC, as the more recent of the two 
 
 The community may wish to consider structural options for closing the gap between the organizations and consider if a similar set of community requirements would be appropriate for the IETF Trust, particularly as it completes its transformation from a trust to a corporation with similar legal obligations as the LLC.
 
+### IETF Secretariat
+
+Prior to the IASA2 changes, when the only IETF staffer was the then IAD, the outsourced IETF Secretariat worked directly for the community in certain places/processes as specified in RFCs. RFC 8717, one of the IASA2 outputs, partially maintained this by creating the new role of "Managing Director, IETF Secretariat" and updated a number of RFCs that included the old concept of "Executive Director" to now refer to that MD role.  Separately, RFC 8711, which created the IETF LLC and the IETF Executive Director role, put the IETF LLC and IETF Executive Director in charge of all contractors and their work, including the IETF Secretariat.  
+
+With the implementation of IASA2, the dynamic around administrative support changed in two key ways. The first of these was the development of a broad leadership role for the IETF Executive Director driven both by community expectations, and the needs of the IETF Secretariat. The second was the switch for processes that were defined as being handled by a particular individual, to being delivered by a team, generally involving both the Secretariat and the LLC and often supported by new tools. There is no longer a clear boundary between the IETF LLC and the IETF Secretariat for much of the operational support of the IETF.
+
+The IETF LLC proposes to address this with a new RFC that replaces references to the IETF Secretariat with the more generic term 'IASA' and removes any references to individual administrative support roles that do not require a nominated indivdual to deliver them.
+
 ### Community Comments 
 
 The IETF LLC also asked an open-ended question of the IETF community, seeking
