@@ -89,7 +89,7 @@ length of this document and focus on what has changed since 2021, we will not re
     also allow for and be able to support new funding streams or changes to the
     proportion of funds from various Sources.
 
-    **Status:** &#x1F7E1; Needs Improvement
+**Status:** &#x1F7E1; Needs Improvement
 
    **Comments:** This remains a primary focus of the IETF LLC. 
    
@@ -187,11 +187,15 @@ Ultimately this is more a matter for the IETF community to take up, specifically
 
 ### IETF Trust
 
-Prior to the IASA2 changes, the IAOC members and the trustees of the IETF Trust were the same people, with executive support provided by the same person, the then IAD (IETF Administrative Director). As a result of IASA2 there is now a separation at the governance level as the trustees and IETF LLC board members have no cross-over, and at the executive support level as the IETF Executive Director works solely for the IETF LLC and does not operate the IETF Trust. Over time, the two organizations' operational approaches have signficantly diverged but it is not clear if this was an expected outcome of the IASA2 process.
+Prior to the IASA2 changes, the IAOC members and the trustees of the [IETF Trust](https://trustee.ietf.org/) were the same people, with executive support provided by the same person, the then IAD (IETF Administrative Director). Under IASA2, the people managing the IETF Trust became different people from those managing the IETF (the IETF LLC). This has had knock-on effects that the IETF comminity may not fully recognize. 
 
-A key reason for this divergence is that the IETF LLC, as the more recent of the two organizations to be created by the community, was given a clear and detailed set of community requirements in BCP 101 for how it should operate. These include a set of principles for it to follow, such as significant transparency and strong community responsiveness, and a requirement for an extensive set of governance policies created through community consultation, which it is had had in place since soon after inception. 
+As a result of IASA2 there is now a separation at the governance level as the trustees of the IETF Trust and IETF LLC board members. There is no cross-over or personnel or formally designated liaison. In addition, at the executive support level there is also separation, as the IETF Executive Director works solely for the IETF LLC and does not operate the IETF Trust or act as an executive for the IETF Trust. Over time, the two organizations' operational approaches have  diverged but it is not clear if this was an expected outcome of the IASA2 process.
 
-The community may wish to consider structural options for closing the gap between the IETF LLC and IETF Trust, and consider whether a similar set of community requirements would be appropriate for the IETF Trust - particularly as it completes its transformation from a trust to a corporation with similar legal obligations as the IETF LLC.
+Despite this divergence, it seems clear that the IETF Trust solely exists due to and in the service of the IETF. Not only is IETF in the name of the IETF Trust, but the IETF Trust's website is within the IETF's ietf.org domain, the IETF Nominating Committee selects trustees, and the IETF Trust notes their purupose is "acquiring, holding, maintaining and licensing certain existing and future intellectual property and other property used in connection with the Internet standards process and its administration..." The IETF, and thus by extension the IETF LLC as the legal home of the IETF, is thus the sole beneficiary of the IETF Trust.
+
+The key reason for this divergence is that the IETF LLC, as the more recent of the two organizations to be created by the community, was given a clear and detailed set of community requirements in BCP 101 for how it should operate. These include a set of principles for it to follow, such as significant transparency and strong community responsiveness, and a requirement for an extensive set of governance policies created through community consultation, which it is had had in place since soon after inception. 
+
+The community may wish to consider discussing potential structural options for closing the gap between the IETF LLC and IETF Trust, and consider whether a similar set of community requirements would be appropriate for the IETF Trust - particularly as it completes its transformation from a trust to a corporation with similar legal obligations as the IETF LLC. 
 
 ### IETF Secretariat - Managing Director Role
 
