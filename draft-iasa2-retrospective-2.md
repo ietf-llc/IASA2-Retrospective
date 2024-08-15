@@ -2,7 +2,7 @@
 
 ## Reason for This Document
 
-BCP 101 / RFC 8711 specifies a requirement to conduct a [three-year retrospective](https://www.rfc-editor.org/rfc/rfc8711.html#name-three-year-assessment) of the IETF Administrative Support Activity version 2.0 (IASA2). That was completed in 2021 (https://www.ietf.org/media/documents/IASA2_Retrospective.pdf), and the first recommendation was that these should occur every three years (see below). 
+BCP 101 / RFC 8711 specifies a requirement to conduct a [three-year retrospective](https://www.rfc-editor.org/rfc/rfc8711.html#name-three-year-assessment) of the IETF Administrative Support Activity version 2.0 (IASA2). That was completed in 2021 (https://www.ietf.org/media/documents/IASA2_Retrospective.pdf), and the first recommendation in that report was that additional retrospectives should occur every three years (see below). 
 
 This is the second IASA2 retrospective, and future retrospectives should be published in 2027, 2030, 2033, and so on every three years. 
 
@@ -91,7 +91,11 @@ length of this document and focus on what has changed since 2021, we will not re
 
     **Status:** &#x1F7E1; Needs Improvement
 
-   **Comments:** This remains a primary focus of the IETF LLC. Sponsorship income has been strong and has grown with our modernisation of our sponsorship offerings, but is at risk as companies reduce their spending. Donations to the IETF Endowment have been disappointing, but changes in approach and staffing have been made. Additional attention and prioritization of this activity is needed, and it may require additional staff, contractor, or other resources.
+   **Comments:** This remains a primary focus of the IETF LLC. 
+   
+   Sponsorship income has been good and has grown with our modernisation of our sponsorship offerings, but is at risk as some traditional IETF sponsor companies reduce their standards-related spending. Sponsorship income in 2018 was $X and by 2023 had increase YY% to $Y. A number of [new programs](https://www.ietf.org/support-us/sponsorship/) for sponsors have been introduced in order to attract more funding, such as Diversity & Inclusion, Running Code and Sustainability.
+   
+   Donations to the IETF Endowment have in contrast been disappointing. As a result, the IETF LLC has made changes in approach and staffing to try to improve. Board attention on and prioritization of this activity should continue to be high. It may require additional staff, contractor, or other resources to reach its full potential.
 
 ### IETF Meeting Revenues
 
@@ -125,7 +129,7 @@ length of this document and focus on what has changed since 2021, we will not re
 
     **Status:** &#x1F7E1; In Progress
 
-    **Comments:** This remains a key focus for the LLC, as there continues to be
+    **Comments:** This remains a key focus for the IETF LLC, as there continues to be
     technical debt that needs to be addressed, and the IETF wishes to move
     towards more modern software architecture, systems architecture, software
     development practices and user-centered design. Currently there are two
@@ -138,7 +142,7 @@ length of this document and focus on what has changed since 2021, we will not re
     UIs, better performance and a consistent architecture, addressing the many 
     issues raised by the community over the years.
     
-    Resourcing is no longer alimiting factor and the LLC has invested in three 
+    Resourcing is no longer a limiting factor and the IETF LLC has invested in three 
     further senior developers since the last review. This step was not taken 
     lightly and only committed too when very few bids were received in response
     to our RFPs for software development services. 
@@ -149,9 +153,11 @@ length of this document and focus on what has changed since 2021, we will not re
 
 ## D. Other Gaps
 
-### RPC, ISE, Trust
+### Ombusteam
 
-What do we wish to say here?
+### RFC Production Center (RPC)
+
+### Independent Stream Editor (ISE)
 
 ### IETF Trust
 
