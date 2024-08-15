@@ -157,6 +157,14 @@ length of this document and focus on what has changed since 2021, we will not re
 
 ### RFC Production Center (RPC)
 
+The [RFC Production Center](https://www.rfc-editor.org/about/) (RPC) edits documents and creates Requests for Comment (RFC). Publishing RFCs is the output of the IETF standards process (and similar processes), and as such is a critial productivity metric for the IETF LLC in operating the IETF. These are metrics such as the volume of RFCs published over time and how long it takes the RPC to edit and publish RFCs once they have entered their work queue. 
+
+For quite some time, the RPC has not met the Service Level Agreement (SLA) targets established by the IETF. One reason can be attributed to the age and complexity of the publishing tools used by the RPC, most of which are several decades old. Another might be attributable to how the internal work processes of the RPC are quanitatively measured and incrementally improved over time. It is also notable that the changes introduced by [XMLv3](https://datatracker.ietf.org/doc/html/rfc7991) have not shown a meaningful improvement for RPC output. 
+
+As a result, the IETF LLC needs to provide additional operational direction to the RPC, establish internal workflow metrics, and make significant improvements to the technical tools used by the RPC to perform their work. This will likely have upstream effects over document publishing tools, which should become easier to use and ensure that the RPC is provided with consistently high quality document input. 
+
+The IETF LLC expects to announce steps being taken in this area soon. For the next retrospective in 2027, the community should expect significant improvements to have been made in the RPC.  
+
 ### Independent Submission Editor (ISE)
 
 The IETF LLC also maintains the [Independent Submission Editor](https://datatracker.ietf.org/doc/html/rfc8730) (ISE) function, which offers an alternative publishing pathway that can publish RFCs that do not originate from IETF Working Groups. The [ISE function](https://www.ietf.org/about/groups/ise/) is oveseen by the Internet Architecture Board (IAB) and has its own oversight board. That board currently includes fifteen people (notably several times the size of the IETF LLC board) and published eleven RFCs in 2023.
@@ -166,7 +174,6 @@ The job of the IETF LLC is to support the IETF's standards process, of which the
 Thus, the IETF LLC wishes to note that there may be an opportunity for the IETF to simplify its approach to publishing RFCs by consolidating all of this work into the Internet Engineering Steering Group (IESG), which will likely help contain the cost of the RPC function. 
 
 Ultimately this is more a matter for the IETF community to take up, specifically the IESG and IAB.  
-
 
 ### IETF Trust
 
