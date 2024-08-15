@@ -155,6 +155,16 @@ length of this document and focus on what has changed since 2021, we will not re
 
 ### Ombusteam
 
+After the IETF LLC was formed, [RFC 7776](https://www.rfc-editor.org/info/rfc7776) was updated in [RFC 8716 / BCP 25](https://www.rfc-editor.org/info/rfc8716). However, no other substantive changes in the operation or oversight of the Ombudsteam were made; name of the IAOC function was simply updated to the IETF LLC. Since that time, the IETF LLC has identified some issues of concern that need to be addressed by the IETF as a whole. 
+
+First, an Ombusteam function should be more transparent. While current members of the Ombudsteam may wish to do so, they are constrained by the applicable RFCs. As [other organizations have demonstrated](https://ombuds.jhu.edu/wp-content/uploads/sites/51/2022-23-JHU-Ombuds-Office-Annual-Report.pdf), it is for example possible to do so by issuing transparency reports. We believe this should be required of the Ombudsteam function at the IETF. 
+
+In addition, it poses a legal risk to the IETF LLC to have the Ombudsteam functioning as it currently does. That is becauuse the IETF LLC is the only legal body of the IETF and that the IETF LLC Board has exclusive legal responsibility over the IETF. In practice, this means understanding potential legal risks, taking steps to mitigate legal risks, engaging with counsel on legal matters, etc. This is especially important if various legal risks may pose financial risks or costs, given the IETF LLC has a fiduciary responsibility as well as a legal responsibility.
+
+Given that the work of the Ombudsteam function can have significant legal implications for the IETF - such as pertaining to harassment, assault, and related matters - this is challenging, because under the current structure the IETF LLC Board does not have any visibility into those legal issues. 
+
+We recommend and will initiate a community proceeding to update RFCs pertaining to the Ombudsteam function.
+
 ### RFC Production Center (RPC)
 
 ### Independent Stream Editor (ISE)
