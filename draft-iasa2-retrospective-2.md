@@ -155,6 +155,16 @@ length of this document and focus on what has changed since 2021, we will not re
 
 ### Ombusteam
 
+After the IETF LLC was formed, [RFC 7776](https://www.rfc-editor.org/info/rfc7776) was updated in [RFC 8716 / BCP 25](https://www.rfc-editor.org/info/rfc8716). However, no other substantive changes in the operation or oversight of the Ombudsteam were made; name of the IAOC function was simply updated to the IETF LLC. Since that time, the IETF LLC has identified some issues of concern that need to be addressed by the IETF as a whole. 
+
+First, an Ombusteam function should be more transparent. While current members of the Ombudsteam may wish to do so, they are constrained by the applicable RFCs. As [other organizations have demonstrated](https://ombuds.jhu.edu/wp-content/uploads/sites/51/2022-23-JHU-Ombuds-Office-Annual-Report.pdf), it is for example possible to do so by issuing transparency reports. We believe this should be required of the Ombudsteam function at the IETF. 
+
+In addition, it poses a legal risk to the IETF LLC to have the Ombudsteam functioning as it currently does. That is becauuse the IETF LLC is the only legal body of the IETF and that the IETF LLC Board has exclusive legal responsibility over the IETF. In practice, this means understanding potential legal risks, taking steps to mitigate legal risks, engaging with counsel on legal matters, etc. This is especially important if various legal risks may pose financial risks or costs, given the IETF LLC has a fiduciary responsibility as well as a legal responsibility.
+
+Given that the work of the Ombudsteam function can have significant legal implications for the IETF - such as pertaining to harassment, assault, and related matters - this is challenging, because under the current structure the IETF LLC Board does not have any visibility into those legal issues. 
+
+We recommend and will initiate a community proceeding to update RFCs pertaining to the Ombudsteam function.
+
 ### RFC Production Center (RPC)
 
 The [RFC Production Center](https://www.rfc-editor.org/about/) (RPC) edits documents and creates Requests for Comment (RFC). Publishing RFCs is the output of the IETF standards process (and similar processes), and as such is a critial productivity metric for the IETF LLC in operating the IETF. These are metrics such as the volume of RFCs published over time and how long it takes the RPC to edit and publish RFCs once they have entered their work queue. 
@@ -177,19 +187,25 @@ Ultimately this is more a matter for the IETF community to take up, specifically
 
 ### IETF Trust
 
-Prior to the IASA2 changes, the IAOC members and the trustees of the IETF Trust were the same people, with executive support provided by the same person, the then IAD (IETF Administrative Director). AS a result of IASA2 there is now a separation at the governance level as the trustees and LLC board members have no cross-over, and at the executive support level as the IETF Executive Director works solely for the LLC and does not support the IETF Trust. Over time, the two organizations' operational approaches have signficantly diverged but it is not clear if this was an expected outcome of the IASA2 process.
+Prior to the IASA2 changes, the IAOC members and the trustees of the IETF Trust were the same people, with executive support provided by the same person, the then IAD (IETF Administrative Director). As a result of IASA2 there is now a separation at the governance level as the trustees and IETF LLC board members have no cross-over, and at the executive support level as the IETF Executive Director works solely for the IETF LLC and does not operate the IETF Trust. Over time, the two organizations' operational approaches have signficantly diverged but it is not clear if this was an expected outcome of the IASA2 process.
 
-A key reason for this divergence is that the LLC, as the more recent of the two organizations to be created by the community, was given a clear and detailed set of community requirements in BCP 101 for how it should operate. These include a set of principles for it to follow, such as significant transparency and strong community responsiveness, and a requirement for an extensive set of governance policies created through community consultation, which it is had had in place since soon after inception. 
+A key reason for this divergence is that the IETF LLC, as the more recent of the two organizations to be created by the community, was given a clear and detailed set of community requirements in BCP 101 for how it should operate. These include a set of principles for it to follow, such as significant transparency and strong community responsiveness, and a requirement for an extensive set of governance policies created through community consultation, which it is had had in place since soon after inception. 
 
-The community may wish to consider structural options for closing the gap between the organizations and consider if a similar set of community requirements would be appropriate for the IETF Trust, particularly as it completes its transformation from a trust to a corporation with similar legal obligations as the LLC.
+The community may wish to consider structural options for closing the gap between the IETF LLC and IETF Trust, and consider whether a similar set of community requirements would be appropriate for the IETF Trust - particularly as it completes its transformation from a trust to a corporation with similar legal obligations as the IETF LLC.
 
-### IETF Secretariat
+### IETF Secretariat - Managing Director Role
 
-Prior to the IASA2 changes, when the only IETF staffer was the then IAD, the outsourced IETF Secretariat worked directly for the community in certain places/processes as specified in RFCs. RFC 8717, one of the IASA2 outputs, partially maintained this by creating the new role of "Managing Director, IETF Secretariat" and updated a number of RFCs that included the old concept of "Executive Director" to now refer to that MD role.  Separately, RFC 8711, which created the IETF LLC and the IETF Executive Director role, put the IETF LLC and IETF Executive Director in charge of all contractors and their work, including the IETF Secretariat.  
+Prior to the IASA2 changes, when the only IETF staffer was the then IAD. The outsourced IETF Secretariat worked directly for the community in certain places/processes as specified in RFCs. RFC 8717, one of the IASA2 outputs, partially maintained this by creating the new role of "Managing Director, IETF Secretariat" (MD) and updated a number of RFCs that included the old concept of "Executive Director" to now refer to that MD role.  Separately, RFC 8711, which created the IETF LLC and the IETF Executive Director role, put the IETF LLC and IETF Executive Director in charge of all contractors and their work, including the IETF Secretariat.  
 
-With the implementation of IASA2, the dynamic around administrative support changed in two key ways. The first of these was the development of a broad leadership role for the IETF Executive Director driven both by community expectations, and the needs of the IETF Secretariat. The second was the switch for processes that were defined as being handled by a particular individual, to being delivered by a team, generally involving both the Secretariat and the LLC and often supported by new tools. There is no longer a clear boundary between the IETF LLC and the IETF Secretariat for much of the operational support of the IETF.
+With the implementation of IASA2, the dynamic around administrative support changed in two key ways. The first of these was the development of a broad leadership role for the IETF Executive Director driven both by community expectations, and the needs of the IETF Secretariat. The second was the switch for processes that were defined as being handled by a particular individual, to being delivered by a team, generally involving both the Secretariat and the LLC and often supported by new tools. There is no longer a clear boundary between the IETF LLC and the IETF Secretariat for much of the operational support of the IETF - which is a positive outcome of IASA2. This would appear to obviate the need for a special Managing Director role.
 
 The IETF LLC proposes to address this with a new RFC that replaces references to the IETF Secretariat with the more generic term 'IASA' and removes any references to individual administrative support roles that do not require a nominated indivdual to deliver them.
+
+### Realistically Describing IETF Functions
+
+The IETF LLC has observed over time that there is sometimes difficulty within the IETF community in understanding the true legal structure and operation of the IETF. This can sometimes be seen via the expression within the IETF community of some informal views that certain functions or parts of the IETF are totally independent of the IETF. This is not in fact the case, and it can hinder a clear understanding and discussion of critical IETF matters and decisions about the future of the IETF. 
+
+The IETF LLC is the legal and financial home of the IETF; there are no other legal entities. Within this IETF structure there is also the IAB, IESG, IRTF, RSE, RPC, IETF Trust, and so on. None of those organizations are legally independent of the IETF; they are core functions of the IETF.
 
 ### Community Comments 
 
