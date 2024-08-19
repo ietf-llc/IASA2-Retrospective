@@ -136,7 +136,7 @@ length of this document and focus on what has changed since 2021, we will not re
     major elements to the work. The first is implementing the new IT services
     infrastructure strategy that was agreed with the community after 
     consultation. This involves separating out services, moving them into the
-    cloud and through significantlu enhanced instrumentation, tuning their 
+    cloud and through significantly enhanced instrumentation, tuning their 
     performance to match community expectations.  The second element is rewriting
     the many applications used by the community to provide more features, modern
     UIs, better performance and a consistent architecture, addressing the many 
@@ -144,7 +144,7 @@ length of this document and focus on what has changed since 2021, we will not re
     
     Resourcing is no longer a limiting factor and the IETF LLC has invested in three 
     further senior developers since the last review. This step was not taken 
-    lightly and only committed too when very few bids were received in response
+    lightly and only committed to when very few bids were received in response
     to our RFPs for software development services. 
 
     With the growth of the internal team and the rapid progress in some areas, 
@@ -159,7 +159,7 @@ After the IETF LLC was formed, [RFC 7776](https://www.rfc-editor.org/info/rfc777
 
 First, an Ombusteam function should be more transparent. While current members of the Ombudsteam may wish to do so, they are constrained by the applicable RFCs. As [other organizations have demonstrated](https://ombuds.jhu.edu/wp-content/uploads/sites/51/2022-23-JHU-Ombuds-Office-Annual-Report.pdf), it is for example possible to do so by issuing transparency reports. We believe this should be required of the Ombudsteam function at the IETF. 
 
-In addition, it poses a legal risk to the IETF LLC to have the Ombudsteam functioning as it currently does. That is becauuse the IETF LLC is the only legal body of the IETF and that the IETF LLC Board has exclusive legal responsibility over the IETF. In practice, this means understanding potential legal risks, taking steps to mitigate legal risks, engaging with counsel on legal matters, etc. This is especially important if various legal risks may pose financial risks or costs, given the IETF LLC has a fiduciary responsibility as well as a legal responsibility.
+In addition, it poses a legal risk to the IETF LLC to have the Ombudsteam functioning as it currently does. That is because the IETF LLC is the only legal body of the IETF and the IETF LLC Board has exclusive legal responsibility over the IETF. In practice, this means understanding potential legal risks, taking steps to mitigate legal risks, engaging with counsel on legal matters, etc. This is especially important if various legal risks may pose financial risks or costs, given the IETF LLC has a fiduciary responsibility as well as a legal responsibility.
 
 Given that the work of the Ombudsteam function can have significant legal implications for the IETF - such as pertaining to harassment, assault, and related matters - this is challenging, because under the current structure the IETF LLC Board does not have any visibility into those legal issues. 
 
@@ -193,13 +193,13 @@ As a result of IASA2 there is now a separation at the governance level as the tr
 
 Despite this divergence, it seems clear that the IETF Trust solely exists due to and in the service of the IETF. Not only is IETF in the name of the IETF Trust, but the IETF Trust's website is within the IETF's ietf.org domain, the IETF Nominating Committee selects trustees, and the IETF Trust notes their purupose is "acquiring, holding, maintaining and licensing certain existing and future intellectual property and other property used in connection with the Internet standards process and its administration..." The IETF, and thus by extension the IETF LLC as the legal home of the IETF, is thus the sole beneficiary of the IETF Trust.
 
-The key reason for this divergence is that the IETF LLC, as the more recent of the two organizations to be created by the community, was given a clear and detailed set of community requirements in BCP 101 for how it should operate. These include a set of principles for it to follow, such as significant transparency and strong community responsiveness, and a requirement for an extensive set of governance policies created through community consultation, which it is had had in place since soon after inception. 
+The key reason for this divergence is that the IETF LLC, as the more recent of the two organizations to be created by the community, was given a clear and detailed set of community requirements in BCP 101 for how it should operate. These include a set of principles for it to follow, such as significant transparency and strong community responsiveness, and a requirement for an extensive set of governance policies created through community consultation, which it had in place since soon after inception. 
 
 The community may wish to consider discussing potential structural options for closing the gap between the IETF LLC and IETF Trust, and consider whether a similar set of community requirements would be appropriate for the IETF Trust - particularly as it completes its transformation from a trust to a corporation with similar legal obligations as the IETF LLC. 
 
 ### IETF Secretariat - Managing Director Role
 
-Prior to the IASA2 changes, when the only IETF staffer was the then IAD. The outsourced IETF Secretariat worked directly for the community in certain places/processes as specified in RFCs. RFC 8717, one of the IASA2 outputs, partially maintained this by creating the new role of "Managing Director, IETF Secretariat" (MD) and updated a number of RFCs that included the old concept of "Executive Director" to now refer to that MD role.  Separately, RFC 8711, which created the IETF LLC and the IETF Executive Director role, put the IETF LLC and IETF Executive Director in charge of all contractors and their work, including the IETF Secretariat.  
+Prior to the IASA2 changes, the only IETF staffer was the then IAD. The outsourced IETF Secretariat worked directly for the community in certain places/processes as specified in RFCs. RFC 8717, one of the IASA2 outputs, partially maintained this by creating the new role of "Managing Director, IETF Secretariat" (MD) and updated a number of RFCs that included the old concept of "Executive Director" to now refer to that MD role.  Separately, RFC 8711, which created the IETF LLC and the IETF Executive Director role, put the IETF LLC and IETF Executive Director in charge of all contractors and their work, including the IETF Secretariat.  
 
 With the implementation of IASA2, the dynamic around administrative support changed in two key ways. The first of these was the development of a broad leadership role for the IETF Executive Director driven both by community expectations, and the needs of the IETF Secretariat. The second was the switch for processes that were defined as being handled by a particular individual, to being delivered by a team, generally involving both the Secretariat and the LLC and often supported by new tools. There is no longer a clear boundary between the IETF LLC and the IETF Secretariat for much of the operational support of the IETF - which is a positive outcome of IASA2. This would appear to obviate the need for a special Managing Director role.
 
