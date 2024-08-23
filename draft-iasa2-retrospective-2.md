@@ -89,11 +89,11 @@ To the extent that the IETF LLC undertakes any significant special projects for 
     participants. The IETF Executive Director sets those meeting fees, in
     consultation with other IETF LLC staff and the IETF community, with approval
     by the IETF LLC Board. Setting these fees and projecting the number of
-    participants at future meetings is a key part of the annual budget process.
+    participants at future meetings are a key part of the annual budget process.
 
-    **Status:** &#x1F7E2; Achieved / On Track with Caveat
+    **Status:** &#x1F7E1; In Progress
 
-    **Comments**: Since 2020, driven by the COVID pandemic, more people have remotely participated in IETF meetings and to provide a good experience, the IETF has invested in technical tools to provide a good experience for those participants. The IETF LLC has adjusted in-person registration fees and introduced remote participation fees in order to maintain a consistent level of funding that partly covers the cost of meetings and associates costs (such as the Secretariat). Registration income is still down from pre-COVID times and continues to fluctuate but the underlyng trend is one of improvement.
+    **Comments**: Since 2020, driven by the COVID pandemic, more people have remotely participated in IETF meetings and to provide a good experience, the IETF has invested in technical tools to provide a good experience for those participants. The IETF LLC has adjusted in-person registration fees and introduced remote participation fees in order to maintain a consistent level of funding that partly covers the cost of meetings and associated costs (such as the Secretariat). Registration income is still down from pre-COVID times and continues to fluctuate but the underlying trend is one of improvement.
 
    At the same time, the employers of some IETF participants have sought to control or reduce travel-related expenses for meetings, and there are an increasing number of self-funded, grant-funded and not-for-profit-funded participants who have the same aim. This has prompted a range of questions about the IETF's approach to meetings, including the cost of where we meet, how to maximize the benefits when we do meet, what form of funding support the IETF can provide to IETF participants, and whether the three meeting per year cadence remains the best operating model for the IETF. These issues must be addressed, if at all, by the IESG; the IETF LLC would then operationalize any change in approach to the conduct of meetings. The IESG may therefore wish to conduct a community assessment to determine whether any future changes are appropriate. 
 
