@@ -140,13 +140,15 @@ To the extent that the IETF LLC undertakes any significant special projects for 
 
 ### Ombusteam
 
-After the IETF LLC was formed, [RFC 7776](https://www.rfc-editor.org/info/rfc7776) was updated in [RFC 8716 / BCP 25](https://www.rfc-editor.org/info/rfc8716). However, no other substantive changes in the operation or oversight of the Ombudsteam were made; name of the IAOC function was simply updated to the IETF LLC. Since that time, the IETF LLC has identified some issues of concern that need to be addressed by the IETF as a whole. 
+After the IETF LLC was formed, [RFC 7776](https://www.rfc-editor.org/info/rfc7776) was updated in [RFC 8716 / BCP 25](https://www.rfc-editor.org/info/rfc8716). However, no other substantive changes in the operation or oversight of the Ombudsteam were made; the name of the IAOC function was simply updated to the IETF LLC. Since that time, the IETF LLC has identified some issues of concern that need to be addressed by the IETF as a whole. 
 
-First, an Ombusteam function should be more transparent. While current members of the Ombudsteam may wish to do so, they are constrained by the applicable RFCs. As [other organizations have demonstrated](https://ombuds.jhu.edu/wp-content/uploads/sites/51/2022-23-JHU-Ombuds-Office-Annual-Report.pdf), it is for example possible to do so by issuing transparency reports. We believe this should be required of the Ombudsteam function at the IETF. 
+The IETF LLC Board is responsible for assuring the long term financial solvency of the IETF and safeguarding it from a variety of risks. These responsibilities give the IETF LLC a fiduciary and legal responsibility.
 
-In addition, it poses a legal risk to the IETF LLC to have the Ombudsteam functioning as it currently does. That is because the IETF LLC is the only legal body of the IETF and the IETF LLC Board has exclusive legal responsibility over the IETF. In practice, this means understanding potential legal risks, taking steps to mitigate legal risks, engaging with counsel on legal matters, etc. This is especially important if various legal risks may pose financial risks or costs, given the IETF LLC has a fiduciary responsibility as well as a legal responsibility.
+The Ombudsteam is a critical function for the IETF to mitigate the risk of harassment in the IETF.  The IETF LLC Board has identified two concerns that should be addressed by the IETF community.
 
-Given that the work of the Ombudsteam function can have significant legal implications for the IETF - such as pertaining to harassment, assault, and related matters - this is challenging, because under the current structure the IETF LLC Board does not have any visibility into those legal issues. 
+First, the work of the Ombudsteam function can have significant legal implications for the IETF (e.g., harassment, assault). However, under the current operating practices defined in RFC 7776, the IETF LLC Board does not have any visibility into those possible legal implications and is therefore unable to properly implement risk management procedures.
+
+Second, the IETF LLC Board also observes that for the Ombudsteam to credibly perform its function, it requires the confidence of the community.  The current confidentiality procedures derived from RFC 7776  prevent the community from having even the most basic insight into whether the Ombudsteam is functioning.  The IETF LLC Board believes that the community would benefit from additional transparency, as [other organizations have demonstrated](https://ombuds.jhu.edu/wp-content/uploads/sites/51/2022-23-JHU-Ombuds-Office-Annual-Report.pdf).  We believe an annual transparency report should be required of the Ombudsteam function at the IETF. 
 
 We recommend and will initiate a community proceeding to update RFCs pertaining to the Ombudsteam function.
 
