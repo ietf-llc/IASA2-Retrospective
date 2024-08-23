@@ -39,7 +39,7 @@ This is the second IASA2 retrospective, and future retrospectives should be publ
 
 - **August - September 2024:** Publish first draft and solicit community feedback. Continue to iterate the document.
 
-- **October 2024:** Incorporate final communuty feedback.
+- **October 2024:** Incorporate final community feedback.
 
 - **November 2024:** Present the report during the IETF 121 plenary.
 
@@ -53,8 +53,7 @@ This is the second IASA2 retrospective, and future retrospectives should be publ
 
 # Note on Form 
 
-In the first IASA2 retrospective, we reviewed a list of 62 requirments. Most of those were met, so in order to reduce the 
-length of this document and focus on what has changed since 2021, we will not reproduce the full list here. The original IASA2 retrospective is available at [https://www.ietf.org/media/documents/IASA2_Retrospective.pdf](https://www.ietf.org/media/documents/IASA2_Retrospective.pdf).
+In the first IASA2 retrospective, we reviewed a list of 62 requirements. Most of those were met, so in order to reduce the length of this document and focus on what has changed since 2021, we will not reproduce the full list here. The original IASA2 retrospective is available at [https://www.ietf.org/media/documents/IASA2_Retrospective.pdf](https://www.ietf.org/media/documents/IASA2_Retrospective.pdf).
 
 # Review of Key Issues, Requirements and Responsibilities
 
@@ -62,26 +61,12 @@ length of this document and focus on what has changed since 2021, we will not re
 
 1.A. **Requirement:** Fundraising. The IETF LLC is responsible for raising money on behalf of the IETF.
 
-1.B. **Requirement**: Sponsorships and donations are an essential component of
-    the financial support for the IETF. Within the general bounds noted in
-    Section 7.8, the IETF LLC is responsible for fundraising activities in order
-    to establish, maintain, and grow a strong foundation of donation revenues.
-    This can and does include both direct financial contributions as well as
-    in-kind contributions, such as equipment, software licenses, and services.
+1.B. **Requirement**: Sponsorships and donations are an essential component of the financial support for the IETF. Within the general bounds noted in Section 7.8, the IETF LLC is responsible for fundraising activities in order to establish, maintain, and grow a strong foundation of donation revenues. This can and does include both direct financial contributions as well as in-kind contributions, such as equipment, software licenses, and services.
 
-    Sponsorships and donations to the IETF LLC do not (and must not) convey to
-    sponsors and donors any special oversight or direct influence over the
-    IETF's technical work or other activities of the IETF or IETF LLC. This
-    helps ensure that no undue influence may be ascribed to those from whom
-    funds are raised, and so helps to maintain an open and consensus-based IETF
-    standards process.
+Sponsorships and donations to the IETF LLC do not (and must not) convey to sponsors and donors any special oversight or direct influence over the IETF's technical work or other activities of the IETF or IETF LLC. This helps ensure that no undue influence may be ascribed to those from whom funds are raised, and so helps to maintain an open and consensus-based IETF standards process.
 
-    To the extent that the IETF LLC needs to undertake any significant special
-    projects for the IETF, the IETF LLC may need to fund-raise distinctly for
-    those special projects. As a result, the IETF LLC may conduct fundraising to
-    support the IETF in general as well as one or more special fundraising
-    efforts (which may also be accounted for distinctly and be held in a
-    separate bank account or investment, as needed).
+To the extent that the IETF LLC undertakes any significant special projects for the IETF, the IETF LLC may need to fund-raise specifically for those special projects. If this situation arises, the  IETF LLC will continue to conduct fundraising specifically to support the IETF as required, in addition to undertaking new fundraising efforts for special projects. All fundraising efforts and proceeds will be accounted for under the appropriate financial standards, with a clear separation of accounts aligned with the purpose and policies of the monies and the projects for which the funds are raised. Fundraising for special projects will not conflict with the primary requirement of the IETF LLC to focus on fundraising for the sustainability and continued success of the IETF.   
+
 
 1.C. **Requirement**: Support a Re-Envisioned Funding Model: Provide the staff
     support and resources needed to adapt the funding model of the IETF to
@@ -89,13 +74,13 @@ length of this document and focus on what has changed since 2021, we will not re
     also allow for and be able to support new funding streams or changes to the
     proportion of funds from various Sources.
 
-**Status:** &#x1F7E1; Needs Improvement
+**Status:** &#x1F7E1; In Progress
 
    **Comments:** This remains a primary focus of the IETF LLC. 
    
    Sponsorship income has been good and has grown with our modernisation of our sponsorship offerings, but is at risk as some traditional IETF sponsor companies reduce their standards-related spending. Sponsorship income in 2018 was $X and by 2023 had increase YY% to $Y. A number of [new programs](https://www.ietf.org/support-us/sponsorship/) for sponsors have been introduced in order to attract more funding, such as Diversity & Inclusion, Running Code and Sustainability.
    
-   Donations to the IETF Endowment have in contrast been disappointing. As a result, the IETF LLC has made changes in approach and staffing to try to improve. Board attention on and prioritization of this activity should continue to be high. It may require additional staff, contractor, or other resources to reach its full potential.
+   Donations to the IETF Endowment have in contrast been disappointing. As a result, the IETF LLC eliminated a staff role and redesigned its fundraising approach to be sector-specific and targeted rather than general. Board attention on and prioritization of this activity should continue to be high. It may require additional staff, contractor, or other resources to reach its full potential.
 
 ### IETF Meeting Revenues
 
