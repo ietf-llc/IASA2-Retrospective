@@ -162,12 +162,6 @@ As a result, the IETF LLC needs to provide additional operational direction to t
 
 The IETF LLC expects to announce steps being taken in this area soon. For the next retrospective in 2027, the community should expect significant improvements to have been made in the RPC.  
 
-### Independent Submission Editor (ISE)
-
-The IETF LLC also maintains the [Independent Submission Editor](https://datatracker.ietf.org/doc/html/rfc8730) (ISE) function, which offers an alternative publishing pathway that can publish RFCs that do not originate from IETF Working Groups. The [ISE function](https://www.ietf.org/about/groups/ise/) is overseen by the Internet Architecture Board (IAB) and has its own oversight board. That ISE published eleven RFCs in 2023.
-
-The job of the IETF LLC is to support the IETF's standards process, of which the ISE and IAB are a part. It is not the IETF LLC's role to set the structure of any potential ISE function per se. Ultimately this is more a matter for the IETF community to take up, specifically the IESG and IAB.  
-
 ### IETF Trust
 
 Prior to the IASA2 changes, the IAOC members and the trustees of the [IETF Trust](https://trustee.ietf.org/) were the same people, with executive support provided by the same person, the then IAD (IETF Administrative Director). Under IASA2, the people managing the IETF Trust became different people from those managing the IETF (the IETF LLC). This has had knock-on effects that the IETF community may not fully recognize. 
