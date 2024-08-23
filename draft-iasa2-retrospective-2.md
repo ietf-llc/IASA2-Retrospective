@@ -112,7 +112,7 @@ To the extent that the IETF LLC undertakes any significant special projects for 
     resources the responsibility for creating and maintaining tools and
     processes to support this activity.
 
-    **Status:** &#x1F7E1; In Progress
+    **Status:** &#x1F7E1; Ongoing / Major Improvement
 
     **Comments:** This remains a key focus for the IETF LLC, as there continues to be
     technical debt that needs to be addressed, and the IETF wishes to move
