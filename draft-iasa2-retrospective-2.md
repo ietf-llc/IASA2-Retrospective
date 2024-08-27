@@ -118,8 +118,8 @@ To the extent that the IETF LLC undertakes any significant special projects for 
     technical debt that needs to be addressed, and the IETF wishes to move
     towards more modern software architecture, systems architecture, software
     development practices and user-centered design. Currently there are two
-    major elements to the work. The first is implementing the new IT services
-    infrastructure strategy that was agreed with the community after 
+    major elements to the work. The first is implementing the new [IT services
+    infrastructure strategy](https://github.com/ietf-tools/infrastructure-strategy/blob/main/strategy.md) that was agreed with the community after 
     consultation. This involves separating out services, moving them into the
     cloud and through significantly enhanced instrumentation, tuning their 
     performance to match community expectations.  The second element is rewriting
