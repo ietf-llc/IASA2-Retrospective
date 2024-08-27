@@ -118,8 +118,8 @@ To the extent that the IETF LLC undertakes any significant special projects for 
     technical debt that needs to be addressed, and the IETF wishes to move
     towards more modern software architecture, systems architecture, software
     development practices and user-centered design. Currently there are two
-    major elements to the work. The first is implementing the new IT services
-    infrastructure strategy that was agreed with the community after 
+    major elements to the work. The first is implementing the new [IT services
+    infrastructure strategy](https://github.com/ietf-tools/infrastructure-strategy/blob/main/strategy.md) that was agreed with the community after 
     consultation. This involves separating out services, moving them into the
     cloud and through significantly enhanced instrumentation, tuning their 
     performance to match community expectations.  The second element is rewriting
@@ -134,7 +134,7 @@ To the extent that the IETF LLC undertakes any significant special projects for 
 
     With the growth of the internal team and the rapid progress in some areas, 
     greater care is now being taken to check with the community that the LLC is
-    delivering the changes that the community has prioritized.
+    delivering the changes that the community has prioritized.  The Tools Team has a monthly virtual interim and the format of those calls has switched from asking for questions, to explicitly asking people to review development plans and provide feedback on priorities and the new public [Tools Roadmap](https://github.com/orgs/ietf-tools/projects/9).
 
 ## D. Other Gaps
 
