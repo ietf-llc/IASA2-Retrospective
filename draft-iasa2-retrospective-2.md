@@ -76,9 +76,9 @@ To the extent that the IETF LLC undertakes any significant special projects for 
 
 **Status:** &#x1F7E1; In Progress
 
-   **Comments:** This remains a primary focus of the IETF LLC. 
+   **Comments:** This remains a significant focus of the IETF LLC. 
    
-   Sponsorship income has been good and has grown with our modernisation of our sponsorship offerings, but is at risk as some traditional IETF sponsor companies reduce their standards-related spending. Sponsorship income in 2018 was $X and by 2023 had increase YY% to $Y. A number of [new programs](https://www.ietf.org/support-us/sponsorship/) for sponsors have been introduced in order to attract more funding, such as Diversity & Inclusion, Running Code and Sustainability.
+   Sponsorship income has been stable but has not dramatically increased to the extent hoped. To try to increase sponsorship funding, the IETF LLC has modernised our sponsorship offerings by creating [new programs](https://www.ietf.org/support-us/sponsorship/), such as Diversity & Inclusion, Running Code and Sustainability. However, ut is at risk as some traditional IETF sponsor companies reduce their standards-related spending.
    
    Donations to the IETF Endowment have in contrast been disappointing. As a result, the IETF LLC eliminated a staff role and redesigned its fundraising approach to be sector-specific and targeted rather than general. Board attention on and prioritization of this activity should continue to be high. It may require additional staff, contractor, or other resources to reach its full potential.
 
@@ -112,7 +112,7 @@ To the extent that the IETF LLC undertakes any significant special projects for 
     resources the responsibility for creating and maintaining tools and
     processes to support this activity.
 
-    **Status:** &#x1F7E1; Ongoing / Major Improvement
+    **Status:** &#x1F7E1; Ongoing / Major Improvements Delivered and In Progress
 
     **Comments:** This remains a key focus for the IETF LLC, as there continues to be
     technical debt that needs to be addressed, and the IETF wishes to move
