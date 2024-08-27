@@ -134,7 +134,7 @@ To the extent that the IETF LLC undertakes any significant special projects for 
 
     With the growth of the internal team and the rapid progress in some areas, 
     greater care is now being taken to check with the community that the LLC is
-    delivering the changes that the community has prioritized.
+    delivering the changes that the community has prioritized.  The Tools Team has a monthly virtual interim and the format of those calls has switched from asking for questions, to explicitly asking people to review development plans and provide feedback on priorities and the new public [Tools Roadmap](https://github.com/orgs/ietf-tools/projects/9).
 
 ## D. Other Gaps
 
