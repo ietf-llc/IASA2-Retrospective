@@ -138,19 +138,19 @@ To the extent that the IETF LLC undertakes any significant special projects for 
 
 ## D. Other Gaps
 
-### Ombusteam
+### Legal risks
+
+The IETF LLC is responsible, on behalf of the IETF, for legal compliance, which includes managing legal risks, and managing third-party legal activity. This activity has included to date: responding to subpoenas, initiating litigation to recover debt and responding to threats of litigation. Experience has identified two important gaps that need to be resolved.
+
+First, is how the IETF as a whole responds when a third-party makes a credible threat of litigation or initiates litigation. Best practice is to minimize risk by only communicating with the litigant through counsel, but with an organization as distributed as the IETF, it is not clear how this affects the roles and activity of such groups as the IESG or Ombudsteam
+
+We propose consulting with the other parts of the IETF to agree a legal protocol to be used to communicate with a third-party who makes a credible threat of litigation or initiates litigation, and to document this in an IETF LLC policy.
+
+Second, the work of the Ombudsteam function can have significant legal implications for the IETF.  For example, if the Ombudsteam excludes an individual from any part of the IETF process then that person, or their employer, may litigate this decision. However, under the current operating practices defined in RFC 7776, the Ombusdteam is required to keep their decisions confidential and so IETF LLC Board does not have any visibility into those possible legal implications and is therefore unable to properly implement risk management procedures.
 
 After the IETF LLC was formed, [RFC 7776](https://www.rfc-editor.org/info/rfc7776) was updated in [RFC 8716 / BCP 25](https://www.rfc-editor.org/info/rfc8716). However, no other substantive changes in the operation or oversight of the Ombudsteam were made; the name of the IAOC function was simply updated to the IETF LLC. Since that time, the IETF LLC has identified some issues of concern that need to be addressed by the IETF as a whole. 
 
-The IETF LLC Board is responsible for assuring the long term financial solvency of the IETF and safeguarding it from a variety of risks. These responsibilities give the IETF LLC a fiduciary and legal responsibility.
-
-The Ombudsteam is a critical function for the IETF to mitigate the risk of harassment in the IETF.  The IETF LLC Board has identified two concerns that should be addressed by the IETF community.
-
-First, the work of the Ombudsteam function can have significant legal implications for the IETF (e.g., harassment, assault). However, under the current operating practices defined in RFC 7776, the IETF LLC Board does not have any visibility into those possible legal implications and is therefore unable to properly implement risk management procedures.
-
-Second, the IETF LLC Board also observes that for the Ombudsteam to credibly perform its function, it requires the confidence of the community.  The current confidentiality procedures derived from RFC 7776  prevent the community from having even the most basic insight into whether the Ombudsteam is functioning.  The IETF LLC Board believes that the community would benefit from additional transparency, as [other organizations have demonstrated](https://ombuds.jhu.edu/wp-content/uploads/sites/51/2022-23-JHU-Ombuds-Office-Annual-Report.pdf).  We believe an annual transparency report should be required of the Ombudsteam function at the IETF. 
-
-We recommend and will initiate a community proceeding to update RFCs pertaining to the Ombudsteam function.
+We propose to initiate a community proceeding to update RFCs pertaining to the Ombudsteam function to enable information sharing with the IETF LLC in order to allow the IETF LLC to properly discharge its duty to manage legal risk.
 
 ### RFC Production Center (RPC)
 
@@ -164,13 +164,13 @@ The IETF LLC expects to announce steps being taken in this area soon. For the ne
 
 ### IETF Trust
 
-Prior to the IASA2 changes, the IAOC members and the trustees of the [IETF Trust](https://trustee.ietf.org/) were the same people, with executive support provided by the same person, the then IAD (IETF Administrative Director). Under IASA2, the people managing the IETF Trust became different people from those managing the IETF (the IETF LLC). This has had knock-on effects that the IETF community may not fully recognize. 
+Prior to the IASA2 changes, the IAOC members and the trustees of the [IETF Trust](https://trustee.ietf.org/) were the same people, with executive support provided by the same person, the then IAD (IETF Administrative Director). Under IASA2, there is now a separation at the governance level between the trustees of the IETF Trust and IETF LLC board members with no cross-over or personnel or formally designated liaison. This has had knock-on effects that the IETF community may not fully recognize. 
 
-As a result of IASA2 there is now a separation at the governance level as the trustees of the IETF Trust and IETF LLC board members. There is no cross-over or personnel or formally designated liaison. In addition, at the executive support level there is also separation, as the IETF Executive Director works solely for the IETF LLC and does not operate the IETF Trust or act as an executive for the IETF Trust. Over time, the two organizations' operational approaches have  diverged but it is not clear if this was an expected outcome of the IASA2 process.
-
-Despite this divergence, it seems clear that the IETF Trust solely exists due to and in the service of the IETF. Not only is IETF in the name of the IETF Trust, but the IETF Trust's website is within the IETF's ietf.org domain, the IETF Nominating Committee selects trustees, and the IETF Trust notes their purpose is "acquiring, holding, maintaining and licensing certain existing and future intellectual property and other property used in connection with the Internet standards process and its administration..." The IETF, and thus by extension the IETF LLC as the legal home of the IETF, is thus the sole beneficiary of the IETF Trust.
+In addition, at the executive support level there is also separation, as the IETF Executive Director works solely for the IETF LLC and does not operate the IETF Trust or act as an executive for the IETF Trust. Over time, the two organizations' operational approaches have  diverged but it is not clear if this was an expected outcome of the IASA2 process.
 
 The key reason for this divergence is that the IETF LLC, as the more recent of the two organizations to be created by the community, was given a clear and detailed set of community requirements in BCP 101 for how it should operate. These include a set of principles for it to follow, such as significant transparency and strong community responsiveness, and a requirement for an extensive set of governance policies created through community consultation, which it put in place since soon after inception. 
+
+More fundamentally, the IETF LLC understands that the IETF Trust solely exists due to and in the service of the IETF. Not only is IETF in the name of the IETF Trust, but the IETF Trust's website is within the IETF's ietf.org domain, the IETF Nominating Committee selects trustees, and the IETF Trust notes their purpose is "acquiring, holding, maintaining and licensing certain existing and future intellectual property and other property used in connection with the Internet standards process and its administration..." The IETF, and thus by extension the IETF LLC as the legal home of the IETF, is thus the sole beneficiary of the IETF Trust.
 
 The community may wish to consider discussing potential structural options for closing the gap between the IETF LLC and IETF Trust, and consider whether a similar set of community requirements would be appropriate for the IETF Trust - particularly as it completes its transformation from a trust to a corporation with similar legal obligations as the IETF LLC. 
 
