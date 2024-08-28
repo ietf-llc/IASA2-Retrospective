@@ -37,7 +37,7 @@ This is the second IASA2 retrospective, and future retrospectives should be publ
 
 ## Timeline
 
-- **August - September 2024:** Publish first draft and solicit community feedback. Continue to iterate the document.
+- **September 2024:** Publish first draft and solicit community feedback. Continue to iterate the document.
 
 - **October 2024:** Incorporate final community feedback.
 
