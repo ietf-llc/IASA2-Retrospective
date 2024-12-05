@@ -109,6 +109,10 @@ Second, the work of the Ombudsteam function can have significant legal implicati
 
 To address the second gap, we propose to initiate a community proceeding to update RFCs pertaining to the Ombudsteam function to enable information sharing with the IETF LLC in order to allow the IETF LLC to properly discharge its duty to manage legal risk.
 
+### Suitability of the IETF NomCom for the IETF LLC (Action Needed - Future BoF)
+
+The first IASA2 retrospective ([see pages 9 - 10](https://www.ietf.org/media/documents/IASA2_Retrospective.pdf)) highlighted a concern over the suitability of the IETF NomCom for selecting IETF LLC board members. This concern remains and should be addressed by scheduling a BoF at a future IETF meeting to discuss the issue and identify potential alternatives, such an a new nominating committee solely focused on the selection of board members for the IETF LLC and IETF Trust. Such a new committee might be comprised from a pool of prior IETF LLC and IETF Trust board members, prior IETF chairs, etc. 
+
 ### RFC Production Center (Action Needed - Investment in Tools Modernization and Efficiency Improvement)
 
 The [RFC Production Center](https://www.rfc-editor.org/about/) (RPC) edits documents and creates Requests for Comment (RFC). Publishing RFCs is the output of the IETF standards process (and similar processes), and as such is a critical productivity metric for the IETF LLC in operating the IETF. These are metrics such as the volume of RFCs published over time and how long it takes the RPC to edit and publish RFCs once they have entered their work queue. 
