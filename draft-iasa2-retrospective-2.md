@@ -34,53 +34,23 @@ This is the second IASA2 retrospective, and future retrospectives should be publ
    administrative, operational, legal, financial, and other support to meet the
    changing needs of the IETF.
 
-
-## Timeline
-
-- **September 2024:** Publish first draft and solicit community feedback. Continue to iterate the document.
-
-- **October 2024:** Incorporate final community feedback.
-
-- **November 2024:** Present the report during the IETF 121 plenary.
-
-## Feedback Mechanisms
-
-1. **Email**: send feedback to
-   [admin-discuss@ietf.org](mailto:admin-discuss@ietf.org).
-
-2. **GitHub**: Open an issue or propose a pull request [on
-   GitHub](https://github.com/ietf-llc/IASA2-Retrospective).
-
 # Note on Form 
 
 In the first IASA2 retrospective, we reviewed a list of 62 requirements. Most of those were met, so in order to reduce the length of this document and focus on what has changed since 2021, we will not reproduce the full list here. The original IASA2 retrospective is available at [https://www.ietf.org/media/documents/IASA2_Retrospective.pdf](https://www.ietf.org/media/documents/IASA2_Retrospective.pdf).
 
 # Review of Key Issues, Requirements and Responsibilities
 
-## Sponsorships and Donations to the IETF LLC
+## Sponsorships and Donations to the IETF LLC 
 
-1.A. **Requirement:** Fundraising. The IETF LLC is responsible for raising money on behalf of the IETF.
+1. **Requirement:** Fundraising. The IETF LLC is responsible for raising money on behalf of the IETF.
 
-1.B. **Requirement**: Sponsorships and donations are an essential component of the financial support for the IETF. Within the general bounds noted in Section 7.8, the IETF LLC is responsible for fundraising activities in order to establish, maintain, and grow a strong foundation of donation revenues. This can and does include both direct financial contributions as well as in-kind contributions, such as equipment, software licenses, and services.
-
-Sponsorships and donations to the IETF LLC do not (and must not) convey to sponsors and donors any special oversight or direct influence over the IETF's technical work or other activities of the IETF or IETF LLC. This helps ensure that no undue influence may be ascribed to those from whom funds are raised, and so helps to maintain an open and consensus-based IETF standards process.
-
-To the extent that the IETF LLC undertakes any significant special projects for the IETF, the IETF LLC may need to fund-raise specifically for those special projects. If this situation arises, the  IETF LLC will continue to conduct fundraising specifically to support the IETF as required, in addition to undertaking new fundraising efforts for special projects. All fundraising efforts and proceeds will be accounted for under the appropriate financial standards, with a clear separation of accounts aligned with the purpose and policies of the monies and the projects for which the funds are raised. Fundraising for special projects will not conflict with the primary requirement of the IETF LLC to focus on fundraising for the sustainability and continued success of the IETF.   
-
-
-1.C. **Requirement**: Support a Re-Envisioned Funding Model: Provide the staff
-    support and resources needed to adapt the funding model of the IETF to
-    changes in the industry, participation, and expenses.  The structure should
-    also allow for and be able to support new funding streams or changes to the
-    proportion of funds from various Sources.
-
-**Status:** &#x1F7E1; In Progress
+   **Status:** &#x1F7E1; In Progress
 
    **Comments:** This remains a significant focus of the IETF LLC. 
    
-   Sponsorship income has been stable but has not dramatically increased to the extent hoped. To try to increase sponsorship funding, the IETF LLC has modernized our sponsorship offerings by creating [new programs](https://www.ietf.org/support-us/sponsorship/), such as Diversity & Inclusion, Running Code and Sustainability. However, it is at risk as some traditional IETF sponsor companies reduce their standards-related spending.
+   Sponsorship income has been stable but has not dramatically increased to the extent hoped. To try to increase sponsorship funding, the IETF LLC has modernized our sponsorship offerings by creating [new programs](https://www.ietf.org/support-us/sponsorship/), such as Diversity & Inclusion, Running Code and Sustainability. However, existing sponsorship revneues remain a risk as some traditional IETF sponsor companies reduce their standards-related spending.
    
-   Donations to the IETF Endowment have in contrast been disappointing. As a result, the IETF LLC eliminated a staff role and redesigned its fundraising approach to be sector-specific and targeted rather than general. Board attention on and prioritization of this activity should continue to be high. It may require additional staff, contractor, or other resources to reach its full potential.
+   Donations to the IETF Endowment have been disappointing. As a result, the IETF LLC eliminated a staff role and redesigned its fundraising approach to be sector-specific and targeted rather than general. Board attention on and prioritization of this activity should continue to be high. It may require additional staff, contractor, or other resources to reach its full potential.
 
 ### IETF Meeting Revenues
 
@@ -99,18 +69,7 @@ To the extent that the IETF LLC undertakes any significant special projects for 
 
 ### IETF Technical Tools
 
-3. **Requirement**: Improve the IETF's Technical Environment. Undertake changes
-    to better enable technical contributors to focus more on that technical work
-    and less on administrative work or support activities.  This could for
-    example mean directing more financial resources towards the creation of new
-    or improvement of existing tools, which might be produced by contractors
-    rather than solely by volunteers.  As a result, volunteers could instead
-    focus on developing the standards themselves.  Thus, if the core competency
-    of IETF attendees and their reason for participating in the IETF is to
-    develop standards, then create an environment where they can focus
-    exclusively on that activity and delegate to contractors, staff, or other
-    resources the responsibility for creating and maintaining tools and
-    processes to support this activity.
+3. **Requirement**: Improve the IETF's Technical Environment. 
 
     **Status:** &#x1F7E1; Ongoing / Major Improvements Delivered and In Progress
 
@@ -138,7 +97,7 @@ To the extent that the IETF LLC undertakes any significant special projects for 
 
 ## D. Other Gaps
 
-### Legal risks
+### Legal Risks (Action Needed - Plan Community Consultation on Ombudsteam Topic)
 
 The IETF LLC is responsible, on behalf of the IETF, for legal compliance, which includes managing legal risks and third-party legal activity. Since 2018, this has included things such as responding to subpoenas, initiating litigation to recover debt and responding to threats of litigation. This recent experience has identified two important gaps that need to be resolved.
 
@@ -150,7 +109,7 @@ Second, the work of the Ombudsteam function can have significant legal implicati
 
 To address the second gap, we propose to initiate a community proceeding to update RFCs pertaining to the Ombudsteam function to enable information sharing with the IETF LLC in order to allow the IETF LLC to properly discharge its duty to manage legal risk.
 
-### RFC Production Center (RPC)
+### RFC Production Center (Action Needed - Investment in Tools Modernization and Efficiency Improvement)
 
 The [RFC Production Center](https://www.rfc-editor.org/about/) (RPC) edits documents and creates Requests for Comment (RFC). Publishing RFCs is the output of the IETF standards process (and similar processes), and as such is a critical productivity metric for the IETF LLC in operating the IETF. These are metrics such as the volume of RFCs published over time and how long it takes the RPC to edit and publish RFCs once they have entered their work queue. 
 
@@ -162,7 +121,7 @@ As a result, the IETF LLC needs to provide additional operational direction and 
 
 The IETF LLC expects to announce steps being taken in this area soon. For the next retrospective in 2027, the community should expect significant improvements to have been made in the RPC.  
 
-### IETF Secretariat - Managing Director Role
+### IETF Secretariat - Managing Director Role (Action Needed - Write New Internet Draft)
 
 Prior to the IASA2 changes, the only IETF staffer was the then IAD. The outsourced IETF Secretariat worked directly for the community in certain places/processes as specified in RFCs. RFC 8717, one of the IASA2 outputs, partially maintained this by creating the new role of "Managing Director, IETF Secretariat" (MD) and updated a number of RFCs that included the old concept of "Executive Director" to now refer to that MD role.  Separately, RFC 8711, which created the IETF LLC and the IETF Executive Director role, put the IETF LLC and IETF Executive Director in charge of all contractors and their work, including the IETF Secretariat.  
 
@@ -170,13 +129,13 @@ With the implementation of IASA2, the dynamic around administrative support chan
 
 The IETF LLC proposes to address this by requesting the IETF to publish a new RFC that replaces references to the IETF Secretariat with the more generic term 'IASA' and removes any references to individual administrative support roles that do not require a nominated individual to deliver them.
 
-### Realistically Describing IETF Functions
+### Realistically Describing IETF Functions (No Action Needed - Informational)
 
 The IETF LLC has observed over time that there is sometimes difficulty within the IETF community in understanding the true legal structure and operation of the IETF. This can sometimes be seen via the expression within the IETF community of some informal views that certain functions or parts of the IETF are totally independent of the IETF. This is not in fact the case, and it can hinder a clear understanding and discussion of critical IETF matters and decisions about the future of the IETF. 
 
 The IETF LLC is the legal, financial and administrative home of the IETF; there are no other legal entities. The core functions of the IETF structure today include the IAB, IESG, IRTF, RSE, RPC, and so on. None of those organizations are legally independent of the IETF LLC. However, the IETF Trust (technically "[IETF Intellectual Property Management Corporation](https://trustee.ietf.org/wp-content/uploads/IPMC-501c3.pdf)") is a separate legal entity and the IETF is defined as the beneficiary of the IETF Trust in [their new bylaws](https://trustee.ietf.org/wp-content/uploads/Bylaws-final.pdf). Further details are defined in BCP 11 ([RFC 9281](https://www.rfc-editor.org/rfc/rfc9281.html)). Budget to support operation of the IETF Trust is listed as a discrete line item in the [IETF LLC's annual budget](https://www.ietf.org/administration/financial-statements/). 
 
-### Community Comments 
+### Community Comments (No Action Needed)
 
 The IETF LLC also asked an open-ended question of the IETF community, seeking
 suggestions on any additional administrative, financial, legal, or operational
@@ -187,9 +146,7 @@ been addressed in prior sections of this document. No comments were received in
 this area that have not already been addressed in prior sections of this
 document.
 
-The IETF community have provided the following feedback: TBD based on comments.
-
-## E. Future IASA2 Retrospective Reports
+## E. Future IASA2 Retrospective Reports (Action Needed in Three Years)
 
 Continue performing a regular assessment of the IASA structure and IETF LLC every three years, with a report to the IETF community in the final IETF meeting of each of those years. The next IASA assessments should occur in 2027, 2030, 2033, and so on.
 
