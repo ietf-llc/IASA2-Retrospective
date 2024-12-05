@@ -162,18 +162,6 @@ As a result, the IETF LLC needs to provide additional operational direction and 
 
 The IETF LLC expects to announce steps being taken in this area soon. For the next retrospective in 2027, the community should expect significant improvements to have been made in the RPC.  
 
-### IETF Trust
-
-Prior to the IASA2 changes, the IAOC members and the trustees of the [IETF Trust](https://trustee.ietf.org/) were the same people, with executive support provided by the same person, the then IAD (IETF Administrative Director). Under IASA2, there is now a separation at the governance level between the trustees of the IETF Trust and IETF LLC board members with no cross-over or personnel or formally designated liaison. This has had knock-on effects that the IETF community may not fully recognize. 
-
-In addition, at the executive support level there is also separation, as the IETF Executive Director works solely for the IETF LLC and does not operate the IETF Trust or act as an executive for the IETF Trust. Over time, the two organizations' operational approaches have  diverged but it is not clear if this was an expected outcome of the IASA2 process.
-
-The key reason for this divergence is that the IETF LLC, as the more recent of the two organizations to be created by the community, was given a clear and detailed set of community requirements in BCP 101 for how it should operate. These include a set of principles for it to follow, such as significant transparency and strong community responsiveness, and a requirement for an extensive set of governance policies created through community consultation, which it put in place since soon after inception. 
-
-More fundamentally, the IETF LLC understands that the IETF Trust solely exists due to and in the service of the IETF. Not only is IETF in the name of the IETF Trust, but their website is within the IETF's ietf.org domain, the IETF Nominating Committee selects trustees, and the IETF Trust notes their purpose is "acquiring, holding, maintaining and licensing certain existing and future intellectual property and other property used in connection with the Internet standards process and its administration..." The IETF, and thus by extension the IETF LLC as the legal home of the IETF, is thus the sole beneficiary of the IETF Trust.
-
-The community may wish to consider discussing potential structural options for closing the gap between the IETF LLC and IETF Trust, and consider whether a similar set of community requirements would be appropriate for the IETF Trust - particularly as it completes its transformation from a trust to a corporation with similar legal obligations as the IETF LLC. 
-
 ### IETF Secretariat - Managing Director Role
 
 Prior to the IASA2 changes, the only IETF staffer was the then IAD. The outsourced IETF Secretariat worked directly for the community in certain places/processes as specified in RFCs. RFC 8717, one of the IASA2 outputs, partially maintained this by creating the new role of "Managing Director, IETF Secretariat" (MD) and updated a number of RFCs that included the old concept of "Executive Director" to now refer to that MD role.  Separately, RFC 8711, which created the IETF LLC and the IETF Executive Director role, put the IETF LLC and IETF Executive Director in charge of all contractors and their work, including the IETF Secretariat.  
@@ -186,7 +174,7 @@ The IETF LLC proposes to address this with a new RFC that replaces references to
 
 The IETF LLC has observed over time that there is sometimes difficulty within the IETF community in understanding the true legal structure and operation of the IETF. This can sometimes be seen via the expression within the IETF community of some informal views that certain functions or parts of the IETF are totally independent of the IETF. This is not in fact the case, and it can hinder a clear understanding and discussion of critical IETF matters and decisions about the future of the IETF. 
 
-The IETF LLC is the legal and financial home of the IETF; there are no other legal entities. Within this IETF structure there is also the IAB, IESG, IRTF, RSE, RPC, IETF Trust, and so on. None of those organizations are legally independent of the IETF; they are core functions of the IETF.
+The IETF LLC is the legal, financial and administrative home of the IETF; there are no other legal entities. The core functions of the IETF structure today include the IAB, IESG, IRTF, RSE, RPC, and so on. None of those organizations are legally independent of the IETF LLC. However, the IETF Trust (technically "[IETF Intellectual Property Management Corporation](https://trustee.ietf.org/wp-content/uploads/IPMC-501c3.pdf)") is a separate legal entity and the IETF is defined as the beneficiary of the IETF Trust in [their new bylaws](https://trustee.ietf.org/wp-content/uploads/Bylaws-final.pdf). Further details are defined in BCP 11 ([RFC 9281](https://www.rfc-editor.org/rfc/rfc9281.html)). Budget to support operation of the IETF Trust is listed as a discrete line item in the [IETF LLC's annual budget](https://www.ietf.org/administration/financial-statements/). 
 
 ### Community Comments 
 
