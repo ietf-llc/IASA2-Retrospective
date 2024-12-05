@@ -168,7 +168,7 @@ Prior to the IASA2 changes, the only IETF staffer was the then IAD. The outsourc
 
 With the implementation of IASA2, the dynamic around administrative support changed in two key ways. The first of these was the development of a broad leadership role for the IETF Executive Director driven both by community expectations, and the needs of the IETF Secretariat. The second was the switch for processes that were defined as being handled by a particular individual, to being delivered by a team, generally involving both the Secretariat and the LLC and often supported by new tools. There is no longer a clear boundary between the IETF LLC and the IETF Secretariat for much of the operational support of the IETF - which is a positive outcome of IASA2. This would appear to obviate the need for a special Managing Director role.
 
-The IETF LLC proposes to address this with a new RFC that replaces references to the IETF Secretariat with the more generic term 'IASA' and removes any references to individual administrative support roles that do not require a nominated individual to deliver them.
+The IETF LLC proposes to address this by requesting the IETF to publish a new RFC that replaces references to the IETF Secretariat with the more generic term 'IASA' and removes any references to individual administrative support roles that do not require a nominated individual to deliver them.
 
 ### Realistically Describing IETF Functions
 
