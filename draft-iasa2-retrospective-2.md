@@ -48,7 +48,7 @@ In the first IASA2 retrospective, we reviewed a list of 62 requirements. Most of
 
    **Comments:** This remains a significant focus of the IETF LLC. 
    
-   Sponsorship income has been stable but has not dramatically increased to the extent hoped. To try to increase sponsorship funding, the IETF LLC has modernized our sponsorship offerings by creating [new programs](https://www.ietf.org/support-us/sponsorship/), such as Diversity & Inclusion, Running Code and Sustainability. However, existing sponsorship revneues remain a risk as some traditional IETF sponsor companies reduce their standards-related spending.
+   Sponsorship income has been stable but has not dramatically increased to the extent hoped. To try to increase sponsorship funding, the IETF LLC has modernized our sponsorship offerings by creating [new programs](https://www.ietf.org/support-us/sponsorship/), such as Diversity & Inclusion, Running Code and Sustainability. However, existing sponsorship revenues remain a risk as some traditional IETF sponsor companies reduce their standards-related spending.
    
    Donations to the IETF Endowment have been disappointing. As a result, the IETF LLC eliminated a staff role and redesigned its fundraising approach to be sector-specific and targeted rather than general. Board attention on and prioritization of this activity should continue to be high. It may require additional staff, contractor, or other resources to reach its full potential.
 
@@ -111,7 +111,7 @@ To address the second gap, we propose to initiate a community proceeding to upda
 
 ### Suitability of the IETF NomCom for the IETF LLC (Action Needed - Future BoF)
 
-The first IASA2 retrospective ([see pages 9 - 10](https://www.ietf.org/media/documents/IASA2_Retrospective.pdf)) highlighted a concern over the suitability of the IETF NomCom for selecting IETF LLC board members. This concern remains and should be addressed by scheduling a BoF at a future IETF meeting to discuss the issue and identify potential alternatives, such an a new nominating committee solely focused on the selection of board members for the IETF LLC and IETF Trust. Such a new committee might be comprised from a pool of prior IETF LLC and IETF Trust/IETF Intellectual Propoery Management board members, prior IETF chairs, etc. and would need to include a means to include IETF community directional input equivalent to what is provided by the current IETF NomCom.
+The first IASA2 retrospective ([see pages 9 - 10](https://www.ietf.org/media/documents/IASA2_Retrospective.pdf)) highlighted a concern over the suitability of the IETF NomCom for selecting IETF LLC board members. This concern remains and should be addressed by scheduling a BoF at a future IETF meeting to discuss the issue and identify potential alternatives, such as a new nominating committee solely focused on the selection of board members for the IETF LLC and IETF Trust. Such a new committee might be comprised from a pool of prior IETF LLC and IETF Trust/IETF Intellectual Property Management board members, prior IETF chairs, etc. and would need to include a means to include IETF community directional input equivalent to what is provided by the current IETF NomCom.
 
 ### RFC Production Center (Action Needed - Investment in Tools Modernization and Efficiency Improvement)
 
@@ -121,7 +121,7 @@ For quite some time, the RPC [has not met the Service Level Agreement (SLA) targ
 
 In addition, the whole RFC Editor function has been going through a major change, with the new RFC Editor model in [RFC 9280](https://www.rfc-editor.org/info/rfc9280) that introduced the RFC Series Working Group (RSWG) and RFC Advisory Board (RSAB), and removing the RFC Series Editor (RSE) role. This change has brought the RPC closer to the IETF community by giving it more responsibility for editing decisions, more direct contact with community members who want different services, and more direct community reporting requirements. Ultimately, these developments acknowledge the integral and vital role of the RPC, but they have put the RPC leadership in a difficult position as arms-length contractors. 
 
-As a result, the IETF LLC needs to provide additional operational direction and support to the RPC, including establishing internal workflow metrics, and investing in significant improvements to the technical tools used by the RPC to perform their work. This should have positive upstream effects over document publishing tools, which should become easier to use and ensure that the RPC is provided with consistently high quality document input. 
+As a result, the IETF LLC needs to provide additional operational direction and support to the RPC, including establishing internal workflow metrics, and investing in significant improvements to the technical tools used by the RPC to perform their work. This should have positive upstream effects over document publishing tools, which should become easier to use and ensure that the RPC is provided with consistently high-quality document input. 
 
 The IETF LLC expects to announce steps being taken in this area soon. For the next retrospective in 2027, the community should expect significant improvements to have been made in the RPC.  
 
