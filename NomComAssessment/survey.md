@@ -1,5 +1,5 @@
 # DRAFT SURVEY
-Survey to be sent to collect views on the NomCom process for the IETF LLC and IETF Trust. 
+Survey to be sent to collect views on the NomCom process for the IETF LLC and IETF Trust, in support of actions identified in the [second IASA2 retrospective](https://github.com/ietf-llc/IASA2-Retrospective/blob/main/draft-iasa2-retrospective-2.md).
 
 ## Distribution
 1. IETF NomCom members. 2018 to present, including NomCom chairs, voting members, and liaisons.
