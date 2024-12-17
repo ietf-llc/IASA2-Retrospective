@@ -15,3 +15,40 @@ Survey to be sent to collect views on the NomCom process for the IETF LLC and IE
 6. March 3, 2025: Publish results
 
 # Survey Draft
+
+1. Please indicate your role in the NomCom process: (Possible to select more than one role, such as NomCom Liaison, Nominee, board member)
+- NomCom member: voting
+- NomCom member: liaison 
+- NomCom member: chairperson
+- Nominee: IETF Trust
+- Nominee: IETF LLC 
+- IETF Trust board member
+- IETF LLC board member
+
+2. If Nominee, were you selected by the NomCom?
+- Yes (selected)
+- No (not selected)
+
+## For Nominee (Sortable based on selected / not selected)
+1. X
+2. Y
+3. Z
+4. Comments: free text field
+
+## For IETF Trust and IETF LLC Board Members (Sortable based on Trust / LLC)
+1. X
+2. Y
+3. Z
+4. Comments: free text field
+
+## For NomCom Members (Sortable based on voting / liaison / chairperson)
+1. X
+2. Y
+3. Z
+4. Comments: free text field
+
+
+
+
+
+
