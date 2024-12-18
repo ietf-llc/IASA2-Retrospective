@@ -139,15 +139,15 @@ Operating the network to support an IETF meeting is a significant undertaking an
 
 It seems like this is a good opportunity to convene a BoF session to discuss the community's future expectations for the meeting network. These expectations can then be used to create technical requirements that the IETF meeting network team can consider for future meetings. 
 
-### Realistically Describing IETF Functions (No Action Needed - Informational)
+### Realistically Describing IETF Functions (No Action - Informational)
 
 The IETF LLC has observed over time that there is sometimes difficulty within the IETF community in understanding the true legal structure and operation of the IETF. This can sometimes be seen via the expression within the IETF community of some informal views that certain functions or parts of the IETF are totally independent of the IETF. This is not in fact the case, and it can hinder a clear understanding and discussion of critical IETF matters and decisions about the future of the IETF.
 
 The IETF LLC is the legal, financial and administrative home of the IETF; there are no other legal entities. The core functions of the IETF structure today include the IAB, IESG, IRTF, RSE, RPC, and so on. None of those organizations are legally independent of the IETF LLC. Further details are defined in BCP 11 ([RFC 9281](https://www.rfc-editor.org/rfc/rfc9281.html)).
 
-However, the IETF Trust (and its restructured form known as the IPM or IETF Intellectual Property Managagment) is a separate nonprofit legal entity which holds and manages intellectual property rights using in the IETF process and published works. [IETF IPMC bylaws](https://trustee.ietf.org/wp-content/uploads/Bylaws-final.pdf). The IETF LLC budget includes supporting funds provided to the IETF Trust listed as a discrete line item in the [IETF LLC's annual budget](https://www.ietf.org/administration/financial-statements/).
+However, the IETF Trust (and its restructured form known as the IPM or IETF Intellectual Property Management) is a separate nonprofit legal entity which holds and manages intellectual property rights using in the IETF process and published works. [IETF IPMC bylaws](https://trustee.ietf.org/wp-content/uploads/Bylaws-final.pdf). The IETF LLC budget includes supporting funds provided to the IETF Trust listed as a discrete line item in the [IETF LLC's annual budget](https://www.ietf.org/administration/financial-statements/).
 
-### Community Comments (No Action Needed)
+### Community Comments (No Action)
 
 The IETF LLC also asked an open-ended question of the IETF community, seeking
 suggestions on any additional administrative, financial, legal, or operational
@@ -158,7 +158,7 @@ been addressed in prior sections of this document. No comments were received in
 this area that have not already been addressed in prior sections of this
 document.
 
-## E. Future IASA2 Retrospective Reports (Action Needed in Three Years)
+### Future IASA2 Retrospective Reports (Action Needed in 2027)
 
 Continue performing a regular assessment of the IASA structure and IETF LLC every three years, with a report to the IETF community in the final IETF meeting of each of those years. The next IASA assessments should occur in 2027, 2030, 2033, and so on.
 
