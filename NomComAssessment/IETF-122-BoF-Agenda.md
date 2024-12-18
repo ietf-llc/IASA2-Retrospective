@@ -36,6 +36,7 @@ Not applicable - this is an administrative BoF
 * 20 Mins - Name TBD - Read out of [Pre-Meeting Survey](https://github.com/ietf-llc/IASA2-Retrospective/blob/main/NomComAssessment/survey.md)
 
 3. 1:10 - 1:30 -- Exploring Alternatives
+* Discussants TBD
 
 4. 1:30 - 2:00 -- Discussion & Next Steps
 * Open discussion
