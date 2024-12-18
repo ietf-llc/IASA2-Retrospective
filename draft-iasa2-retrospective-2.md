@@ -34,7 +34,7 @@ This is the second IASA2 retrospective, and future retrospectives should be publ
    administrative, operational, legal, financial, and other support to meet the
    changing needs of the IETF.
 
-# Note on Form 
+## Note on Form 
 
 In the first IASA2 retrospective, we reviewed a list of 62 requirements. Most of those were met, so in order to reduce the length of this document and focus on what has changed since 2021, we will not reproduce the full list here. The original IASA2 retrospective is available at [https://www.ietf.org/media/documents/IASA2_Retrospective.pdf](https://www.ietf.org/media/documents/IASA2_Retrospective.pdf).
 
@@ -95,7 +95,7 @@ In the first IASA2 retrospective, we reviewed a list of 62 requirements. Most of
     greater care is now being taken to check with the community that the LLC is
     delivering the changes that the community has prioritized.  The Tools Team has a monthly virtual interim and the format of those calls has switched from asking for questions, to explicitly asking people to review development plans and provide feedback on priorities and the new public [Tools Roadmap](https://github.com/orgs/ietf-tools/projects/9).
 
-## D. Other Gaps
+## Other Gaps
 
 ### Legal Risks (Action Needed - Plan Community Consultation on Ombudsteam Topic)
 
