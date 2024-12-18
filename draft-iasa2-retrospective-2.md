@@ -113,7 +113,7 @@ To address the second gap, we propose to initiate a community proceeding to upda
 
 The first IASA2 retrospective ([see pages 9 - 10](https://www.ietf.org/media/documents/IASA2_Retrospective.pdf)) highlighted a concern over the suitability of the IETF NomCom for selecting IETF LLC board members. This concern remains and should be addressed by scheduling a BoF at a future IETF meeting to discuss the issue and identify potential alternatives, such as a new nominating committee solely focused on the selection of board members for the IETF LLC and IETF Trust. Such a new committee might be comprised from a pool of prior IETF LLC and IETF Trust/IETF Intellectual Property Management board members, prior IETF chairs, etc. and would need to include a means to include IETF community directional input equivalent to what is provided by the current IETF NomCom.
 
-### RFC Production Center (Action Needed - Investment in Tools Modernization and Efficiency Improvement)
+### RFC Production Center (Action Needed - Investment in Tools Modernization & Efficiency Improvement)
 
 The [RFC Production Center](https://www.rfc-editor.org/about/) (RPC) edits documents and creates Requests for Comment (RFC). Publishing RFCs is the output of the IETF standards process (and similar processes), and as such is a critical productivity metric for the IETF LLC in operating the IETF. These are metrics such as the volume of RFCs published over time and how long it takes the RPC to edit and publish RFCs once they have entered their work queue. 
 
