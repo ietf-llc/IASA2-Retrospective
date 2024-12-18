@@ -133,7 +133,7 @@ With the implementation of IASA2, the dynamic around administrative support chan
 
 The IETF LLC proposes to address this by requesting the IETF to publish a new RFC that replaces references to the IETF Secretariat with the more generic term 'IASA' and removes any references to individual administrative support roles that do not require a nominated individual to deliver them.
 
-### IETF Meeting Network (Action Needed - Future BoF)
+### IETF Meeting Network (Action Needed - BoF)
 
 Operating the network to support an IETF meeting is a significant undertaking and is at the core of people's meeting experience. Today, we rely on some contractors to lead the deployment and operation of the network, supported by volunteers from the IETF community. There are a range of costs that are associated with the meeting network, some of which may be related to supporting things that the community does not want or need. Alternatively, there may be things the network does not provide that the community would like to add.
 
