@@ -28,7 +28,21 @@ This BoF is intended to explain the problem to be potentially solved and discuss
 Not applicable - this is an administrative BoF
 
 ## Agenda
-   - 
+1. 00:00 - 00:10 -- Welcome and Note Well
+
+2. 00:10 - 01:10 -- Problem Statement
+* 20 Mins - Shauna Turner - Recent NomCom Liaison & LLC Nominee Experiences vs. Other Boards
+* 20 Mins - Name TBD - Perspective from IETF Trust
+* 20 Mins - Name TBD - Read out of [Pre-Meeting Survey](https://github.com/ietf-llc/IASA2-Retrospective/blob/main/NomComAssessment/survey.md)
+
+3. 1:10 - 1:30 -- Exploring Alternatives
+
+4. 1:30 - 2:00 -- Discussion & Next Steps
+* Open discussion
+* Explore consensus on alternatives to potentially take to wider community discussion or other next steps
+
+## Planned Survey Before BoF
+   - Available at https://github.com/ietf-llc/IASA2-Retrospective/blob/main/NomComAssessment/survey.md
 
 ## Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc.
    - Mailing List: https://www.ietf.org/mailman/listinfo/admin-discuss
