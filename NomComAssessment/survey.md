@@ -38,37 +38,38 @@ Thank you in advance for completing this survey!
 ## ALL ON A 5-POINT SCALE 
 
 ## For Nominee (Sortable based on selected / not selected)
-1. Before being considered by the IETF NomCom, were you a regular IETF participant?
-2. How qualified do you think members of the IETF NomCom were to assess your skills & experience for a board-level, non-technical role? 
+1. Before being considered by the IETF NomCom, how would you best describe your IETF participation? (Uses standard question on level of participation)
+2. How satisfied were you with the qualifications of the members of the IETF NomCom for assessing your skills & experience for a board-level, non-technical role? 
 3. How satisfied were you with the TIME SPENT interviewing you for this role?
 4. How satisfied were you with the COMMUNICATIONS from the IETF NomCom?
-5. How well did you understand the PROCESS for selection used by the IETF NomCom?
-6. Do you feel the IETF NomCom did a good job of considering geographic, industry, and gender diversity?
+5. How satisfied were you with your understanding of the PROCESS for selection used by the IETF NomCom?
+6. How satisfied with you with the job the IETF NomCom did in considering geographic, industry, and gender diversity?
 7. Overall, how satisified were you with the IETF NomCom process for this role?
-8. Comments: free text field
 
 ## For IETF Trust and IETF LLC Board Members (Sortable based on Trust / LLC)
 1. Are you now or have you previously served on OTHER boards?
 2. If yes to 1, is the IETF NomCom significantly DIFFERENT from the nomination and selection process used by those boards?
 3. If yes to 1, if the IETF NomCom BETTER OR WORSE than the process use by those boards?
 4. Have you served on the IETF NomCom as a liaison from the IETF LLC or IETF Trust?
-5. Before serving on the IETF LLC or IETF Trust, were you a regular IETF participant?
-6. How qualified do you think members of the IETF NomCom have been in assessing the skills & experience needed for a board-level, non-technical role?
+5. Before serving on the IETF LLC or IETF Trust, how would you best describe your IETF participation? (Uses standard question on level of participation)
+6. How satisfied were you with the qualifications of the members of the IETF NomCom for assessing your skills & experience for a board-level, non-technical role?
 7. How satisfied were you with the TIME SPENT by the IETF NomCom interviewing people for an IETF LLC or IETF Trust role?
-8. Do you feel the IETF NomCom does a good job of considering geographic, industry, and gender diversity?
+8. How satisfied with you with the job the IETF NomCom did in considering geographic, industry, and gender diversity?
 9. Overall, how satisified were you with the IETF NomCom process for this role?
-10. Comments: free text field
    
-## For NomCom Members (Sortable based on voting / liaison / chairperson)
-1. Before serving on the IETF NomCom, was your professional experience mostly technical or did you have financial, legal, and intellectual property rights experience?
-2. Before serving on the IETF NomCom, did you manage other employees in your organization, including specificically hiring, termination, coaching, goal setting, performance assessment, and compensation decision-making?
-3. Before serving on the IETF NomCom, did you manage a budget in your organization?
-4. Before serving on the IETF NomCom, were you involved in fundraising for start up companies or non-profit fundraising - whether as a donor/investor or fundraiser?
-5. Before serving on the IETF NomCom, were you directly involved in legal issues in your organization, such as contract negotiation and litigation?
-6. Do you understand what the meaning and implication of board members having a legal and fiduciary responsibility?
-7. While serving on the IETF NomCom, how well did your fellow IETF NomCom members understand the roles and responsibilities for the IETF LLC and IETF Trust?
-8. Comments: free text field
+## For NomCom Members (Sortable based on voting / liaison / chairperson) (5 or 3 point scale)
+1. At the time of serving on the IETF NomCom, how would you rate your experience of the following: 
+    1. Business finances, such as profit-and-loss statements and balance sheets?
+    2. General corporate legal/fiduciary obligations?
+    3. Intellectual property rights?
+    4. Staff management, including specifically hiring, termination, coaching, goal setting, performance assessment, and compensation decision-making?
+    5. Managing a budget in an organization?
+    6. Fundraising for start up companies or non-profit fundraising - whether as a donor/investor or fundraiser?
+    7. Corporate legal issues, such as contract negotiation and litigation?
+6. How well do you understand the meaning and implication of board members having a legal and fiduciary responsibility?
+7. How would you rate well the overall understanding of the roles and responsibilities for the IETF LLC and IETF Trust for the NomCom that you served on?
 
 ## Future
-1. Do you think the IETF NomCom process as currently designed is working well? 
+1. How well do you think the IETF NomCom process, as currently designed, is working? 
 2. What would you change, if anything, about the nomination and selection process for these roles? Free text field.
+3. Is there anything you would like to add or comment on? (Free text field)
