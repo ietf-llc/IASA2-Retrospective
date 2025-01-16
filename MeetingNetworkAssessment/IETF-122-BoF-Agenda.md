@@ -14,7 +14,14 @@ The key questions to be answered are:
 2. What networks need to be provided where?
     * All of the networks across the whole venue or specific networks in limited areas?
     * Do we still need an IETF network in the main hotel(s)?
-3. Who/how do we decide what the specific features and expectations are of the IETF network?
+3. What is the best NOC to deliver this?
+    * All contractors or the current mix of contractors and volunteers?
+    * Volunteers as the bridge between the NOC and the IETF community?
+4. How is the NOC "managed"?
+    * How does the NOC relate to the volunteer IETF leadership structure (i.e. the IESG) or is it solely a contracted function under the LLC?
+    * How are the volunteers found, selected and managed?
+    * What form of reporting should the community get? (including dashboards and presentations at plenary)
+5. Who/how do we decide what the specific features and expectations are of the IETF network?
     * For reference only, as this is too detailed for this BoF, these expectations could include:
         * Uptime/reliability
         * Speed/latency
@@ -23,12 +30,6 @@ The key questions to be answered are:
         * Privacy vs monitoring data
         * Specific protocols
         * Geo-location of the address block
-4. What is the best NOC to deliver this?
-    * All contractors or the current mix of contractors and volunteers?
-    * Volunteers as the bridge between the NOC and the IETF community?
-5. How is the NOC "managed"?
-    * How does the NOC relate to the volunteer IETF leadership structure (i.e. the IESG) or is it solely a contracted function under the LLC?
-    * How are the volunteers found, selected and managed?
 
 ## Required Details
 - Status: (not) WG Forming
@@ -70,13 +71,13 @@ Not applicable - this is an administrative BoF
 * 20 Mins - What networks need to be provided where? (TBD)
     * All of the networks across the whole venue or specific networks in limited areas?
     * Do we still need an IETF network in the main hotel(s)?
-* 20 Mins - Who/how do we decide what the specific features and expectations are of the IETF network? (TBD)
 * 20 Mins - What is the best NOC to deliver this? (TBD)
     * All contractors or the current mix of contractors and volunteers?
     * Volunteers as the bridge between the NOC and the IETF community?
 * 20 Mins - How is the NOC "managed"? (TBD)
     * How does the NOC relate to the volunteer IETF leadership structure (i.e. the IESG) or is it solely a contracted function under the LLC?
     * How are the volunteers found, selected and managed?
+* 20 Mins - Who/how do we decide what the specific features and expectations are of the IETF network? (TBD)
 
 5. 1:50 - 2:00 -- Wrap-up & Next Steps
 * 5 mins - Wrap-up (Jason Livingood)
