@@ -1,19 +1,34 @@
 # Name: Future IETF Meeting Network Requirements
 ## Description 
-The IETF has completed the second IASA2 retrospective. That report contained an action item on this, and this BoF is intended to take the next step on that.
+For many years, the IETF has provided its own network at IETF meetings, operated by the IETF Network Operations Center (NOC), which is staffed by a mix of contractors and IETF community volunteers. This network is now a required feature, as documented in BCP 226 and is vital to the standards process as any onsite failure can significantly reduce the output of an IETF meeting. Providing this network and the associated remote participation service is a significant undertaking, both in onsite resources and the financial cost of ~$900k per year. Most of the equipment is donated by sponsors, saving us ~$1.5m in capital costs.
 
-Operating the network to support an IETF meeting is a significant undertaking and is
-at the core of people's meeting experience. Today, we rely on some contractors to
-lead the deployment and operation of the network, supported by volunteers from the
-IETF community. There are a range of costs that are associated with the meeting
-network, some of which may be related to supporting things that the community does
-not want or need. Alternatively, there may be things the network does not provide
-that the community would like to add.
+The time is now right for a fundamental re-examination of the requirements for an IETF network and the best way to deliver that. This conclusion is supported both by the report from the second IASA2 retrospective, which has an action to address this, and work within the NOC/LLC to determine the future management structure. This BoF is intended to begin this process, looking solely at the high-level issues and not getting into technical details.
 
-It seems like this is a good opportunity to convene a BoF session to discuss the
-community's future expectations for the meeting network. These expectations can
-then be used to create technical requirements that the IETF meeting network team can
-consider for future meetings.
+The key questions to be answered are:
+
+1. What is the purpose of the IETF network?
+    * Just a conference network?
+    * A showcase for the quality of our standards?
+    * A platform for experimentation and development of new protocols?
+    * A test of the cutting edge?
+2. What networks need to be provided where?
+    * All of the networks across the whole venue or specific networks in limited areas?
+    * Do we still need an IETF network in the main hotel(s)?
+3. Who/how do we decide what the specific features and expectations are of the IETF network?
+    * For reference only, as this is too detailed for this BoF, these expectations could include:
+        * Uptime/reliability
+        * Speed/latency
+        * Coverage
+        * Device age/variety
+        * Privacy vs monitoring data
+        * Specific protocols
+        * Geo-location of the address block
+4. What is the best NOC to deliver this?
+    * All contractors or the current mix of contractors and volunteers?
+    * Volunteers as the bridge between the NOC and the IETF community?
+5. How is the NOC "managed"?
+    * How does the NOC relate to the volunteer IETF leadership structure (i.e. the IESG) or is it solely a contracted function under the LLC?
+    * How are the volunteers found, selected and managed?
 
 ## Required Details
 - Status: (not) WG Forming
@@ -32,22 +47,40 @@ Not applicable - this is an administrative BoF
 ## Agenda
 1. 0:00 - 0:10 -- Welcome and Note Well
 
-2. 0:10 - 0:45 -- Problem Statement
-* 15 Mins - Jay Daly - Detailed overview of all meeting costs
-* 15 Mins - Sean Croghan - Overview of how the network is setup and operated
-* 5 Mins - Name TBD - Current meeting network requirements 
+2. 0:10 - 0:50 -- Current state
+* 15 Mins - The IETF Network, what is provided and how (Joe Clarke)
+    * The different networks
+    * The kit
+    * External connectivity and addressing
+    * Monitoring, data collection and deletion
+* 15 Mins - Brief history of the NOC, current structure and how it operates (Sean Croghan)
+    * The Jim era
+    * Volunteers, Linespeed, Meetecho and their roles
+    * Site visits, pre-meeting venue visits
+    * Meeting setup, meeting operations, helpdesk, teardown
+    * In-between meeting calls, equipment management, strategic retreats
+* 10 Mins - Process by which the NOC decides what it provides (TBD)
 
-3. 0:45 - 1:40 -- Exploring the Future
-* 5 Mins - Name TBD - Wired network & upstream connectivity
-* 10 Mins - Name TBD - Wireless LAN
-* 10 Mins - Name TBD - Hackathon network
-* 10 Mins - Name TBD - Protocol experiments
-* 10 Mins - Name TBD - User problem reporting & transparency
-* 10 Mins - Name TBD - Live network dashboard & post-meeting assessment
+3. 0:50 - 1:50 - Key questions
+* 20 Mins - What is the purpose of the IETF network? (TBD)
+    * Just a conference network?
+    * A showcase for the quality of our standards?
+    * A platform for experimentation and development of new protocols?
+    * A test of the cutting edge?
+* 20 Mins - What networks need to be provided where? (TBD)
+    * All of the networks across the whole venue or specific networks in limited areas?
+    * Do we still need an IETF network in the main hotel(s)?
+* 20 Mins - Who/how do we decide what the specific features and expectations are of the IETF network? (TBD)
+* 20 Mins - What is the best NOC to deliver this? (TBD)
+    * All contractors or the current mix of contractors and volunteers?
+    * Volunteers as the bridge between the NOC and the IETF community?
+* 20 Mins - How is the NOC "managed"? (TBD)
+    * How does the NOC relate to the volunteer IETF leadership structure (i.e. the IESG) or is it solely a contracted function under the LLC?
+    * How are the volunteers found, selected and managed?
 
-5. 1:40 - 2:00 -- Discussion & Next Steps
-* Open discussion
-* Explore consensus on alternatives to potentially take to wider community discussion or other next steps
+5. 1:50 - 2:00 -- Wrap-up & Next Steps
+* 5 mins - Wrap-up (Jason Livingood)
+* 5 mins - Explore consensus on alternatives to potentially take to wider community discussion or other next steps (Jason Livingood)
 
 ## Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc.
    - Mailing List: https://www.ietf.org/mailman/listinfo/admin-discuss
