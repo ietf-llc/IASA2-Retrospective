@@ -1,3 +1,5 @@
+# Deferred to IETF-123 or IETF-124
+
 # Name: Alternative Nomination Approaches for the IETF LLC & IETF Trust
 ## Description 
 The IETF has completed the second IASA2 retrospective. The first IASA2 retrospective (see pages 9 - 10) highlighted a concern over the
@@ -16,7 +18,7 @@ This BoF is intended to explain the problem to be potentially solved and discuss
 ## Required Details
 - Status: (not) WG Forming
 - Responsible AD: Roman Danyliw
-- BOF proponents: Jason Livingood <jason_livingood@comcast.com>, Sean Turner <sean@sn3rd.com>
+- BOF proponents: Shauna Turner 
 - Number of people expected to attend: 50
 - Length of session (1 or 2 hours): 2 hours
 - Conflicts (whole Areas and/or WGs)
@@ -31,7 +33,7 @@ Not applicable - this is an administrative BoF
 1. 0:00 - 0:10 -- Welcome and Note Well
 
 2. 0:10 - 1:10 -- Problem Statement
-* 20 Mins - Shauna Turner - Recent NomCom Liaison & LLC Nominee Experiences vs. Other Boards
+* 20 Mins - Name TBD - Recent NomCom Liaison & LLC Nominee Experiences vs. Other Boards
 * 20 Mins - Name TBD - Perspective from IETF Trust
 * 20 Mins - Name TBD - Read out of [Pre-Meeting Survey](https://github.com/ietf-llc/IASA2-Retrospective/blob/main/NomComAssessment/survey.md)
 
